@@ -1,0 +1,24 @@
+{
+  "name": "thinking",
+  "version": "1.0.0",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "prestart": "node update.js",
+    "start": "docsify serve docs",
+    "predeploy": "node update.js",
+    "deploy": "git add -A && git commit -am'update' && git push -f origin master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tomotoes/thinking.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tomotoes/thinking/issues"
+  },
+  "homepage": "https://github.com/Tomotoes/thinking#readme"
+}
