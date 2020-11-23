@@ -1,0 +1,1 @@
+1. java 1.8 的 nio 在windows、linux、macosx、solaris上的实现分别用的是select、epoll、kqueue、poll。 

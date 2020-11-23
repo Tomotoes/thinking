@@ -1,22 +1,21 @@
 const fs = require('fs')
 const path = require('path')
 
-const baseDir = './docs/'
-const output = baseDir + '_sidebar.md'
-const INDENT = '  '
+const generateArchivesData = () => {
+  const baseDir = './docs/Archives/'
+  const INDENT = '  '
 
-const getFilteredFileList = dir => {
-  const fileList = fs.readdirSync(dir)
-    .map(p => ({ path: path.join(dir, p), title: Number.parseInt(p) }))
-    .filter(p => fs.statSync(p.path).isDirectory() && /\d+/.test(p.title))
+  const getFilteredFileList = dir => {
+    const fileList = fs.readdirSync(dir)
+      .map(p => ({ path: path.join(dir, p), title: Number.parseInt(p) }))
+      .filter(p => fs.statSync(p.path).isDirectory() && /\d+/.test(p.title))
 
-  fileList.sort((a, b) => b.title - a.title)
+    fileList.sort((a, b) => b.title - a.title)
 
-  return fileList
-}
+    return fileList
+  }
 
-const generateSidebarData = baseDir => {
-  let md = ''
+  let md = '* Archives\n'
 
   const yearList = getFilteredFileList(baseDir)
   if (!yearList.length) { return }
@@ -25,10 +24,10 @@ const generateSidebarData = baseDir => {
     const monthList = getFilteredFileList(year.path)
     if (!monthList.length) { return }
 
-    md += `* ${year.title}\n`
+    md += `${INDENT}* ${year.title}\n`
 
     monthList.forEach(month => {
-      md += `${INDENT}* ${month.title}\n`
+      md += `${INDENT.repeat(2)}* ${month.title}\n`
 
       const dayList = fs.readdirSync(month.path)
         .map(p => ({ path: path.join(month.path, p), title: Number.parseInt(p) }))
@@ -38,15 +37,51 @@ const generateSidebarData = baseDir => {
       if (!dayList.length) { return }
 
       dayList.forEach(day => {
-        const url = `${year.title}/${month.title}/${day.title}`
-        md += `${INDENT.repeat(2)}* [${day.title}](${url})\n`
+        const url = `Archives/${year.title}/${month.title}/${day.title}`
+        md += `${INDENT.repeat(3)}* [${day.title}](${url})\n`
       })
+    })
+
+  })
+
+  return md
+}
+
+const generateTagsData = () => {
+  const baseDir = './docs/Tags/'
+  const INDENT = '  '
+  let md = '* Tags\n'
+
+  const tagList = fs.readdirSync(baseDir)
+    .map(p => ({ path: path.join(baseDir, p), title: p }))
+    .filter(p => fs.statSync(p.path).isDirectory())
+
+  if (!tagList.length) { return }
+
+  tagList.forEach(tag => {
+    const fileList = fs.readdirSync(tag.path)
+      .map(p => ({ path: path.join(tag.path, p), title: p }))
+      .filter(p => !fs.statSync(p.path).isDirectory() && !p.title.startsWith('.~'))
+
+    if (!fileList.length) { return }
+
+    md += `${INDENT}* ${tag.title}\n`
+
+    fileList.forEach(file => {
+      const url = `Tags/${tag.title}/${file.title.replace('.md', '')}`
+      md += `${INDENT.repeat(2)}* [${file.title}](${url})\n`
     })
   })
 
   return md
 }
 
-const data = generateSidebarData(baseDir)
+const generateSidebarData = () => {
+  return generateTagsData() + generateArchivesData()
+}
+
+const output = 'docs/_sidebar.md'
+
+const data = generateSidebarData()
 
 fs.writeFileSync(output, data)
