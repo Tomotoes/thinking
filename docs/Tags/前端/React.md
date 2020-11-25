@@ -11,3 +11,5 @@
    对 React Hooks 有兴趣的同学可以了解下，其中的原理是使用到了闭包。
    
 3. 为什么 React 源码不用 TypeScript 来写？ - Cat Chen的回答 - 知乎 https://www.zhihu.com/question/378470381/answer/1079675543
+
+4. `const React = state => view`
