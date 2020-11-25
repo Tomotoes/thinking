@@ -1,6 +1,4 @@
 * Tags
-  * Java
-    * [IO机制.md](Tags/Java/IO机制)
   * Talk
     * [分享.md](Tags/Talk/分享)
   * coding
@@ -17,6 +15,8 @@
     * [性能优化.md](Tags/前端/性能优化)
     * [浏览器.md](Tags/前端/浏览器)
     * [规划.md](Tags/前端/规划)
+  * 图像
+    * [分享.md](Tags/图像/分享)
   * 安全
     * [分享.md](Tags/安全/分享)
   * 工作
@@ -38,9 +38,10 @@
     * [分享.md](Tags/移动端/分享)
   * 编程语言
     * [CSharp.md](Tags/编程语言/CSharp)
+    * [Java.md](Tags/编程语言/Java)
     * [Kotlin.md](Tags/编程语言/Kotlin)
     * [TypeScript.md](Tags/编程语言/TypeScript)
-    * [设计.md](Tags/编程语言/设计)
+    * [分享.md](Tags/编程语言/分享)
   * 网络
     * [分享.md](Tags/网络/分享)
   * 设计
@@ -48,6 +49,7 @@
 * Archives
   * 2020
     * 11
+      * [24](Archives/2020/11/24)
       * [22](Archives/2020/11/22)
       * [21](Archives/2020/11/21)
       * [20](Archives/2020/11/20)
