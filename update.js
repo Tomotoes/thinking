@@ -1,8 +1,8 @@
 const fs = require('fs')
 const path = require('path')
 
-const generateArchivesData = baseDir => {
-  const INDENT = '  '
+const generateArchivesData = (baseDir, initialValue, INDENT = '  ') => {
+  let md = initialValue
 
   const getFilteredFileList = dir => {
     const fileList = fs.readdirSync(dir)
@@ -13,8 +13,6 @@ const generateArchivesData = baseDir => {
 
     return fileList
   }
-
-  let md = '* Archives\n'
 
   const yearList = getFilteredFileList(baseDir)
   if (!yearList.length) { return }
@@ -46,9 +44,8 @@ const generateArchivesData = baseDir => {
   return md
 }
 
-const generateTagsData = baseDir => {
-  const INDENT = '  '
-  let md = '* Tags\n'
+const generateTagsData = (baseDir, initialValue, INDENT = '  ') => {
+  let md = initialValue
 
   const tagList = fs.readdirSync(baseDir)
     .map(p => ({ path: path.join(baseDir, p), title: p }))
@@ -75,7 +72,9 @@ const generateTagsData = baseDir => {
 }
 
 const generateSidebarData = () => {
-  return generateTagsData('./docs/Tags/') + generateArchivesData('./docs/Archives/')
+  const tagsData = generateTagsData('./docs/Tags/', '* Tags\n')
+  const archivesData = generateArchivesData('./docs/Archives/', '* Archives\n')
+  return tagsData + archivesData
 }
 
 const output = 'docs/_sidebar.md'
