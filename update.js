@@ -1,8 +1,7 @@
 const fs = require('fs')
 const path = require('path')
 
-const generateArchivesData = () => {
-  const baseDir = './docs/Archives/'
+const generateArchivesData = baseDir => {
   const INDENT = '  '
 
   const getFilteredFileList = dir => {
@@ -47,8 +46,7 @@ const generateArchivesData = () => {
   return md
 }
 
-const generateTagsData = () => {
-  const baseDir = './docs/Tags/'
+const generateTagsData = baseDir => {
   const INDENT = '  '
   let md = '* Tags\n'
 
@@ -60,7 +58,7 @@ const generateTagsData = () => {
 
   tagList.forEach(tag => {
     const fileList = fs.readdirSync(tag.path)
-      .map(p => ({ path: path.join(tag.path, p), title: p }))
+      .map(p => ({ path: path.join(tag.path, p), title: p.replace('.md', '') }))
       .filter(p => !fs.statSync(p.path).isDirectory() && !p.title.startsWith('.~'))
 
     if (!fileList.length) { return }
@@ -68,7 +66,7 @@ const generateTagsData = () => {
     md += `${INDENT}* ${tag.title}\n`
 
     fileList.forEach(file => {
-      const url = `Tags/${tag.title}/${file.title.replace('.md', '')}`
+      const url = `Tags/${tag.title}/${file.title}`
       md += `${INDENT.repeat(2)}* [${file.title}](${url})\n`
     })
   })
@@ -77,7 +75,7 @@ const generateTagsData = () => {
 }
 
 const generateSidebarData = () => {
-  return generateTagsData() + generateArchivesData()
+  return generateTagsData('./docs/Tags/') + generateArchivesData('./docs/Archives/')
 }
 
 const output = 'docs/_sidebar.md'

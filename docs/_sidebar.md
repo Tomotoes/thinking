@@ -1,53 +1,53 @@
 * Tags
   * Talk
-    * [分享.md](Tags/Talk/分享)
+    * [分享](Tags/Talk/分享)
   * coding
-    * [分享.md](Tags/coding/分享)
+    * [分享](Tags/coding/分享)
   * 互联网
-    * [分享.md](Tags/互联网/分享)
+    * [分享](Tags/互联网/分享)
   * 信息安全
-    * [分享.md](Tags/信息安全/分享)
+    * [分享](Tags/信息安全/分享)
   * 前端
-    * [CSS.md](Tags/前端/CSS)
-    * [JavaScript.md](Tags/前端/JavaScript)
-    * [Question.md](Tags/前端/Question)
-    * [React.md](Tags/前端/React)
-    * [分享.md](Tags/前端/分享)
-    * [图像.md](Tags/前端/图像)
-    * [性能优化.md](Tags/前端/性能优化)
-    * [浏览器.md](Tags/前端/浏览器)
-    * [规划.md](Tags/前端/规划)
+    * [CSS](Tags/前端/CSS)
+    * [JavaScript](Tags/前端/JavaScript)
+    * [Question](Tags/前端/Question)
+    * [React](Tags/前端/React)
+    * [分享](Tags/前端/分享)
+    * [图像](Tags/前端/图像)
+    * [性能优化](Tags/前端/性能优化)
+    * [浏览器](Tags/前端/浏览器)
+    * [规划](Tags/前端/规划)
   * 图像
-    * [分享.md](Tags/图像/分享)
+    * [分享](Tags/图像/分享)
   * 安全
-    * [分享.md](Tags/安全/分享)
+    * [分享](Tags/安全/分享)
   * 工作
-    * [简历.md](Tags/工作/简历)
+    * [简历](Tags/工作/简历)
   * 操作系统
-    * [分享.md](Tags/操作系统/分享)
+    * [分享](Tags/操作系统/分享)
   * 数据库
-    * [SQL.md](Tags/数据库/SQL)
-    * [索引.md](Tags/数据库/索引)
+    * [SQL](Tags/数据库/SQL)
+    * [索引](Tags/数据库/索引)
   * 架构
-    * [分享.md](Tags/架构/分享)
+    * [分享](Tags/架构/分享)
   * 每日一句
-    * [分享.md](Tags/每日一句/分享)
+    * [分享](Tags/每日一句/分享)
   * 生活
-    * [分享.md](Tags/生活/分享)
+    * [分享](Tags/生活/分享)
   * 破梗
-    * [分享.md](Tags/破梗/分享)
+    * [分享](Tags/破梗/分享)
   * 移动端
-    * [分享.md](Tags/移动端/分享)
+    * [分享](Tags/移动端/分享)
   * 编程语言
-    * [CSharp.md](Tags/编程语言/CSharp)
-    * [Java.md](Tags/编程语言/Java)
-    * [Kotlin.md](Tags/编程语言/Kotlin)
-    * [TypeScript.md](Tags/编程语言/TypeScript)
-    * [分享.md](Tags/编程语言/分享)
+    * [CSharp](Tags/编程语言/CSharp)
+    * [Java](Tags/编程语言/Java)
+    * [Kotlin](Tags/编程语言/Kotlin)
+    * [TypeScript](Tags/编程语言/TypeScript)
+    * [分享](Tags/编程语言/分享)
   * 网络
-    * [分享.md](Tags/网络/分享)
+    * [分享](Tags/网络/分享)
   * 设计
-    * [分享.md](Tags/设计/分享)
+    * [分享](Tags/设计/分享)
 * Archives
   * 2020
     * 11
