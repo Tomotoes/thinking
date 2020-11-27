@@ -71,7 +71,7 @@ const generateTagsData = (baseDir, initialValue, INDENT = '  ') => {
   return md
 }
 
-const generateSidebarData = () => {
+const getSidebarData = () => {
   const tagsData = generateTagsData('./docs/Tags/', '* Tags\n')
   const archivesData = generateArchivesData('./docs/Archives/', '* Archives\n')
   return tagsData + archivesData
@@ -79,6 +79,6 @@ const generateSidebarData = () => {
 
 const output = 'docs/_sidebar.md'
 
-const data = generateSidebarData()
+const data = getSidebarData()
 
 fs.writeFileSync(output, data)
