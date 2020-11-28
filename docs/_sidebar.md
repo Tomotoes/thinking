@@ -23,8 +23,12 @@
     * [分享](Tags/安全/分享)
   * 工作
     * [简历](Tags/工作/简历)
+  * 开源
+    * [分享](Tags/开源/分享)
   * 操作系统
     * [分享](Tags/操作系统/分享)
+  * 故事
+    * [分享](Tags/故事/分享)
   * 数据库
     * [SQL](Tags/数据库/SQL)
     * [索引](Tags/数据库/索引)
@@ -32,6 +36,8 @@
     * [分享](Tags/架构/分享)
   * 每日一句
     * [分享](Tags/每日一句/分享)
+  * 环境
+    * [分享](Tags/环境/分享)
   * 生活
     * [分享](Tags/生活/分享)
   * 破梗
@@ -40,8 +46,11 @@
     * [分享](Tags/移动端/分享)
   * 编程语言
     * [CSharp](Tags/编程语言/CSharp)
+    * [Elm](Tags/编程语言/Elm)
     * [Java](Tags/编程语言/Java)
     * [Kotlin](Tags/编程语言/Kotlin)
+    * [PHP](Tags/编程语言/PHP)
+    * [Shell](Tags/编程语言/Shell)
     * [TypeScript](Tags/编程语言/TypeScript)
     * [分享](Tags/编程语言/分享)
   * 网络
@@ -51,6 +60,7 @@
 * Archives
   * 2020
     * 11
+      * [28](Archives/2020/11/28)
       * [27](Archives/2020/11/27)
       * [26](Archives/2020/11/26)
       * [25](Archives/2020/11/25)
