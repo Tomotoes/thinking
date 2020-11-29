@@ -45,3 +45,11 @@
 
    一份不可多得的 TS 学习指南（1.8W字）
    https://juejin.cn/post/6872111128135073806
+   
+6. 快餐文分享:
+
+   TypeScript 高级技巧
+
+   https://juejin.cn/post/6844903863791648782
+
+   文中的 demo 都挺有趣的。

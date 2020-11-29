@@ -13,3 +13,13 @@
 3. 为什么 React 源码不用 TypeScript 来写？ - Cat Chen的回答 - 知乎 https://www.zhihu.com/question/378470381/answer/1079675543
 
 4. `const React = state => view`
+
+5. 面试题分享:
+
+   reactjs-interview-questions
+
+   https://github.com/sudheerj/reactjs-interview-questions
+
+   摘要: List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+
+   前端同学可以有空刷一下, 此项目 star 近 9k 是我没想到的..

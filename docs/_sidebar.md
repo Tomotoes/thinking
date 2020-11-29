@@ -9,7 +9,6 @@
     * [分享](Tags/信息安全/分享)
   * 前端
     * [CSS](Tags/前端/CSS)
-    * [JavaScript](Tags/前端/JavaScript)
     * [Question](Tags/前端/Question)
     * [React](Tags/前端/React)
     * [分享](Tags/前端/分享)
@@ -44,11 +43,15 @@
     * [分享](Tags/破梗/分享)
   * 移动端
     * [分享](Tags/移动端/分享)
+  * 编码
+    * [分享](Tags/编码/分享)
   * 编程语言
     * [CSharp](Tags/编程语言/CSharp)
     * [Elm](Tags/编程语言/Elm)
     * [Java](Tags/编程语言/Java)
+    * [JavaScript](Tags/编程语言/JavaScript)
     * [Kotlin](Tags/编程语言/Kotlin)
+    * [Objective-C](Tags/编程语言/Objective-C)
     * [PHP](Tags/编程语言/PHP)
     * [Shell](Tags/编程语言/Shell)
     * [TypeScript](Tags/编程语言/TypeScript)
