@@ -1,8 +1,29 @@
+* Archives
+  * 2020
+    * 12
+      * [1](Archives/2020/12/1)
+    * 11
+      * [30](Archives/2020/11/30)
+      * [29](Archives/2020/11/29)
+      * [28](Archives/2020/11/28)
+      * [27](Archives/2020/11/27)
+      * [26](Archives/2020/11/26)
+      * [25](Archives/2020/11/25)
+      * [24](Archives/2020/11/24)
+      * [22](Archives/2020/11/22)
+      * [21](Archives/2020/11/21)
+      * [20](Archives/2020/11/20)
+      * [19](Archives/2020/11/19)
+      * [18](Archives/2020/11/18)
+      * [17](Archives/2020/11/17)
+      * [16](Archives/2020/11/16)
+      * [15](Archives/2020/11/15)
+      * [14](Archives/2020/11/14)
 * Tags
+  * Coding
+    * [分享](Tags/Coding/分享)
   * Talk
     * [分享](Tags/Talk/分享)
-  * coding
-    * [分享](Tags/coding/分享)
   * 互联网
     * [分享](Tags/互联网/分享)
   * 信息安全
@@ -24,6 +45,8 @@
     * [简历](Tags/工作/简历)
   * 开源
     * [分享](Tags/开源/分享)
+  * 心理
+    * [分享](Tags/心理/分享)
   * 操作系统
     * [分享](Tags/操作系统/分享)
   * 故事
@@ -48,6 +71,7 @@
   * 编程语言
     * [CSharp](Tags/编程语言/CSharp)
     * [Elm](Tags/编程语言/Elm)
+    * [Go](Tags/编程语言/Go)
     * [Java](Tags/编程语言/Java)
     * [JavaScript](Tags/编程语言/JavaScript)
     * [Kotlin](Tags/编程语言/Kotlin)
@@ -60,21 +84,3 @@
     * [分享](Tags/网络/分享)
   * 设计
     * [分享](Tags/设计/分享)
-* Archives
-  * 2020
-    * 11
-      * [29](Archives/2020/11/29)
-      * [28](Archives/2020/11/28)
-      * [27](Archives/2020/11/27)
-      * [26](Archives/2020/11/26)
-      * [25](Archives/2020/11/25)
-      * [24](Archives/2020/11/24)
-      * [22](Archives/2020/11/22)
-      * [21](Archives/2020/11/21)
-      * [20](Archives/2020/11/20)
-      * [19](Archives/2020/11/19)
-      * [18](Archives/2020/11/18)
-      * [17](Archives/2020/11/17)
-      * [16](Archives/2020/11/16)
-      * [15](Archives/2020/11/15)
-      * [14](Archives/2020/11/14)

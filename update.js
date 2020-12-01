@@ -74,7 +74,7 @@ const generateTagsData = (baseDir, initialValue, INDENT = '  ') => {
 const getSidebarData = () => {
   const tagsData = generateTagsData('./docs/Tags/', '* Tags\n')
   const archivesData = generateArchivesData('./docs/Archives/', '* Archives\n')
-  return tagsData + archivesData
+  return archivesData + tagsData
 }
 
 const output = 'docs/_sidebar.md'
