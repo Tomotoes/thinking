@@ -1,6 +1,7 @@
 * Archives
   * 2020
     * 12
+      * [2](Archives/2020/12/2)
       * [1](Archives/2020/12/1)
     * 11
       * [30](Archives/2020/11/30)
@@ -53,6 +54,7 @@
     * [分享](Tags/故事/分享)
   * 数据库
     * [SQL](Tags/数据库/SQL)
+    * [分享](Tags/数据库/分享)
     * [索引](Tags/数据库/索引)
   * 架构
     * [分享](Tags/架构/分享)
@@ -77,6 +79,7 @@
     * [Kotlin](Tags/编程语言/Kotlin)
     * [Objective-C](Tags/编程语言/Objective-C)
     * [PHP](Tags/编程语言/PHP)
+    * [Rust](Tags/编程语言/Rust)
     * [Shell](Tags/编程语言/Shell)
     * [TypeScript](Tags/编程语言/TypeScript)
     * [分享](Tags/编程语言/分享)
