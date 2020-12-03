@@ -1,6 +1,7 @@
 * Archives
   * 2020
     * 12
+      * [3](Archives/2020/12/3)
       * [2](Archives/2020/12/2)
       * [1](Archives/2020/12/1)
     * 11
@@ -23,6 +24,8 @@
 * Tags
   * Coding
     * [分享](Tags/Coding/分享)
+  * Deno
+    * [分享](Tags/Deno/分享)
   * Talk
     * [分享](Tags/Talk/分享)
   * 互联网
@@ -80,6 +83,7 @@
     * [Objective-C](Tags/编程语言/Objective-C)
     * [PHP](Tags/编程语言/PHP)
     * [Rust](Tags/编程语言/Rust)
+    * [SQL](Tags/编程语言/SQL)
     * [Shell](Tags/编程语言/Shell)
     * [TypeScript](Tags/编程语言/TypeScript)
     * [分享](Tags/编程语言/分享)

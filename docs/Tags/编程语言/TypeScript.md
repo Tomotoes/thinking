@@ -53,3 +53,12 @@
    https://juejin.cn/post/6844903863791648782
 
    文中的 demo 都挺有趣的。
+   
+7. 日常分享 TS 代码片段:
+
+   ```ts
+   type Whitespace = ' ' | '\n' | '\r' | '\t'
+   
+   type TrimStart<S extends string, P extends string = Whitespace> =
+     S extends `${P}${infer R}` ? TrimStart<R, P> : S
+   ```
