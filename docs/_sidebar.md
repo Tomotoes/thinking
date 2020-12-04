@@ -1,6 +1,7 @@
 * Archives
   * 2020
     * 12
+      * [4](Archives/2020/12/4)
       * [3](Archives/2020/12/3)
       * [2](Archives/2020/12/2)
       * [1](Archives/2020/12/1)

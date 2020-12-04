@@ -56,3 +56,13 @@
       我就简单多了
    
       ![image-20201202194044134](docs/image-20201202194044134.png)
+      
+   4. 快餐文分享:
+   
+      Defensive BASH Programming
+   
+      https://kfirlavi.herokuapp.com/blog/2012/11/14/defensive-bash-programming/
+      摘要: Here is my Katas for creating BASH programs that work. Nothing is new here, but from my experience pepole like to abuse BASH, forget computer science and create a [Big ball of mud](http://en.wikipedia.org/wiki/Big_ball_of_mud) from their programs.
+      Here I provide methods to defend your programs from braking, and keep the code tidy and clean.
+   
+      由于 Shell 的糟糕设计, 作者提出了 防御性编程规范...
