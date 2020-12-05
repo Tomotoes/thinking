@@ -13,3 +13,12 @@
    https://advancedweb.hu/new-language-features-since-java-8-to-15/
 
    文章介绍了 Java 8 - 15 版本以来的新特性，并附有代码。
+   
+6. 项目分享:
+
+   hutool
+   https://github.com/looly/hutool
+
+   摘要: Hutool是一个小而全的Java工具类库，通过静态方法封装，降低相关API的学习成本，提高工作效率，使Java拥有函数式语言般的优雅，让Java语言也可以“甜甜的”。
+
+   之前看过此库的源码, 质量还行, 完全可以用作学习.

@@ -155,3 +155,42 @@
    ```
 
    文中部分示例来自[TypeScript 官网 - 高级类型](https://www.typescriptlang.org/docs/handbook/advanced-types.html)，面试题灵感来自[中国 LeetCode](https://github.com/LeetCode-OpenSource/hire/blob/master/typescript_zh.md?rgh-link-date=2020-04-13T15%3A04%3A56Z)，原题太绕且有 Redux 倾向，因此做了简单改造，基本思路一致甚至更全面。
+   
+9. 快餐文分享:
+
+   深入typescript类型系统(二): 泛型和类型元编程
+
+   https://zhuanlan.zhihu.com/p/96046788
+
+   摘要: 本文主要讨论Typescript的泛型设计和类型元编程能力。泛型和子类型几乎是正交的两个概念，当然两者也可以配合使用(Bounded Polymorphism)。
+
+   文章 Demo 质量都挺高的，建议刷下。
+   
+10. 日常分享 TypeScript 代码片段：
+
+    ```ts
+    type Split<S extends string, D extends string> =
+        string extends S ? string[] :
+        S extends '' ? [] :
+        S extends `${infer T}${D}${infer U}` ? [T, ...Split<U, D>] :
+        [S];
+    
+    type T40 = Split<'foo', '.'>;  // ['foo']
+    type T41 = Split<'foo.bar.baz', '.'>;  // ['foo', 'bar', 'baz']
+    type T42 = Split<'foo.bar', ''>;  // ['f', 'o', 'o', '.', 'b', 'a', 'r']
+    type T43 = Split<any, '.'>;  // string[]
+    ```
+
+11. ![image-20201204183530034](../../Archives/2020/12/docs/image-20201204183530034.png)
+
+    最近 我真的是被 TS 迷住了...
+
+    ```
+    [-1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20][Depth] , 做 递归下降
+    
+    Depth extends -1 ? "done" : "recur"  , hash做终止条件
+    
+    Arr extends ReadonlyArray<infer InnerArr> 做模式匹配..
+    ```
+
+    太酷了.. 打表去做递减, 真是第一次见到 这种用法...
