@@ -1,6 +1,7 @@
 * Archives
   * 2020
     * 12
+      * [7](Archives/2020/12/7)
       * [6](Archives/2020/12/6)
       * [5](Archives/2020/12/5)
       * [4](Archives/2020/12/4)
@@ -42,6 +43,7 @@
     * [Question](Tags/前端/Question)
     * [React](Tags/前端/React)
     * [Redux](Tags/前端/Redux)
+    * [Webassembly](Tags/前端/Webassembly)
     * [分享](Tags/前端/分享)
     * [图像](Tags/前端/图像)
     * [性能优化](Tags/前端/性能优化)
@@ -85,6 +87,7 @@
     * [CSharp](Tags/编程语言/CSharp)
     * [Elm](Tags/编程语言/Elm)
     * [Go](Tags/编程语言/Go)
+    * [Haskell](Tags/编程语言/Haskell)
     * [Java](Tags/编程语言/Java)
     * [JavaScript](Tags/编程语言/JavaScript)
     * [Kotlin](Tags/编程语言/Kotlin)
@@ -99,3 +102,5 @@
     * [分享](Tags/网络/分享)
   * 设计
     * [分享](Tags/设计/分享)
+  * 金融
+    * [分享](Tags/金融/分享)
