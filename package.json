@@ -8,7 +8,7 @@
     "prestart": "node update.js",
     "start": "docsify serve docs",
     "predeploy": "node update.js",
-    "deploy": "git add -A && git commit -am'update' && git push -f origin master"
+    "deploy": "node deploy.js"
   },
   "repository": {
     "type": "git",
