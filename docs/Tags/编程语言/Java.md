@@ -22,3 +22,13 @@
    摘要: Hutool是一个小而全的Java工具类库，通过静态方法封装，降低相关API的学习成本，提高工作效率，使Java拥有函数式语言般的优雅，让Java语言也可以“甜甜的”。
 
    之前看过此库的源码, 质量还行, 完全可以用作学习.
+   
+7. https://www.instagram.com/p/CIc2oBhAQBP/?igshid=1m9xm8cg43zy
+
+   主题: 为什么 Java 不是纯 OOP 语言。
+
+   我发现不管是哪种编程范式宗教，只要带上 纯 这个形容词，最后全沦为 white elephant..
+
+8. https://juejin.cn/post/6903678103483072520
+
+   本文介绍了 Java 中常见的语法糖，以及糖衣背后的样子。
