@@ -17,3 +17,10 @@
    https://mp.weixin.qq.com/s?__biz=MzAxMTA4Njc0OQ==&mid=2651442959&idx=3&sn=83882fbdc628e48d054c000d499be4f4
 
    与V8垃圾回收有异曲同工之妙。
+   
+4. Golang 主题分享:
+
+   Go2 泛型设计草案更新
+   https://v2ex.com/t/733860
+   泛型提案终于迭代了.. 
+   个人感觉这次提案的更新 挺赞的, 符合 Golang 大道至简的观念.

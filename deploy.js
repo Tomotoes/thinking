@@ -3,9 +3,7 @@ const child_process = require('child_process')
 const exec = command =>
   new Promise((resolve, reject) => {
     child_process.exec(command, (err, stout, stderr) => {
-      if (err) {
-        reject(err)
-      }
+      if (err) { return reject(err) }
       resolve(stout)
     })
   })
