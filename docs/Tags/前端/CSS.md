@@ -14,3 +14,11 @@
    摘要：Pseudo-elements are in use for a long time. However, there are some uses cases that I feel they are not entirely known across developers. I wrote down this article to shed light on them so they can be used more.
 
    作者用多个案例 介绍了 CSS 伪类的使用场景。
+   
+3. 分享一个练习 CSS-Flex 语法的游戏
+
+   https://flexboxfroggy.com/
+
+   一共24关, 通过写 Flex, 让小青蛙移动到合适的位置 即可过关.
+   
+4. ![image-20201212212132061](docs/image-20201212212132061.png)

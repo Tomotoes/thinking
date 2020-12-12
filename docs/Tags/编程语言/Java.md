@@ -32,3 +32,19 @@
 8. https://juejin.cn/post/6903678103483072520
 
    本文介绍了 Java 中常见的语法糖，以及糖衣背后的样子。
+   
+9. ![image-20201212211905498](docs/image-20201212211905498.png)
+
+   A: 分享下 Java8 Functional Interface 的设计
+
+   B: 这就是java8的特性吗
+
+   A: Java 8 最牛批的设计 就是 Functional Interface 了.. 借助它这个概念, 实现 lambda 语法, stream, 函数引用 .. 并且还没有违背 Java 的 OOP 设计原则...
+
+   C: 本质还是个interface嘛  像kotlin那样有函数类型就好了
+
+   A: Java8 内置了 多种 函数接口类型, 平常用 足够了  可惜 Java 只有类是第一成员... 
+
+      如果没有 这种设计 , 也不会有设计模式, 依赖注入各种营销术语..
+
+   C: 哈哈哈 确实

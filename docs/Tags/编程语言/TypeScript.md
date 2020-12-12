@@ -194,3 +194,27 @@
     ```
 
     太酷了.. 打表去做递减, 真是第一次见到 这种用法...
+    
+12. A: 我想用 数组的 length 生成一个 union type，比如 length = 4 -> type N = 0 | 1 | 2 | 3，这样有可能吗？
+
+    B: 我有一个绝妙的想法 吃完饭验证一下
+
+    A: 哈哈哈好！
+
+    C: 我看看..
+
+    D: **我也想看哈哈**
+
+    B:
+
+    ```ts
+    type Rua<Arr> = Exclude<keyof Arr, keyof (typeof [])>
+    
+    type A = Rua<[1,2,3]>
+    ```
+
+    能生成 字符串的union
+
+    A: `type ArrIndex<Arr> = Exclude<keyof Arr, keyof any[]>;`
+
+    C: 受教了~ 这个思路 牛批~

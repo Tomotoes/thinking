@@ -25,3 +25,5 @@
    前端同学可以有空刷一下, 此项目 star 近 9k 是我没想到的..
    
 6. 为什么 react 还比 vue 火？ - 阿白的回答 - 知乎 https://www.zhihu.com/question/51690331/answer/1112468309
+
+7. ![image-20201212212006821](docs/image-20201212212006821.png)
