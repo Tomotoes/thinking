@@ -218,3 +218,9 @@
     A: `type ArrIndex<Arr> = Exclude<keyof Arr, keyof any[]>;`
 
     C: 受教了~ 这个思路 牛批~
+    
+13. 文章分享:
+
+    https://github.com/microsoft/TypeScript/wiki/Performance
+
+    文章汇总了一些能提高 Typescript 编译性能的使用方法和配置技巧。
