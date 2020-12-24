@@ -27,15 +27,15 @@ const generateArchivesData = (baseDir, initialValue, INDENT = '  ') => {
       md += `${INDENT.repeat(2)}* ${month.title}\n`
 
       const dayList = fs.readdirSync(month.path)
-        .map(p => ({ path: path.join(month.path, p), title: Number.parseInt(p) }))
-        .filter(p => !fs.statSync(p.path).isDirectory() && p.path.endsWith('.md') && /\d+/.test(p.title))
+        .map(p => ({ path: path.join(month.path, p), title: p, date: Number.parseInt(p) }))
+        .filter(p => !fs.statSync(p.path).isDirectory() && p.path.endsWith('.md') && /^\d+(\-\d+)?\.md$/.test(p.title))
 
-      dayList.sort((a, b) => b.title - a.title)
+      dayList.sort((a, b) => b.date - a.date)
       if (!dayList.length) { return }
 
       dayList.forEach(day => {
         const url = `Archives/${year.title}/${month.title}/${day.title}`
-        md += `${INDENT.repeat(3)}* [${day.title}](${url})\n`
+        md += `${INDENT.repeat(3)}* [${day.title.replace('.md', '')}](${url})\n`
       })
     })
 
