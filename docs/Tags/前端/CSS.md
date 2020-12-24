@@ -28,3 +28,5 @@
    https://2020.stateofcss.com/
 
    CSS 在 2020 年使用现状统计，涉及到了 CSS 的一些特性、框架、规范。
+   
+6. [如何只使用CSS提升页面渲染速度](https://mp.weixin.qq.com/s/aPguK-dZr7JMA-s2OOFyjg)

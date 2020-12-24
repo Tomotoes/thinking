@@ -24,3 +24,7 @@
    https://v2ex.com/t/733860
    泛型提案终于迭代了.. 
    个人感觉这次提案的更新 挺赞的, 符合 Golang 大道至简的观念.
+   
+5. https://www.golangprograms.com/go-language/concurrency.html
+
+   快餐文分享，操作系统中经典案例的Golang实现，Demo 值得阅读。

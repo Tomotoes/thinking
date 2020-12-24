@@ -224,3 +224,9 @@
     https://github.com/microsoft/TypeScript/wiki/Performance
 
     文章汇总了一些能提高 Typescript 编译性能的使用方法和配置技巧。
+    
+14. 分享一个项目：
+    https://github.com/type-challenges/type-challenges
+    Collection of TypeScript type challenges with online judge
+
+    可做 TS 体操

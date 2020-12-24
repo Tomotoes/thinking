@@ -27,3 +27,23 @@
 6. 为什么 react 还比 vue 火？ - 阿白的回答 - 知乎 https://www.zhihu.com/question/51690331/answer/1112468309
 
 7. ![image-20201212212006821](docs/image-20201212212006821.png)
+
+8. 快餐文分享: [使用 hooks 的开发模式](https://github.com/dt-fe/weekly/blob/v2/080.%E7%B2%BE%E8%AF%BB%E3%80%8A%E6%80%8E%E4%B9%88%E7%94%A8%20React%20Hooks%20%E9%80%A0%E8%BD%AE%E5%AD%90%E3%80%8B.md)
+
+9. ![image-20201224233406549](docs/image-20201224233406549.png)
+
+   ​	A: 这条推笑死了, 未来的 React 编程方式.
+
+   ​	B: hahah 未来 react 的全栈吗
+
+   ​	A: 我看到这图的第一想法是, 这敢上线 数据库不分分钟被打穿.
+
+   ​		Dan 发的, 我觉得有可能 hah
+   
+10. [React RFC Server Components是什么，有啥用](https://mp.weixin.qq.com/s/7AT5iNaJyRdAKaE3Rr321w)
+
+    A: 这前后端 合久必分，分久必合..
+
+    B: 快进到react全栈
+
+    A: 做个BFF层还是不错的
