@@ -57,7 +57,7 @@
 * [Archives](archives/README.md)
   * [2020](archives/2020/README.md)
     * [12](archives/2020/12/README.md)
-      * [25-00](archives/2020/12/25-00.md)
+      * [NOW](archives/2020/12/now.md)
       * [17-24](archives/2020/12/17-24.md)
       * [10](archives/2020/12/10.md)
       * [9](archives/2020/12/9.md)
