@@ -1,7 +1,7 @@
 * Archives
   * 2020
     * 12
-      * [18](Archives/2020/12/18.md)
+      * [25-00](Archives/2020/12/25-00.md)
       * [17-24](Archives/2020/12/17-24.md)
       * [16](Archives/2020/12/16.md)
       * [15](Archives/2020/12/15.md)
