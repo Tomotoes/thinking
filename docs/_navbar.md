@@ -1,9 +1,0 @@
-* 导航
-  * [仓库](https://github.com/Tomotoes/thinking/)
-  * [主页](https://tomotoes.com/)
-  * [博客](https://tomotoes.com/blog/)
-  * [关于](https://tomotoes.com/about/)
-  * [微博](https://tomotoes.com/blog/weibo/)
-  * [相册](https://tomotoes.com/gallery/)
-  * [Github](https://github.com/Tomotoes)
-  * [Twitter](https://twitter.com/simon_aking)

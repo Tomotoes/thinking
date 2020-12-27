@@ -14,9 +14,9 @@
 
    并发方面: Ruby 的实现居然是 Erlang 的 Actor-model 方案, 这就有点意思了
 
-   ​ 并且对于 block 操作, Ruby 还引入了 Fiber Scheduler 设计..
+    并且对于 block 操作, Ruby 还引入了 Fiber Scheduler 设计..
 
-   ​ 哈哈, async await 的思想算是现代语言标配了
+    哈哈, async await 的思想算是现代语言标配了
 
    其余信息可以查阅上面链接~
 
@@ -156,4 +156,6 @@
 
    摘要: Over the last several years, the way I write CSS has transitioned from a very "semantic" approach to something much more like what is often called "functional CSS."  
    这篇文章介绍了 HTML-CSS 编写的多种范式 以及 各种范式之间的差异与感触.本文的作者同时也是 TailWind CSS 的作者, 值得一读. 说实话 我几乎没有思考过 CSS HTML 之间的依赖, 一直按照文中的第一种 或者 BEM 规范去写, 原来它们之间一直没有做到 关注点分离, 一直存在依赖. 不过 现在 CSS IN JS, CSS Module 方案已经从编译方面打开了新出路
+   
+9. ![img](assets/image.png)
 

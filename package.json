@@ -5,9 +5,6 @@
     "doc": "docs"
   },
   "scripts": {
-    "prestart": "node update.js",
-    "start": "docsify serve docs",
-    "predeploy": "node update.js",
     "deploy": "node deploy.js"
   },
   "repository": {
@@ -20,5 +17,5 @@
   "bugs": {
     "url": "https://github.com/Tomotoes/thinking/issues"
   },
-  "homepage": "https://github.com/Tomotoes/thinking#readme"
+  "homepage": "https://thinking.tomotoes.com/"
 }
