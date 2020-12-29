@@ -30,7 +30,7 @@
 
    本文介绍了 Java 中常见的语法糖，以及糖衣背后的样子。
 
-9. ![image-20201212211905498](../../.gitbook/assets/image-20201212211905498%20%281%29.png)
+9. ![image-20201212211905498](../../.gitbook/assets/image-20201212211905498%20%281%29%20%281%29.png)
 
    A: 分享下 Java8 Functional Interface 的设计
 

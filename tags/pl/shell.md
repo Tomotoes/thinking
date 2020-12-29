@@ -52,11 +52,11 @@
 
       例：`chmod 777 .bashrc` =&gt; -rwxrwxrwx
 
-   3. ![image-20201202194022778](../../.gitbook/assets/image-20201202194022778.png)
+   3. ![image-20201202194022778](../../.gitbook/assets/image-20201202194022778%20%281%29.png)
 
       我就简单多了
 
-      ![image-20201202194044134](../../.gitbook/assets/image-20201202194044134.png)
+      ![image-20201202194044134](../../.gitbook/assets/image-20201202194044134%20%281%29.png)
 
    4. 快餐文分享:
 

@@ -19,7 +19,7 @@
 
    LeetCode 官方面试题集锦，前端同学有空可以看一下。
 
-7. ![image-20201207230402682](../../.gitbook/assets/image-20201207230402682.png)
+7. ![image-20201207230402682](../../.gitbook/assets/image-20201207230402682%20%281%29.png)
 
    【Mannequin.js: An Articulated Mannequin Figure Library】[https://boytchev.github.io/mannequin.js/](https://boytchev.github.io/mannequin.js/)
 

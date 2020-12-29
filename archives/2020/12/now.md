@@ -1,3 +1,7 @@
+---
+description: NOW页面 里的信息暂未分类
+---
+
 # NOW
 
 1. 快餐文分享:
@@ -14,9 +18,9 @@
 
    并发方面: Ruby 的实现居然是 Erlang 的 Actor-model 方案, 这就有点意思了
 
-    并且对于 block 操作, Ruby 还引入了 Fiber Scheduler 设计..
+   并且对于 block 操作, Ruby 还引入了 Fiber Scheduler 设计..
 
-    哈哈, async await 的思想算是现代语言标配了
+   哈哈, async await 的思想算是现代语言标配了
 
    其余信息可以查阅上面链接~
 
@@ -156,6 +160,51 @@
 
    摘要: Over the last several years, the way I write CSS has transitioned from a very "semantic" approach to something much more like what is often called "functional CSS."  
    这篇文章介绍了 HTML-CSS 编写的多种范式 以及 各种范式之间的差异与感触.本文的作者同时也是 TailWind CSS 的作者, 值得一读. 说实话 我几乎没有思考过 CSS HTML 之间的依赖, 一直按照文中的第一种 或者 BEM 规范去写, 原来它们之间一直没有做到 关注点分离, 一直存在依赖. 不过 现在 CSS IN JS, CSS Module 方案已经从编译方面打开了新出路
-   
-9. ![img](assets/image.png)
+
+9. ![img](../../../.gitbook/assets/image.png)
+10. [你不好奇 Linux 是如何收发网络包的？](https://zhuanlan.zhihu.com/p/339698383?utm_source=wechat_session&utm_medium=social&utm_oi=1088870436204318720&utm_campaign=shareopn)
+11. 这帖子绝对是来搞事情的 [https://www.reddit.com/r/linux/comments/kkv8kq/my\_boyfriend\_is\_very\_into\_linux\_i\_know\_nothing/?utm\_medium=android\_app&utm\_source=share](https://www.reddit.com/r/linux/comments/kkv8kq/my_boyfriend_is_very_into_linux_i_know_nothing/?utm_medium=android_app&utm_source=share)
+
+![](../../../.gitbook/assets/image%20%284%29.png)
+
+VIM 学习资源分享:   
+[https://github.com/wsdjeg/vim-galore-zh\_cn](https://github.com/wsdjeg/vim-galore-zh_cn)   
+[https://www.kancloud.cn/kancloud/learn-vimscript-the-hard-way/49321](https://www.kancloud.cn/kancloud/learn-vimscript-the-hard-way/49321)   
+[https://vimjc.com/page/11/](https://vimjc.com/page/11/)   
+[https://www.jianshu.com/p/42ef98846b11](https://www.jianshu.com/p/42ef98846b11)  
+[https://vim.rtorr.com/lang/zh\_cn/](https://vim.rtorr.com/lang/zh_cn/)  
+[https://vimawesome.com/](https://vimawesome.com/)  
+[https://coolshell.cn/articles/5426.html](https://coolshell.cn/articles/5426.html)  
+[https://juejin.cn/post/6844903470953136142](https://juejin.cn/post/6844903470953136142)  
+[https://juejin.cn/post/6844903444164116493](https://juejin.cn/post/6844903444164116493)   
+[https://juejin.cn/post/6844903469564821511](https://juejin.cn/post/6844903469564821511)  
+[https://tomotoes.com/blog/order-of-vim-cultivation-cheats/](https://tomotoes.com/blog/order-of-vim-cultivation-cheats/)  
+[https://tomotoes.com/blog/grammar-of-vim-cultivation-cheats/](https://tomotoes.com/blog/grammar-of-vim-cultivation-cheats/)  
+还有一本 《 Vim 实战技巧 》--- Drew Neil  
+后面两个文章 是我写的, hah 不建议读, 废话太多
+
+```text
+练习的话, 记得设置下 以下命令在 vimrc
+ inoremap <down> <nop>
+ nnoremap <down> <nop>
+ inoremap <left> <nop>
+ nnoremap <left> <nop>
+ inoremap <right> <nop>
+ nnoremap <right> <nop>
+```
+
+
+
+快餐文分享: Fetch API 教程 [http://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html](http://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html)
+
+灭霸打响指的源码: DELETE FROM people where rand\(\) &lt; 0.5
+
+快餐文分享:  
+[RxJS——给你如丝一般顺滑的编程体验（篇幅较长，建议收藏）](https://juejin.cn/post/6910943445569765384)  
+文章很长，大部分的篇幅都是在讲 rxjs 的一些概念与api，并没有结合实际场景，对rxjs感兴趣的同学可以了解下。  
+  
+好文分享: 字节跳动“全力跳动”：底层商业逻辑和第二增长曲线分析 [https://www.36kr.com/p/1021582816920324](https://www.36kr.com/p/1021582816920324)  
+摘要:天下武功，唯快不破。字节第一增长曲线的实践也是这一表达的最好证明。然而，物竞天择，适者生存，每个行业有其自身的行业发展规律和最适合的竞争策略。当字节引以为傲的算法、流量和快速商业化的“快模式”无法在有关行业形成降维打击时，遵循行业基本规律的打法可能是更合适的。文章写得很有深度，让我更看清了字节的发展上的一些问题，值得反复阅读。
+
+
 

@@ -1,7 +1,7 @@
 # Kotlin
 
 1. 在开发中使用Kotlin有什么奇巧淫技？ - 药罐子千里冰封的回答 - 知乎 [https://www.zhihu.com/question/61758585/answer/190783842](https://www.zhihu.com/question/61758585/answer/190783842)
-2. ![image-20201224234712461](../../.gitbook/assets/image-20201224234712461%20%282%29.png)
+2. ![image-20201224234712461](../../.gitbook/assets/image-20201224234712461%20%282%29%20%282%29.png)
 
    Kotlin 1.4 新推出了一个关键字 tailrec , 可以使用它 去主动编译优化 尾调用的函数. [https://twitter.com/kotlin/status/1341749661175066624?s=20](https://twitter.com/kotlin/status/1341749661175066624?s=20)
 

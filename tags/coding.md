@@ -7,7 +7,7 @@
 
    教你如何写干净的代码, 文章中的思想,技巧 总结得还是很全面的. 另: 学习不要被编程语言限制, 要有个做科学家的心.
 
-3. ![image-20201122150510146](../.gitbook/assets/image-20201122150510146%20%283%29.png)
+3. ![image-20201122150510146](../.gitbook/assets/image-20201122150510146%20%283%29%20%281%29.png)
 4. 函数式编程是否适用于超大型项目？ - 灵剑的回答 - 知乎 [https://www.zhihu.com/question/340251796/answer/791560176](https://www.zhihu.com/question/340251796/answer/791560176)
 5. 快餐文分享：
 
@@ -26,7 +26,7 @@
 8. 怎么深刻理解面向切面编程？ - invalid s的回答 - 知乎 [https://www.zhihu.com/question/61441658/answer/1603120111](https://www.zhihu.com/question/61441658/answer/1603120111)
 9. 分享一个代码优化技巧：
 
-   如何将优化双分支的代码？ ![image-20201203162454394](../.gitbook/assets/image-20201203162454394%20%282%29.png)
+   如何将优化双分支的代码？ ![image-20201203162454394](../.gitbook/assets/image-20201203162454394%20%282%29%20%282%29.png)
 
    `condition ? A : B` 在大多数弱类型语言中可转换为 `[A, B][condition]`
 

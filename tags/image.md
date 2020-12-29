@@ -1,6 +1,6 @@
 # Image
 
-1. ![&#x56FE;&#x50CF;](../.gitbook/assets/EnglzPaVkAAkV6b.jpeg)
+1. ![&#x56FE;&#x50CF;](../.gitbook/assets/EnglzPaVkAAkV6b%20%281%29.jpeg)
 2. 图片分享:
 
    [https://www.behance.net/gallery/106497393/Walking-the-Dog](https://www.behance.net/gallery/106497393/Walking-the-Dog)
@@ -11,7 +11,7 @@
 
       图片分享: Ruins-14-abandoned-Abandoned-house [https://www.behance.net/gallery/107115063/Ruins-14-abandoned-Abandoned-house](https://www.behance.net/gallery/107115063/Ruins-14-abandoned-Abandoned-house) 阳光依旧，但已人去楼空。
 
-   2. ![image-20201204153710651](../.gitbook/assets/image-20201204153710651-1607137484407%20%281%29.png)
+   2. ![image-20201204153710651](../.gitbook/assets/image-20201204153710651-1607137484407%20%281%29%20%281%29.png)
 
       图像分享: 新冠 ICU 里 病人与家属做临终告别时用的 iPad。
 

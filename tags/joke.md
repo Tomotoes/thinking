@@ -5,11 +5,11 @@
 3. 如果你们想要自创一个编程语言，你们希望它有什么特色? - doodlewind的回答 - 知乎 [https://www.zhihu.com/question/393746244/answer/1223160359](https://www.zhihu.com/question/393746244/answer/1223160359)
 4. ![image-20201122150746995](../.gitbook/assets/image-20201122150746995%20%282%29.png)
 5. 前端同事被富婆包养了，在深圳买了房，他代码技术远不如我，现在心里很不平衡，如何调节自己？ - Kirin的回答 - 知乎 [https://www.zhihu.com/question/410103878/answer/1368279611](https://www.zhihu.com/question/410103878/answer/1368279611)
-6. ![image-20201122151814869](../.gitbook/assets/image-20201122151814869-1606030792112%20%282%29.png)
+6. ![image-20201122151814869](../.gitbook/assets/image-20201122151814869-1606030792112%20%282%29%20%282%29.png)
 7. 俄罗斯轮盘赌，有人要玩吗？ `[[$RANDOM % 6 ] == 0] && sudo rm -rf / || echo "LuckyBoy"`
 8. 每日一句分享： 群友: 为什么我的室友码代码的时候时常要发出"嘶..嘶"的声音? 沙雕群友: 因为他在写 python
 9. 女拳主义与 Github 的故事 [https://github.com/CNwoman-bot/evil-man](https://github.com/CNwoman-bot/evil-man)
-10. ![image-20201126104743183](../.gitbook/assets/image-20201126104743183%20%281%29.png)
+10. ![image-20201126104743183](../.gitbook/assets/image-20201126104743183%20%282%29%20%281%29.png)
 11. 恭喜您被选为CSDN插件内测用户：点此领取福利
 
     [https://mp.weixin.qq.com/s?\_\_biz=MjM5MjAwODM4MA==&mid=2650797670&idx=1&sn=d01b39c3737026b8f4c83ad7112dd6d1](https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=2650797670&idx=1&sn=d01b39c3737026b8f4c83ad7112dd6d1)
@@ -38,20 +38,20 @@
     老婆跟老婆饼的关系
     ```
 
-13. ![Post image](../.gitbook/assets/b2lbeeq3e2361%20%282%29.png)
+13. ![Post image](../.gitbook/assets/b2lbeeq3e2361%20%282%29%20%282%29.png)
 14. ![Post image](../.gitbook/assets/jp07eb7160361.png)
 15. ![Post image](../.gitbook/assets/qrb0a6rn7n261%20%282%29.jpg)
 
     hah 笑死我了
 
-16. ![image-20201204201929908](../.gitbook/assets/image-20201204201934561.png)
+16. ![image-20201204201929908](../.gitbook/assets/image-20201204201934561%20%282%29.png)
 
     [https://www.reddit.com/r/ProgrammerHumor/](https://www.reddit.com/r/ProgrammerHumor/)
 
     reddit ProgrammerHumor 这频道 里面好玩得太多了..
 
 17. ![image-20201207230440296](../.gitbook/assets/image-20201207230440296%20%282%29.png)
-18. ![image-20201209181417425](../.gitbook/assets/image-20201209181417425.png)
+18. ![image-20201209181417425](../.gitbook/assets/image-20201209181417425%20%281%29.png)
 19. ![image-20201212212136954](../.gitbook/assets/image-20201212212136954%20%282%29.png)
 20. 对 vanilla js 一致很迷惑。。直到 [https://stackoverflow.com/questions/20435653/what-is-vanillajs](https://stackoverflow.com/questions/20435653/what-is-vanillajs)
 
@@ -69,7 +69,7 @@
 
     A: hah 多元兼容 这就是字节范儿
 
-22. ![image-20201224234657849](../.gitbook/assets/image-20201224234657849%20%282%29.png)
+22. ![image-20201224234657849](../.gitbook/assets/image-20201224234657849%20%282%29%20%282%29.png)
 
     hah Server Side Rendering
 

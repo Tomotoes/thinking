@@ -6,7 +6,7 @@
 
    讲的很不错, 有空可以看看
 
-2. ![image-20201122150208414](../../.gitbook/assets/image-20201122150208414.png)
+2. ![image-20201122150208414](../../.gitbook/assets/image-20201122150208414%20%282%29%20%282%29.png)
 3. 好文分享:
 
    Inside look at modern web browser

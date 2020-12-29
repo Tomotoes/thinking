@@ -38,7 +38,7 @@
 
    rand2 代表的是一种对立布尔状态, rand5 则是 1-5 随机数 如果 rand2 === 1 那么就 返回 rand5, 否则就 5 + rand5
 
-   ![image-20201122200528263](../.gitbook/assets/image.png)
+   ![image-20201122200528263](../.gitbook/assets/image%20%281%29.png)
 
 4. A:Kotlin 她真的太美了。
 
@@ -110,11 +110,11 @@
 
    JS 完全可以借助 Proxy 实现内部DSL! 太酷了~
 
-   ![image-20201128213230810](../.gitbook/assets/image-20201128213230810.png)
+   ![image-20201128213230810](../.gitbook/assets/image-20201128213230810%20%282%29.png)
 
 7. A: 大佬们都是用什么来写博客的，readme？
 
-   B: ![image-20201203131909783](../.gitbook/assets/image-20201203131909783.png)
+   B: ![image-20201203131909783](../.gitbook/assets/image-20201203131909783%20%281%29.png)
 
    更新下，现在所以的子项目都是用 react 了。
 
@@ -138,7 +138,7 @@
 
    B: type Number = 1 \| 2 \| 3 \| 4 ...
 
-   A: ![image-20201209182027303](../.gitbook/assets/image-20201209182027303%20%282%29.png)
+   A: ![image-20201209182027303](../.gitbook/assets/image-20201209182027303%20%282%29%20%281%29.png)
 
    可选的不是1，2，3 为啥赋值为5还可以啊?
 
@@ -217,7 +217,7 @@
 
     A: 文言文編程語言 [https://github.com/wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan)
 
-    ![image-20201212212105825](../.gitbook/assets/image-20201212212105825.png)
+    ![image-20201212212105825](../.gitbook/assets/image-20201212212105825%20%281%29.png)
 
     B: woc 好牛逼hhh
 
@@ -276,7 +276,7 @@
 
     C: 那估计刚出 恰饭的比较多
 
-14. ![image-20201224234712461](../.gitbook/assets/image-20201224234712461.png)
+14. ![image-20201224234712461](../.gitbook/assets/image-20201224234712461%20%282%29.png)
 
     Kotlin 1.4 新推出了一个关键字 tailrec , 可以使用它 去主动编译优化 尾调用的函数. [https://twitter.com/kotlin/status/1341749661175066624?s=20](https://twitter.com/kotlin/status/1341749661175066624?s=20)
 
