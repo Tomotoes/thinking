@@ -281,8 +281,6 @@ maybedoer: the Maybe Monoid for Go
 [https://www.infoq.cn/article/DVAAJ71F4fBQsxmGVdCE](https://www.infoq.cn/article/DVAAJ71F4fBQsxmGVdCE)  
 在单机中 原子性是锁的保障, 在分布式中 锁的问题又上升了一个层级...
 
-
-
 快餐文分享:   
 Go语言的设计哲学之三：并发   
 [https://www.imooc.com/read/87/article/2340](https://www.imooc.com/read/87/article/2340)  
