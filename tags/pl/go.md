@@ -28,3 +28,6 @@
 
    快餐文分享，操作系统中经典案例的Golang实现，Demo 值得阅读。
 
+6. 快餐文分享:  maybedoer: the Maybe Monoid for Go [https://christine.website/blog/maybedoer-2020-05-23](https://christine.website/blog/maybedoer-2020-05-23) 函数式编程中 maybe monod 在 Go 中的实现.
+7. 快餐文分享:  Go语言的设计哲学之三：并发  [https://www.imooc.com/read/87/article/2340](https://www.imooc.com/read/87/article/2340) 文中讲了传统语言的并发方案的缺点 如下, 以及 Goruntine 模型的简单介绍. 摘要:  并发单元间通信困难，易错：多个 thread 之间的通信虽然有多种机制可选，但用起来是相当复杂；并且一旦涉及到 shared memory，就会用到各种 lock，死锁便成为家常便饭 对于很多网络服务程序，由于不能大量创建 thread，就要在少量 thread 里做网络多路复用，即：使用 epoll/kqueue/IoCompletionPort 这套机制，即便有 libevent、libev 这样的第三方库帮忙，写起这样的程序也是很不易的，存在大量 callback，给程序员带来不小的心智负担。 nodejs deno 在底层全是用的 epoll/kqueue/IoCompletionPort 这套机制 , 只不过在应用层 nodejs 使用的是 libuv, deno 使用的是 Tokio..
+

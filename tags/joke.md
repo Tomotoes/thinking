@@ -73,3 +73,13 @@
 
     hah Server Side Rendering
 
+![&#x8FD9;&#x5E16;&#x5B50;&#x7EDD;&#x5BF9;&#x662F;&#x6765;&#x641E;&#x4E8B;&#x60C5;&#x7684;](../.gitbook/assets/image%20%2810%29.png)
+
+​[https://www.reddit.com/r/linux/comments/kkv8kq/my\_boyfriend\_is\_very\_into\_linux\_i\_know\_nothing/?utm\_medium=android\_app&utm\_source=share](https://www.reddit.com/r/linux/comments/kkv8kq/my_boyfriend_is_very_into_linux_i_know_nothing/?utm_medium=android_app&utm_source=share)
+
+灭霸打响指的源码: DELETE FROM people where rand\(\) &lt; 0.5
+
+![https://www.reddit.com/r/ProgrammerHumor/comments/kn04bb/wholesome/](../.gitbook/assets/image%20%2817%29.png)
+
+
+

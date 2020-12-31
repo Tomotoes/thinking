@@ -6,3 +6,5 @@
 
    文章写得很有深度, 目前 Raft 算法是 CAP 理论中 C 一致性 在业界内的最佳实现, 有兴趣的同学可以读一下 前两章与最后一章, 中间实现细节 可以泛读.
 
+2. 快餐文分享:  浅析 Redis 分布式锁解决方案  [https://www.infoq.cn/article/DVAAJ71F4fBQsxmGVdCE](https://www.infoq.cn/article/DVAAJ71F4fBQsxmGVdCE) 在单机中 原子性是锁的保障, 在分布式中 锁的问题又上升了一个层级...
+

@@ -26,4 +26,6 @@
    Mannequin.js: 关节式人体模型库。
 
 8. 好文分享: [2020年大前端技术趋势解读](https://juejin.cn/post/6908713513271689224)
+9. 快餐文分享:  Fetch API 教程  [http://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html](http://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html)
+10. 快餐文分享: [RxJS——给你如丝一般顺滑的编程体验（篇幅较长，建议收藏）](https://juejin.cn/post/6910943445569765384) 文章很长，大部分的篇幅都是在讲 rxjs 的一些概念与api，并没有结合实际场景，对rxjs感兴趣的同学可以了解下。
 

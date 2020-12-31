@@ -13,3 +13,11 @@
 
    没想到图片业务能如此复杂，需要动态生成，控制缓存..
 
+3. 快餐文分享:
+
+   The headers we don't want
+
+   [https://www.fastly.com/blog/headers-we-dont-want](https://www.fastly.com/blog/headers-we-dont-want)
+
+   本文不是 HTTP response header 的最佳实践, 而是介绍了 有哪些 field 实质上是没有必要的.
+

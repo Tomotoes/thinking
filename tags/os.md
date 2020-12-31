@@ -74,7 +74,8 @@
 
 15. 快餐文分享：
 
-    终于明白了，一文彻底理解I/O多路复用 [https://mp.weixin.qq.com/s?\_\_biz=MzI0MjEwMDMzNQ==&mid=2652517896&idx=1&sn=0ccd0ddf7e0b75094a6843039948692f](https://mp.weixin.qq.com/s?__biz=MzI0MjEwMDMzNQ==&mid=2652517896&idx=1&sn=0ccd0ddf7e0b75094a6843039948692f)
+    终于明白了，一文彻底理解I/O多路复用   
+    [https://mp.weixin.qq.com/s?\_\_biz=MzI0MjEwMDMzNQ==&mid=2652517896&idx=1&sn=0ccd0ddf7e0b75094a6843039948692f](https://mp.weixin.qq.com/s?__biz=MzI0MjEwMDMzNQ==&mid=2652517896&idx=1&sn=0ccd0ddf7e0b75094a6843039948692f)
 
     文章较简单，没有介绍抽象概念，没了解过 I/O 机制的同学可以读一下。
 
@@ -85,4 +86,7 @@
     不过现在 IO 机制的思想，已经很难改变了。
 
     不管是 windows 的 select ，还是 linux 的 epoll ，还是 mac 的 kqueue 实质上都是一种思想 的不同实现。
+
+16. [你不好奇 Linux 是如何收发网络包的？](https://zhuanlan.zhihu.com/p/339698383?utm_source=wechat_session&utm_medium=social&utm_oi=1088870436204318720&utm_campaign=shareopn)
+17. 多个CPU的原子操作通常通过总线锁或者是缓存锁实现，意思就是当某一个核读取一块内存或者是缓存的时候。CPU会拉低系统总线或者是缓存的电平，这样其他核就无法读取被锁定的区域，这样就实现了资源隔离，从而解决并发冲突问题。 硬件层面上的原子操作机制。
 
