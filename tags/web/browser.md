@@ -23,4 +23,11 @@
    02年 IE 市场占用率高达95%，但到现在已经出局。
 
 6. Things you can do with a browser in 2020 [https://github.com/luruke/browser-2020](https://github.com/luruke/browser-2020)
+7. 快餐文分享:   
+   Introducing: The Async Cookie Store API   
+   [https://medium.com/nmc-techblog/introducing-the-async-cookie-store-api-89cbecf401f](https://medium.com/nmc-techblog/introducing-the-async-cookie-store-api-89cbecf401f)
+
+   摘要: Are you sick and tired of weird ways to get cookies fromdocument.cookie ? Hate it that you don’t know whether the cookie you set was actually saved or not? Introducing: Cookie Store API, available on Chrome version 87!
+
+   有生之年系列.
 
