@@ -52,4 +52,97 @@
 
 10. 程序员基础掌握得好学新东西真的就快么？ - invalid s的回答 - 知乎 [https://www.zhihu.com/question/332732069/answer/737894772](https://www.zhihu.com/question/332732069/answer/737894772)
 11. [漫画 \| 程序员必须要小心的7个潜规则](https://mp.weixin.qq.com/s/ubzCmQTL7wt9GEoSqueicw)
+12. 我突然想到了一个点, coding 时有一个问题一直无法绕过.. 就是命名了..
+
+    命名变量的时候, 用名词堆叠 再符合个命名规范就可以了
+
+    但函数命名时, 在大部分场景下 其实是有一定规律的
+
+    变量: 名词堆叠 函数: 动词+名词堆叠
+
+    而这个动词 完全可以把它枚举出来, 这样大部分场景下, 都可以拿来就用..
+
+    ```text
+    addBalance
+    getAccount
+    filterActivityList
+    patchEmail
+    deleteUserById
+    removeItem
+    generateTagList
+    fillTableHeader
+    createFolder
+    forEachFileList
+    parseNodeTree
+    updateUserInfo
+    extractUserInfo
+    showTable
+    hideIframe
+    useDebounce
+    toBase64
+    isSuccess
+    canWrite
+    requestModule
+    loadScript
+    fetchGalleryData
+    setLanguage
+    sendMessage
+    querySelector
+    findElement
+    combineList
+    importResource
+    searchService
+    renderComponent
+    readFile
+    onChange
+    handleInput
+    verifyFormData
+    changeSettings
+    cloneJSON
+    appendSlice
+    insertColumn
+    saveConfig
+    execCommand
+    unloadPage
+    destoryConnection
+    openProgram
+    ​
+    单个动词, 一般都是 名词.动词 , 就比如 AST.parse()
+    make
+    do
+    run
+    walk
+    enable
+    disable
+    parse
+    build
+    notify
+    compare
+    ​
+    还有一些特定场景下的:
+    downloadPage
+    promisify
+    expect
+    box / pipe / then 链式调用
+    ```
+
+    A: 暂时想了这么多, 然后也借鉴了下之前的实践 与 通用 API
+
+    B: 妙啊 我也是老起名困难了
+
+    A: 我起名有个毛病.. 我经常 const filtererPageList = filterPageList\(\)
+
+    每次coding 代码都好长..
+
+    B: 没懂 这个命名是就多了个er吗
+
+    A: 多了个过去式.. 已过滤的列表 = 过滤列表\(original list\)
+
+    B: 我觉得长得太像了 容易看错
+
+    A: 哈哈 没办法短.. pageList 被用了 只能 filtererPageList 了..
+
+    我经常闹这种情况..
+
+    B: 我喜欢前面加个new， newPageList
 

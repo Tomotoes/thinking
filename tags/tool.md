@@ -32,7 +32,27 @@
 
    C: 那估计刚出 恰饭的比较多
 
-4. VIM 学习资源分享:   
+4. 换了套衣服
+
+   ![image-20210104232614174](../.gitbook/assets/image-20210104232614174.png)
+
+   主题: Monokai Pro 图标: Material Icon 字体: Cascadia Code
+
+   我发现 还是 vscode 好看哇.. jet brains 的 ide 差距挺大的
+
+   要是 vscode vim 插件再给力点就好了..
+
+5. Ep 23. 个人知识管理体系系列 - 输入篇 [https://pythonhunter.org/episodes/ep23](https://pythonhunter.org/episodes/ep23)
+6. 分享下 配置了一下午的 idemvimrc, 带注释的那种, 可以开箱即用~
+
+   [ideavimrc](https://thinking.tomotoes.com/tags/docs/ideavimrc)
+
+   hah 这个 action 配置方面偏前端了, 因为 前端不需要 实现接口, 跳转到类 等等行为
+
+   不过除了 action 篇, 前面都是通用的
+
+7. 分享个刚刚学到的小知识: `git push origin master:remoteBranch`  从本地 master 分支上 新建 远程分支, 并 push 到远程仓库.
+8. VIM 学习资源分享:   
    [https://github.com/wsdjeg/vim-galore-zh\_cn](https://github.com/wsdjeg/vim-galore-zh_cn)   
    [https://www.kancloud.cn/kancloud/learn-vimscript-the-hard-way/49321](https://www.kancloud.cn/kancloud/learn-vimscript-the-hard-way/49321)   
    [https://vimjc.com/page/11/](https://vimjc.com/page/11/)   

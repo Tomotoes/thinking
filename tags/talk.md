@@ -412,7 +412,23 @@
     C: 怕不是到时候出来一堆伦理问题  
     A: 我在想 如果用 linux POSIX API 的设计标准 来设计的话, 那一定很有趣.. 每一次 action 都是一个 进程的 fork , 每次 拉屎 都是 一次 GC..
 
-20. 
+20. A: Java 中的 Object TypeScript 中的 any C++/C 中的 void \* Go 中的 interface{} Kotlin 中的 Any ...
+
+    好多编程语言, 不管静态类型, 动态类型 都提供了 "Any" 类型..
+
+    B: 这些更像是对应ts中的unknown吧 Java的object变量 o，你可以使用o.a访问a成员吗 好像不行吧
+
+    A: 是的 但是 unknown 变量不能向下转型 any 是可以的
+
+21. A: 写 Java 感觉重载这个概念很棒   
+    B: 其实我感觉重载有时候没啥必要
+
+    A: 面向对象的设计好像 离不开重载
+
+    C: 重载是 是设计者的妥协.. 如果一个功能 有多次重载, 多种签名.. 那么这个功能设计的就是有问题..   
+    PS: 在绝大数场景下
+
+22. 
 ![](../.gitbook/assets/image%20%288%29.png)
 
 A: 无言以对..  国人的 github trending 一个开源的技术项目没有...  

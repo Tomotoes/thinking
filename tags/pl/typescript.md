@@ -224,3 +224,87 @@
 
     可做 TS 体操
 
+15. 分享个 TS snippet 助助兴
+
+    ![image-20210104231703062](../../.gitbook/assets/image-20210104231703062%20%281%29.png)
+
+16. 函数重载的另一种方式.. 除此之外还有:
+
+    func\(签名1\); func\(签名2\); ... func\(签名3\) {}
+
+     ![image-20210104231731702](../../.gitbook/assets/image-20210104231731702.png)
+
+17. \(type as any\) as targetType 可以将 任意 type 转换成 targetType..
+18. TypeScript 官方提供了一种注解的元编程库.. TypeScript 在 编译成 JS 的这一层 可以增加好多抽象哇..
+
+    [https://jkchao.github.io/typescript-book-chinese/tips/metadata.html](https://jkchao.github.io/typescript-book-chinese/tips/metadata.html)
+
+19. 怎么过滤 Type Model/Object 中的不需要的 Key
+
+    `type filter<T extends object> = { [K in keyof T]: condition ? ... : never }[keyof T]`
+
+    关键在于 最后一行, 它其实隐含了两点:
+
+    1. `[keyof T] keyof T => key1 | key2 | key3 ...`
+
+    `[key1 | key2 | key3 ...]` 可以看成 `[Literal type]` 而 `[literal type]` 会执行 "遍历 每一个可成立的字面量"的...
+
+       2. `{k1:nerver, k2: value}['k1'|'k2]` 此类型返回值是 value 也就是说 会自动过滤掉 `never`
+
+    ![image-20210104232004043](../../.gitbook/assets/image-20210104232004043.png)
+
+    B: 可以当分配律来理解`A[x|y]=A[x]|A[y]`
+
+    `T|never=T T&never=never`
+
+    A: 这个受教了 是的, 就应该是理解的
+
+20. 第一次见到泛型组件的用法.. 有趣..
+
+    ![image-20210104232045105](../../.gitbook/assets/image-20210104232045105.png)
+
+     `<Component<Generic Type> attributes... />`
+
+21. 快餐文分享: 10++ TypeScript Pro tips/patterns with \(or without\) React [https://medium.com/@martin\_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680](https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680)
+
+    使用 TS 开发 React 项目时需要注意的一些点, 这篇文章是 2018 年写的, 在 medium 上有 8.9k 点赞.. 文章有很多 现在看来的 明显的错误...
+
+    就比如 `Don’t use FunctionComponent<P>/FC<P> to define a function component`
+
+    果然发展的快, 沉淀就成了个问题..
+
+22. 利用接口 实现 构造函数约束..
+
+    ![image-20210104232245968](../../.gitbook/assets/image-20210104232245968.png)
+
+23. TS 类本身内部居然也支持 定义限制条件...
+
+    ![image-20210104232327963](../../.gitbook/assets/image-20210104232327963.png)
+
+24. hah 每次看到 + - 修饰符, 都觉得使用这两个符号 类型显得很清晰易懂
+
+    ![image-20210104232351383](../../.gitbook/assets/image-20210104232351383.png)
+
+25. 好文分享:
+
+    Learn Advanced TypeScript Types   
+    [https://medium.com/free-code-camp/typescript-curry-ramda-types-f747e99744ab](https://medium.com/free-code-camp/typescript-curry-ramda-types-f747e99744ab)
+
+    摘要: Despite the popularity of currying and the rise of functional programming \(and of TypeScript\), it is still a hassle today to make use of curry and have proper type checks. Even famous libraries like Ramda do not provide generic types for their curry implementations \(but we will\). However, you need no functional programming background to follow this guide. The guide is about currying but it is only a topic of my choice to teach you advanced TypeScript techniques. You just need to have practised a bit with TypeScript’s primitive types. And by the end of this walk-through, you will be a real TS wizard.
+
+    文章主要讲述了, 使用 TypeScript 为 Curry 函数建模的过程
+
+    文章前面花大篇幅讲解了 curry, 与 TS 的基础概念.. 然后借助这个概念 创建了一个个类型工具, 再利用这些工具 达成最后 curry 模型.. 并且最后还增加了 placeholder 支持..
+
+    整篇文章读了3遍.. 耗时半个多小时... 很久没这么耗费心智看一篇文章了...
+
+    PS: 文章中存在一处错误 CurryV3 的递归名词 应该是 CurryV3
+
+    这篇文章真的非常棒, 非常推荐阅读.
+
+    [https://github.com/millsp/ts-toolbelt/blob/master/src/Function/Curry.ts](https://github.com/millsp/ts-toolbelt/blob/master/src/Function/Curry.ts)
+
+    这是文章最终的产出
+
+    哎, 虽然 TS 只提供了 type extends infer 很少的关键字, 但已经做到 类型系统上 图灵完备了..
+

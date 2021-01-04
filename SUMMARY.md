@@ -2,6 +2,7 @@
 
 * [README](README.md)
 * [Tags](tags/README.md)
+  * [Celebrity](tags/celebrity.md)
   * [Docs](tags/docs/README.md)
     * [ideavimrc](tags/docs/ideavimrc.md)
     * [Dig deep into Hooks](tags/docs/dig-deep-into-hooks.md)

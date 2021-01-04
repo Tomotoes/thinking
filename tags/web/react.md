@@ -68,3 +68,24 @@
 3. why-did-you-render   
 4. Chrome Devtools - Performance timeline
 
+Question: 以下组件 存在什么问题?
+
+```text
+const handleClick = () => {}
+<Button type="primary" onClick={() => handleClick()}> Click me </Button> 
+```
+
+A: 每次渲染都会重复构造一遍这个回调函数  
+B: 好家伙，我垃圾代码看多了，这种没放在 usecallback 的函数我已经习以为常了。。。  
+C: 嗯 每次 render 时, onClick 都是一个新的函数, 而函数是引用类型, 所以 每次render 时 都会重新 render Button 组件...
+
+设计优秀的代码, 看起来就像诗一样的优美..
+
+![image-20210104232439943](../../.gitbook/assets/image-20210104232439943.png)
+
+分享一本刚刚整理的 React - Hooks 小册 - Dig deep into Hooks.  
+里面包括了一些 推荐阅读的源码库, 以及一些经典的 Hooks 片段. 前端的同学有空可以读一下~ 对掌握 Hooks 会更有帮助的.  
+[Dig deep into Hooks](https://thinking.tomotoes.com/tags/docs/dig-deep-into-hooks)  
+这个小册没有包括 ahooks 中的一些例子, 因为 ahooks 每个 hook 之间存在耦合, 不容易整理成代码片段..  
+其他参考链接中的 hooks , 对我产生价值的 都整理了..
+

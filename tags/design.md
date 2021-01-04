@@ -14,3 +14,7 @@
 
    Github 这个营销页设计的很有水准.. 整体的布局交互, 页面色调 算得上一等作品.
 
+4. 2021年UI界面设计的9个趋势
+
+   [https://www.inneed.club/articles/detail/l5xgd43gdw](https://www.inneed.club/articles/detail/l5xgd43gdw)
+

@@ -40,4 +40,7 @@
    这篇文章介绍了 HTML-CSS 编写的多种范式 以及 各种范式之间的差异与感触.本文的作者同时也是 TailWind CSS 的作者, 值得一读. 说实话 我几乎没有思考过 CSS HTML 之间的依赖, 一直按照文中的第一种 或者 BEM 规范去写, 原来它们之间一直没有做到 关注点分离, 一直存在依赖. 不过 现在 CSS IN JS, CSS Module 方案已经从编译方面打开了新出路
 
 8. 快餐文分享:  来自新时代的 CSS  [https://mp.weixin.qq.com/s/pPtzhXbAaXfoTV2q3u0Dww](https://mp.weixin.qq.com/s/pPtzhXbAaXfoTV2q3u0Dww) 文中列举很多关于 CSS 现在发展的一些技术 特性.  1. css 命名规范, 遗憾的是 文章只提了 结构与样式分离的规范: BEM, 应该扯扯 构建函数单元的 css 命名规范  2. 简单介绍预处理器: less sass stylus  3. 发展了很多年也没有声音的 CSS Houdini, 还不如说 css in js  4. postcss, postcss 之于 css 就好比 babel 之于 js  5. css module: 没说清楚..  6. stylelint 规范工具  7. postcss-preset-env 的规范: cssdb
+9. 3行核心CSS代码的rate评分组件，秀到你怀疑人生
+
+   [https://mp.weixin.qq.com/s/FE3IuNu66VxLDgHCHWIRVA](https://mp.weixin.qq.com/s/FE3IuNu66VxLDgHCHWIRVA)
 

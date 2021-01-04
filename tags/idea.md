@@ -22,3 +22,7 @@
 
    看到这个创意 惊呆了.. 太秀了..
 
+3. 分享：[用 github-page 做短链服务](https://github.com/nelsontky/gh-pages-url-shortener)，包括[这篇](https://zhuanlan.zhihu.com/p/339832422)国人作者搬运的，利用 github 仓库做 db，github-page 的 `404.html` 来做查 db 和重定向，想法不错哈哈
+
+   B: 这个想法可以的 404 拦截所有请求, 然后在提取请求中的参数, 通过参数 访问 github api 找到对应的长链接, 再重定向..
+

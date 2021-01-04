@@ -31,3 +31,15 @@
 
    有生之年系列.
 
+8. JS 在浏览器环境中 真正的并行执行..
+
+   ![image-20210104232415831](../../.gitbook/assets/image-20210104232415831.png)
+
+   通过 Worker API 去实现
+
+   分享一篇没建群之前看过的好文
+
+   Web Worker 文献综述 [http://www.alloyteam.com/2020/07/14680/](http://www.alloyteam.com/2020/07/14680/)
+
+   是腾讯 AlloyTeam 团队写的, 文章写的有深度, 该介绍的都介绍了.
+

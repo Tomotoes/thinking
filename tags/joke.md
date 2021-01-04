@@ -73,6 +73,8 @@
 
     hah Server Side Rendering
 
+23. 如何评价ACM-ICPC World Finals 2077? - 陈靖邦的回答 - 知乎 [https://www.zhihu.com/question/437191564/answer/1655313320](https://www.zhihu.com/question/437191564/answer/1655313320)
+
 ![&#x8FD9;&#x5E16;&#x5B50;&#x7EDD;&#x5BF9;&#x662F;&#x6765;&#x641E;&#x4E8B;&#x60C5;&#x7684;](../.gitbook/assets/image%20%2810%29.png)
 
 ​[https://www.reddit.com/r/linux/comments/kkv8kq/my\_boyfriend\_is\_very\_into\_linux\_i\_know\_nothing/?utm\_medium=android\_app&utm\_source=share](https://www.reddit.com/r/linux/comments/kkv8kq/my_boyfriend_is_very_into_linux_i_know_nothing/?utm_medium=android_app&utm_source=share)

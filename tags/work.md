@@ -24,4 +24,9 @@
    [https://mp.weixin.qq.com/s?\_\_biz=MzIzMTIzMTUwOQ==&mid=2650041308&idx=3&sn=3ea75db29bab752362706a6d931a3808](https://mp.weixin.qq.com/s?__biz=MzIzMTIzMTUwOQ==&mid=2650041308&idx=3&sn=3ea75db29bab752362706a6d931a3808)
 
 6. [【招聘】字节跳动番茄小说招前端工程师/Leader（社招/校招/实习）](https://mp.weixin.qq.com/s/V0Qduc-Gouv3qrTWmEY_tQ)
+7. 最近大家有什么工作机会，可以在群里共享下.. 毕竟寒假了，实习岗应该也挺多了..
+
+   [https://m.nowcoder.com/intern/center](https://m.nowcoder.com/intern/center)
+
+   多关注些牛客，看些面经～
 
