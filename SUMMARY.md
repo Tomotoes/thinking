@@ -2,6 +2,9 @@
 
 * [README](README.md)
 * [Tags](tags/README.md)
+  * [Docs](tags/docs/README.md)
+    * [ideavimrc](tags/docs/ideavimrc.md)
+    * [Dig deep into Hooks](tags/docs/dig-deep-into-hooks.md)
   * [QA](tags/qa.md)
   * [Coding](tags/coding.md)
   * [Business](tags/business.md)
