@@ -98,12 +98,10 @@ set keep-english-in-normal
 " inoremap <esc> <nop>
 
 " 禁用方向键
-" inoremap <down> <nop>
-" nnoremap <down> <nop>
-" inoremap <left> <nop>
-" nnoremap <left> <nop>
-" inoremap <right> <nop>
-" nnoremap <right> <nop>
+inoremap <up> <nop>
+inoremap <down> <nop>
+inoremap <left> <nop>
+inoremap <right> <nop>
 
 " jj 进入 insert model
 inoremap jj <Esc>
@@ -111,7 +109,6 @@ inoremap jj <Esc>
 " L 移动到行尾
 nnoremap L $
 vnoremap L $
-
 " H 移动到行首
 nnoremap H ^
 vnoremap H ^
@@ -125,9 +122,6 @@ nnoremap d "_d
 vnoremap d "_d
 vnoremap D "_D
 nnoremap D "_D
-
-" U 执行重做
-nnoremap U :action $Redo<CR>
 
 " 移动时 自动定位到屏幕中心
 nnoremap n nzz
@@ -185,11 +179,6 @@ nnoremap <Leader>ws <C-W>s
 " 横向新增窗口
 nnoremap <Leader>we <C-W>v
 
-" 代码块收起
-nnoremap <Leader>, zc
-" 代码块展开
-nnoremap <Leader>. zo
-
 " jk 前进后退
 nnoremap <leader>j :action Back<cr>
 nnoremap <leader>k :action Forward<cr>
@@ -205,19 +194,15 @@ nnoremap <leader>E :action RecentLocations<cr>
 nnoremap <leader>q :action ToggleBookmark<CR>
 nnoremap <leader>Q :action ShowBookmarks<CR>
 
-" 关闭 tab 管理
-nnoremap <leader>d :action CloseContent<cr>
-nnoremap <leader>D :action ReopenClosedTab<cr>
-
 " 注释与重命名
 nnoremap <leader>r :action CommentByLineComment<cr>
 nnoremap <leader>R :action RenameElement<cr>
 
 " 跳转到定位
-nnoremap <leader>x :action GotoDeclaration<cr>
+nnoremap <leader>d :action GotoDeclaration<cr>
 
 " 查看使用案例
-nnoremap <leader>u :action FindUsages<cr>
+nnoremap <leader>D :action FindUsages<cr>
 
 " 展示错误信息
 nnoremap <leader>a :action ShowErrorDescription<CR>
@@ -227,9 +212,11 @@ nnoremap <leader>o :action FileStructurePopup<CR>
 
 " 使用 ESLint 格式化代码
 nnoremap <leader>t :action Javascript.Linters.EsLint.Fix<CR>
+" 格式化代码
+nnoremap <leader>T :action ReformatCode<CR>
 
 " 展示文件路径 可以快速打 Finder 中打开
-nnoremap <Leader>f :action ShowFilePath<CR>
+nnoremap <Leader>F :action ShowFilePath<CR>
 
 " 切换断点
 nnoremap <Leader>b :action ToggleLineBreakpoint<CR>
@@ -240,13 +227,13 @@ nnoremap <leader>f :action AceAction <CR>
 " 聚焦项目栏
 nnoremap <Leader>\ :action SelectInProjectView<CR>
 
-" 切换免打扰模式
-nnoremap <Leader>v :action ToggleDistractionFreeMode<CR>
-
 " 显示隐藏 Git Panel
 nnoremap <Leader>g :action ActivateVersionControlToolWindow<CR>
 
+" 应用建议
+nnoremap <Leader>s :action ShowIntentionActions<CR>
+
 " Reload .ideavimrc
-nnoremap <Leader>s :source ~/.ideavimrc<CR>
+nnoremap <Leader>S :source ~/.ideavimrc<CR>
 ```
 
