@@ -195,6 +195,14 @@
    C: 感觉还是看硬实力
 
 8. ![image-20201122151623196](../../.gitbook/assets/image-20201122151623196%20%281%29%20%281%29.png)
+9. 解构的妙用
+
+   ![image-20210107192120580](../../.gitbook/assets/image-20210107192120580.png)
+
+10. List of languages that compile to JS:   
+    [https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS)
+
+    JS 简直就是新时代的 跨平台 指令集. PS: wasm 的出现, 让编译成 JS 没有了太大意义..
 
 ​
 

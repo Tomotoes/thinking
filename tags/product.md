@@ -4,3 +4,8 @@
 
    开发者搞项目的一个迷思：关注技术。但除了极少数项目，绝大多数项目都不是靠技术赚钱的。更应该关注的是，产品设计、运营策略、流量来源、转化效率，技术是所有环节中最不起眼的那个。
 
+2. 快餐文分享: 一个产品需求的研发流程是怎样的？   
+   [https://mp.weixin.qq.com/s/ujfZBl9HR\_0\_FCr1Zz-SVQ](https://mp.weixin.qq.com/s/ujfZBl9HR_0_FCr1Zz-SVQ)
+
+   ![image-20210107192741718](../.gitbook/assets/image-20210107192741718.png)
+

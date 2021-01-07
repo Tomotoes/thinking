@@ -89,4 +89,8 @@
 
 16. [你不好奇 Linux 是如何收发网络包的？](https://zhuanlan.zhihu.com/p/339698383?utm_source=wechat_session&utm_medium=social&utm_oi=1088870436204318720&utm_campaign=shareopn)
 17. 多个CPU的原子操作通常通过总线锁或者是缓存锁实现，意思就是当某一个核读取一块内存或者是缓存的时候。CPU会拉低系统总线或者是缓存的电平，这样其他核就无法读取被锁定的区域，这样就实现了资源隔离，从而解决并发冲突问题。 硬件层面上的原子操作机制。
+18. ![image-20210107192510137](../.gitbook/assets/image-20210107192510137.png)
+19. 看完这篇还不懂高并发中的线程与线程池你来打我\(内含20张图\)
+
+    [https://mp.weixin.qq.com/s/BvU3ASLGkGBf5NIJmmESKA](https://mp.weixin.qq.com/s/BvU3ASLGkGBf5NIJmmESKA)
 

@@ -28,57 +28,63 @@
 
    B: 行，那私聊把信息发给我吧~
 
-4.  1. 我想组一个 元旦三天沉淀计划, 有同学想参加吗?
+4. 我想组一个 元旦三天沉淀计划, 有同学想参加吗?
 
-      初衷是 准确把握元旦三天时间.
+   初衷是 准确把握元旦三天时间.
 
-      具体的形式是 列举自己三天内要完成的事情, 不是普通的列举, 每件事要有排期时间的. 然后每天约个时间, 一起 review 下当前进度..
+   具体的形式是 列举自己三天内要完成的事情, 不是普通的列举, 每件事要有排期时间的. 然后每天约个时间, 一起 review 下当前进度..
 
-      有意向可私聊.
+   有意向可私聊.
 
-      **三天后的进展:**
+   **三天后的进展:**
 
-      1. 学习 TypeScript \[v\]
-      2. 查看 ahook / usehook 的源码 \(0.5d\) \[v\]
-      3. 阅读 30 seconds of code \(0.5d\) \[v\]
-      4. 维护 tomotoes! \[v\]
+   1. 学习 TypeScript \[v\]
+   2. 查看 ahook / usehook 的源码 \(0.5d\) \[v\]
+   3. 阅读 30 seconds of code \(0.5d\) \[v\]
+   4. 维护 tomotoes! \[v\]
 
-              1. 微信端的header bgcolor
+           1. 微信端的header bgcolor
 
-              2. 移动端问题打赏后的点xmodel
+           2. 移动端问题打赏后的点xmodel
 
-              3. 修改 博客与相册 版本年号
+           3. 修改 博客与相册 版本年号
 
-              4. 字体在移动端过大
+           4. 字体在移动端过大
 
-              5. 关于项目增加书籍
+           5. 关于项目增加书籍
 
-      5. 完成 Type-Challenge / typescript-exercises \[v\]
+   5. 完成 Type-Challenge / typescript-exercises \[v\]
 
-      6. macOS 与 Windows 的工具对齐 \[v\]
+   6. macOS 与 Windows 的工具对齐 \[v\]
 
-          继续研究在 webStorm 下的快捷开发模式
+       继续研究在 webStorm 下的快捷开发模式
 
-      7. 完成 年度总结 \[x\]
+   7. 完成 年度总结 \[x\]
 
-      * 思考下 孤独与人性
-      * 思考下 业务与前端发展
-      * 思考下 朋友与爱情
+   * 思考下 孤独与人性
+   * 思考下 业务与前端发展
+   * 思考下 朋友与爱情
 
-      8. 思考的价值 \[x\]
+   8. 思考的价值 \[x\]
 
-      * 思考的价值软文/推广
-      * 更新站点
-      * 分享:
-        * 产品与前端
-        * 效率工具
-        * 知识分享
+   * 思考的价值软文/推广
+   * 更新站点
+   * 分享:
+     * 产品与前端
+     * 效率工具
+     * 知识分享
 
-      9. Github 年度报告 项目 \[x\]
+   9. Github 年度报告 项目 \[x\]
 
-      [https://mp.weixin.qq.com/s/lsUHCcTljz854ZrJVJpjFw](https://mp.weixin.qq.com/s/lsUHCcTljz854ZrJVJpjFw)
+   [https://mp.weixin.qq.com/s/lsUHCcTljz854ZrJVJpjFw](https://mp.weixin.qq.com/s/lsUHCcTljz854ZrJVJpjFw)
 
-      [https://fant-gp.herokuapp.com/](https://fant-gp.herokuapp.com/)
+   [https://fant-gp.herokuapp.com/](https://fant-gp.herokuapp.com/)
 
-      [https://github.com/tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github)
+   [https://github.com/tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github)
+
+5. 如何摆脱大学差、学历低的焦虑和困窘？ - 胡津铭的回答 - 知乎 [https://www.zhihu.com/question/348607535/answer/1663701384](https://www.zhihu.com/question/348607535/answer/1663701384)
+
+   这答案中的每一环节 都不是那么简单跨过的。从高职上一本，再考浙大研究生，冲刺顶级paper..
+
+   我也是从高中后期努力自学，虽然高考结果很一般，但高中自学这个过程 一直激励着我到现在。 努力什么时候都不晚。
 

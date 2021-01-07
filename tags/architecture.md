@@ -43,3 +43,5 @@
 
    文章不错，涉及了大部分概念。
 
+8. 【第 50 期】浅谈大型分布式 Web 系统的架构演进 [https://mp.weixin.qq.com/s/DAIv\_\_Qr1yt49ZXhm9Yy2g](https://mp.weixin.qq.com/s/DAIv__Qr1yt49ZXhm9Yy2g)
+

@@ -83,5 +83,6 @@
 
 ![https://www.reddit.com/r/ProgrammerHumor/comments/kn04bb/wholesome/](../.gitbook/assets/image%20%2817%29.png)
 
-
+V社 这帖子笑死了..   
+问一下前端大佬，你们公司的产品或者 UI，在出原型或者设计稿的时候，是怎么体现动画的？ [https://v2ex.com/t/742168\#reply29](https://v2ex.com/t/742168#reply29)
 
