@@ -94,3 +94,7 @@
 
     [https://mp.weixin.qq.com/s/BvU3ASLGkGBf5NIJmmESKA](https://mp.weixin.qq.com/s/BvU3ASLGkGBf5NIJmmESKA)
 
+20. 互斥锁与信号量的差别: 信号量, 可定义 同时访问 临界资源的线程数量 互斥锁, 只能定义一个 访问临界资源的线程 当有解锁时, 只有锁住该临界资源的线程才能解开 而 信号量没有这一限制 Mutex管理的是线程的使用权，而Semaphore管理的线程数量
+
+    你想到哪些 编程语言相应的实现了嘛..
+

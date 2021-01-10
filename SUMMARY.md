@@ -75,6 +75,7 @@
       * [now](archives/2021/1/now.md)
       * [1-3](archives/2021/1/1-3.md)
       * [4-7](archives/2021/1/4-7.md)
+      * [8-10](archives/2021/1/8-10.md)
   * [2020](archives/2020/README.md)
     * [12](archives/2020/12/README.md)
       * [25-31](archives/2020/12/25-31.md)

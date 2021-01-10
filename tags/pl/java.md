@@ -56,3 +56,7 @@
 
     本文通过 聊天的方式 将多个知识点一一道来, 文中干货较多 既涉及到 操作系统的线程模型, 也与 JVM 应用层相呼应, 推荐阅读.
 
+11. 看了CopyOnWriteArrayList后自己实现了一个CopyOnWriteHashMap [https://mp.weixin.qq.com/s/8RFSyMhUg7Ve6rQlBNs2yg](https://mp.weixin.qq.com/s/8RFSyMhUg7Ve6rQlBNs2yg)
+
+    不知 读写锁 与 cow 相比，是否性能更强..
+

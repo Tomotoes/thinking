@@ -30,3 +30,9 @@
 
    多关注些牛客，看些面经～
 
+8. 分享篇文章:   
+   两次校招后呕心沥血整理的指南   
+   [https://blog.cugxuan.cn/2021/01/06/Campus/guide-capmus-v2/](https://blog.cugxuan.cn/2021/01/06/Campus/guide-capmus-v2/)
+
+   文章涉及了一些校招基本的点, 希望能对找工作的同学有帮助吧..
+

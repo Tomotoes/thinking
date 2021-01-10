@@ -204,5 +204,9 @@
 
     JS 简直就是新时代的 跨平台 指令集. PS: wasm 的出现, 让编译成 JS 没有了太大意义..
 
+11. Sorts an array of numbers, using the bucket sort algorithm. [https://www.30secondsofcode.org/js/s/bucket-sort](https://www.30secondsofcode.org/js/s/bucket-sort)
+
+    桶排序的 JS 实现
+
 ​
 

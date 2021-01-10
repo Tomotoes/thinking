@@ -14,7 +14,17 @@
 
 3. 分享一个非常全面的 vim command sheet.. [https://vim.rtorr.com/lang/en\_us](https://vim.rtorr.com/lang/en_us)
 4. 第一次了解到 Vim - K 键的作用.. open man page for word under the cursor
-5. VIM 学习资源分享:   
+5. 分享两个比较全面 的 Vim CheatSheet
+
+   [https://wincent.com/wiki/Vim\_cheatsheet](https://wincent.com/wiki/Vim_cheatsheet) [https://gist.github.com/awidegreen/3854277](https://gist.github.com/awidegreen/3854277)
+
+   好吧 我发现上面分享链接中的内容 vim quickref 都有涉及..
+
+6. 分享最近刚了解到的 Vim 使用姿势
+
+   ![image-20210110234124308](../../.gitbook/assets/image-20210110234124308.png)
+
+7. VIM 学习资源分享:   
    [https://github.com/wsdjeg/vim-galore-zh\_cn](https://github.com/wsdjeg/vim-galore-zh_cn)   
    [https://www.kancloud.cn/kancloud/learn-vimscript-the-hard-way/49321](https://www.kancloud.cn/kancloud/learn-vimscript-the-hard-way/49321)   
    [https://vimjc.com/page/11/](https://vimjc.com/page/11/)   
