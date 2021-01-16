@@ -74,15 +74,30 @@
     hah Server Side Rendering
 
 23. 如何评价ACM-ICPC World Finals 2077? - 陈靖邦的回答 - 知乎 [https://www.zhihu.com/question/437191564/answer/1655313320](https://www.zhihu.com/question/437191564/answer/1655313320)
+24. ![image-20210116154339298](../.gitbook/assets/image-20210116154339298.png)
+25. ![image-20210116154733419](../.gitbook/assets/image-20210116154733419.png)
+26. 所以……是出了问题才知道 Flash 被停用的么……
+
+    [https://weibo.com/1668726803/JDclcgigy?ssl\_rnd=1610783219.8414&type=comment\#\_rnd1610783230849](https://weibo.com/1668726803/JDclcgigy?ssl_rnd=1610783219.8414&type=comment#_rnd1610783230849)
+
+    A: 太好玩了，配上这文案…
+
+    B: 丧事喜办
+
+    A: 微机组立大功
+
+    C: 欺负领导不懂，瞎汇报
+
+27. 灭霸打响指的源码: DELETE FROM people where rand\(\) &lt; 0.5
+28. V社 这帖子笑死了..  问一下前端大佬，你们公司的产品或者 UI，在出原型或者设计稿的时候，是怎么体现动画的？ [https://v2ex.com/t/742168\#reply29](https://v2ex.com/t/742168#reply29)
 
 ![&#x8FD9;&#x5E16;&#x5B50;&#x7EDD;&#x5BF9;&#x662F;&#x6765;&#x641E;&#x4E8B;&#x60C5;&#x7684;](../.gitbook/assets/image%20%2810%29.png)
 
 ​[https://www.reddit.com/r/linux/comments/kkv8kq/my\_boyfriend\_is\_very\_into\_linux\_i\_know\_nothing/?utm\_medium=android\_app&utm\_source=share](https://www.reddit.com/r/linux/comments/kkv8kq/my_boyfriend_is_very_into_linux_i_know_nothing/?utm_medium=android_app&utm_source=share)
 
-灭霸打响指的源码: DELETE FROM people where rand\(\) &lt; 0.5
+
 
 ![https://www.reddit.com/r/ProgrammerHumor/comments/kn04bb/wholesome/](../.gitbook/assets/image%20%2817%29.png)
 
-V社 这帖子笑死了..   
-问一下前端大佬，你们公司的产品或者 UI，在出原型或者设计稿的时候，是怎么体现动画的？ [https://v2ex.com/t/742168\#reply29](https://v2ex.com/t/742168#reply29)
+
 

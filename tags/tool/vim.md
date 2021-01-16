@@ -24,7 +24,20 @@
 
    ![image-20210110234124308](../../.gitbook/assets/image-20210110234124308.png)
 
-7. VIM 学习资源分享:   
+7. 分享款效率工具:
+
+   Vimac - Vimium on MacOS [https://github.com/dexterleng/vimac/](https://github.com/dexterleng/vimac/)
+
+   主要功能点有两个:
+
+   1. 可以把所有 clickable 的地方标记出来, 然后键入对应的字符 模拟鼠标的 Click, Right Click, Double Click
+   2. 可进入到滚动模式, hjkl 进行导航
+
+   ![image-20210116152104505](../../.gitbook/assets/image-20210116152104505.png)
+
+   分享下 我的配置
+
+8. VIM 学习资源分享:   
    [https://github.com/wsdjeg/vim-galore-zh\_cn](https://github.com/wsdjeg/vim-galore-zh_cn)   
    [https://www.kancloud.cn/kancloud/learn-vimscript-the-hard-way/49321](https://www.kancloud.cn/kancloud/learn-vimscript-the-hard-way/49321)   
    [https://vimjc.com/page/11/](https://vimjc.com/page/11/)   

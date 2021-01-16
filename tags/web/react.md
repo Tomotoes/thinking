@@ -43,6 +43,29 @@
 
     A: 做个BFF层还是不错的
 
+11. 分享一个 111 页的PPT
+
+    Intro to React, Redux, and TypeScript [https://blog.isquaredsoftware.com/presentations/react-redux-ts-intro-2020-12/\#/](https://blog.isquaredsoftware.com/presentations/react-redux-ts-intro-2020-12/#/)
+
+    PPT 中简明扼要地讲了 React, Hooks, Styling, Redux, React-Redux, Redux-Toolkit, TypeScript 的基本概念, 以及使用场景.. 最后的推荐阅读链接 也不错
+
+12. 短信息分享: You may not be familiar with his name but React’s original creator, Jordan Walke, has left Facebook. This comes after ten years with the company where he put an indelible stamp on both React and Reason. In announcing his departure he simply said he is “starting a new company” but also goes to say that he will also be investing in startups in the React/Reason ecosystems which is great.
+13. 为什么不使用一个全局变量替代redux？ - 江湖术士的回答 - 知乎 [https://www.zhihu.com/question/428851039/answer/1673506867](https://www.zhihu.com/question/428851039/answer/1673506867)
+
+    暴躁老哥，在线答疑
+
+14. Redux-toolkit The official, opinionated, batteries-included toolset for efficient Redux development   
+    [https://github.com/reduxjs/redux-toolkit](https://github.com/reduxjs/redux-toolkit)
+
+    建议了解下 我准备在项目中落地下 这个库, 看起来比原始使用 redux 香很多 自带 reselect, redux-thunk, immer, 还提供了 多种 action creator..
+
+    reselect redex-thunk 都很让我印象深刻.. 之前看源码时.. 就短短一百行.. star 高达上万..
+
+    ![image-20210116154210717](../../.gitbook/assets/image-20210116154210717.png)  
+    这是 redux-thunk 的源码... 说白了 就是将 dispatch 传进函数中... [https://github.com/reduxjs/reselect/blob/master/src/index.js](https://github.com/reduxjs/reselect/blob/master/src/index.js) 这个是 reselect 源码, 就是做了个 memories 的事情... 这就是 redux 的生态
+
+
+
 ![](../../.gitbook/assets/image%20%2813%29.png)
 
 ![ &#x5206;&#x4EAB;&#x4E0B;&#x4ECA;&#x5929; coding &#x65F6;&#x5BF9; React &#x7684;&#x91CD;&#x65B0;&#x601D;&#x8003;..](../../.gitbook/assets/image%20%2811%29.png)

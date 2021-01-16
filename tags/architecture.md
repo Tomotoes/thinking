@@ -44,4 +44,9 @@
    文章不错，涉及了大部分概念。
 
 8. 【第 50 期】浅谈大型分布式 Web 系统的架构演进 [https://mp.weixin.qq.com/s/DAIv\_\_Qr1yt49ZXhm9Yy2g](https://mp.weixin.qq.com/s/DAIv__Qr1yt49ZXhm9Yy2g)
+9. 淘宝技术这十年 [https://weread.qq.com/web/appreader/016324b05a617e01617778fk636320102206364d3f0ffdc?wtheme=white&wfrom=app&wvid=244154583&scene=bottomSheetShare](https://weread.qq.com/web/appreader/016324b05a617e01617778fk636320102206364d3f0ffdc?wtheme=white&wfrom=app&wvid=244154583&scene=bottomSheetShare)
+
+   分享本书，讲得是淘宝从开始到10年之间的重要技术架构迭代，遇到的技术问题，以及一些产品方案上的实践。最后花了大篇幅讲了淘宝的各种大佬。
+
+   上面的长文字摘要 就来自这本书，花了50分钟读完了。 建议前面50%仔细读一下，后面的章节略读就好。
 

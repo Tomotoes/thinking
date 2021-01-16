@@ -563,5 +563,103 @@
 
     A: 是的.. 所以说 我整理元旦的三天消息 整理了一小时.. 但是 只录入 有价值的..
 
+27. ![image-20210116153628856](../.gitbook/assets/image-20210116153628856.png)
+
+    A: Py API 设计的真是糟糕, 这短短两行代码, 做的事情全都隐藏起来了 反而给开发者增加了心智负担
+
+    B: 。。list 原来还有 count？
+
+    A: 不清楚, py 很久没接触了
+
+    B: +1
+
+    C: 惊了
+
+    A: 我最讨厌的两门语言 php py
+
+    B: 哈哈哈哈
+
+    C: 真要说，JS的api不是更糟糕吗
+
+    A: 何以见得呢..
+
+    C: 就比如这个array.from
+
+    A: 怎么了..
+
+    B: array from 挺好用的我觉得哈哈哈
+
+    C: new Array\(n\)才是最符合直觉的 然而。。
+
+    A: 我不能接受这种命令式的声明.. 违背 pointfree 原则..
+
+    py 的 API 设计 我看到头大, 除了 那个生成式的特性, 以及一些语法上的特性 就比 10 &lt;= a &lt;=12, 切片.. 好像也什么我喜欢的了..
+
+    C: py除了lambda只能写一行，我觉得都还行吧（
+
+    B: 可以直接 Array\(n\) 啊
+
+    A: 这样我觉得更不好..
+
+    B: 那你喜欢啥样的
+
+    A: Array.from
+
+    B: ...... 传啥参数呢
+
+    A: Array.from\({length: n}, \(\) =&gt; initialValue\)
+
+    `const range = (start,end) => Array.from({length: end-start}, (_,i) => start + i)`
+
+    A: 关于 range 我最喜欢的就是 go 与 Haskell 可以生成无限自然数的数列了..
+
+    并且还是懒调用 还不会影响 performance
+
+    C: JS用generator也行吧
+
+    A: 可以的.. 支持 迭代器特性 语言应该都可以
+
+28. A: 最开始学 es6 那些新特性的时候, 我一直有个问题..
+
+    就是 Promise.all 里面的 promise task 到底是 并发 还是并行 或者说 还是顺序执行..
+
+    举个场景 await Promise.all\(\[request1, request2, ...\]\)
+
+    B: 好问题 我已经停止思考了
+
+    A: hah 和 event loop 有关
+
+    A: 我觉得 并行是存在的 并发也是存在的 顺序执行也是存在的
+
+    C: 我一直当并发理解的
+
+    A: 主要看 每个 promise 在不同场景下的运行.. 需要多个维度思考..
+
+    C: JS怎么并行啊，单线程，就跑在一个核吧
+
+    A: 假如 promise 执行的是 一个 IO 请求, 底层会并行执行的
+
+    并发执行 这个是 promise 的特性了 顺序执行 这个是 promise.all 的 check 机制
+
+    A: 之前做项目 每次写 await Promise.all 我都心里不踏实,感觉跟个黑盒似的..
+
+    现在没有.. 现在是写 css 有这种感觉.. 每次写定位 布局时, 都头大..
+
+    ![image-20210116154030382](../.gitbook/assets/image-20210116154030382.png)
+
+    我之前写的打包脚本, 感觉是 promise 的正确应用场景
+
+29. 分享个问题: A: RPC 位于 ISO 第几层？ 与HTTP , TCP是什么关系？
+
+    B: 和tcp在同一层？
+
+    A: No... 它也是个应用层协议..
+
+    C: 我理解也是应用层的 服务之间调用
+
+    B: 基于tcp的应用层协议 这样可以满分吗 马老师
+
+    A: No.. over TCP or UDP
+
 
 

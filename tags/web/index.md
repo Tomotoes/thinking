@@ -63,3 +63,19 @@
 
     而 App 中的敏捷工程化 代表的正是 Web 与 Native 结合了. 文中讲了目前的 Web 在移动端的发展 很全面. 背景,意义,业界实践, 都说的很细致.
 
+14. 快餐文分享: 【第1892期】GPU加速在前端的应用 [https://mp.weixin.qq.com/s/T8g8uSn6K\_5gz2DiPBWk9Q](https://mp.weixin.qq.com/s/T8g8uSn6K_5gz2DiPBWk9Q)
+
+    文章简单介绍了 GPU 做计算的优势, 以及前端如何借助 浏览器渲染机制利用 GPU 渲染. 原理就是 将 layer 提升成一个单独的图层..
+
+    目前 利用 GPU 计算 在业界已经有对应的产品落地了.. 就比如 常见的 webgl 库 three.js pixel.js 也有利用 GPU 做计算的数据库 等..
+
+15. 分享篇短文
+
+    2020 前端技术发展回顾
+
+    [https://mp.weixin.qq.com/s/b0pFJFXgBSyB56Ce86YMUg](https://mp.weixin.qq.com/s/b0pFJFXgBSyB56Ce86YMUg)
+
+16. 分享两个名词:
+    1. 动效 == 交互动画 界面动效能加强用户认知且增加活力。
+    2. 品质建设 == 优化应用 就如 前端品质建设 主要为了解决白屏渲染, 提高 FCP, FP 指数.
+

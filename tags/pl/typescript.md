@@ -308,3 +308,11 @@
 
     哎, 虽然 TS 只提供了 type extends infer 很少的关键字, 但已经做到 类型系统上 图灵完备了..
 
+26. TypeScript 4.2 Beta 发布   
+    [https://www.oschina.net/news/126465/typescript-4-2-beta-released](https://www.oschina.net/news/126465/typescript-4-2-beta-released)
+
+    语法新feature
+
+    1. 元祖类型的 Rest 元素支持放置在元组中的任何位置
+    2. 模板字面量表达式已具有模板字面量类型
+

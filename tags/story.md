@@ -34,3 +34,9 @@
 
    A: 哈哈，的确挺怪的
 
+6. 29岁两年狂赚77亿，35岁被判终身监禁，暗网“丝绸之路”缔造者的末路
+
+   [https://mp.weixin.qq.com/s/GoGIXpexrOOVjrqKs4Tdkg](https://mp.weixin.qq.com/s/GoGIXpexrOOVjrqKs4Tdkg)
+
+   这故事写的还挺波折
+

@@ -60,3 +60,11 @@
 
     不知 读写锁 与 cow 相比，是否性能更强..
 
+12. Q: 有啥好的java面试资料吗大佬们~
+
+    A: [https://github.com/Snailclimb/JavaGuide/](https://github.com/Snailclimb/JavaGuide/) 可以看下这个
+
+13. 快餐文分享: Java 并发编程之 JMM & volatile 详解 [https://segmentfault.com/a/1190000038926896](https://segmentfault.com/a/1190000038926896)
+
+    文章完美做到了 浅入深出.. 前面介绍基础概念 讲得不错, 后面 讲 volatile 时,少了一些相关概念..
+

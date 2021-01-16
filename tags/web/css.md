@@ -44,3 +44,14 @@
 
    [https://mp.weixin.qq.com/s/FE3IuNu66VxLDgHCHWIRVA](https://mp.weixin.qq.com/s/FE3IuNu66VxLDgHCHWIRVA)
 
+10. 分享篇文章，讲的挺好的
+
+    Facebook 重构：抛弃 Sass / Less ，迎接原子化 CSS 时代 [https://mp.weixin.qq.com/s/NmHUYZh\_ILG-Phe53NcoEg](https://mp.weixin.qq.com/s/NmHUYZh_ILG-Phe53NcoEg)
+
+11. ![image-20210116154309783](../../.gitbook/assets/image-20210116154309783.png)
+12. 动漫版 flexbox cheat sheets，图示敲可爱~
+
+    [https://dev.to/joyshaheb/flexbox-cheat-sheets-in-2021-css-2021-3edl?utm\_source=digest\_mailer&utm\_medium=email&utm\_campaign=digest\_email](https://dev.to/joyshaheb/flexbox-cheat-sheets-in-2021-css-2021-3edl?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
+
+13. CSS 目前的三种趋势:  CSS-in-CSS \(e.g. CSS, Preloader, CSS Modules\)  CSS-in-JS \(e.g. Styled Components, Emotion\)  Utility-First-CSS \(e.g. Tailwind CSS\)
+
