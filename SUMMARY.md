@@ -42,7 +42,7 @@
   * [Psychology](tags/psychology.md)
   * [Design](tags/design.md)
   * [Joke](tags/joke.md)
-  * [Deno&Node](tags/deno-and-node.md)
+  * [JS-Runtime](tags/js-runtime.md)
   * [Security](tags/security.md)
   * [Mobile](tags/mobile.md)
   * [Podcast](tags/podcast.md)

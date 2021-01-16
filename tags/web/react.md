@@ -64,53 +64,28 @@
     ![image-20210116154210717](../../.gitbook/assets/image-20210116154210717.png)  
     这是 redux-thunk 的源码... 说白了 就是将 dispatch 传进函数中... [https://github.com/reduxjs/reselect/blob/master/src/index.js](https://github.com/reduxjs/reselect/blob/master/src/index.js) 这个是 reselect 源码, 就是做了个 memories 的事情... 这就是 redux 的生态
 
+15. 开发组件时，经常把 UI state 与 data state 混合在一起，看起来乱哄哄，这方面有什么好的实践嘛？ 我发现大部分的时间都是在调ui 调交互..
+16. 分享一本刚刚整理的 React - Hooks 小册 - Dig deep into Hooks. 里面包括了一些 推荐阅读的源码库, 以及一些经典的 Hooks 片段. 前端的同学有空可以读一下~ 对掌握 Hooks 会更有帮助的. [Dig deep into Hooks](https://thinking.tomotoes.com/tags/docs/dig-deep-into-hooks) 这个小册没有包括 ahooks 中的一些例子, 因为 ahooks 每个 hook 之间存在耦合, 不容易整理成代码片段.. 其他参考链接中的 hooks , 对我产生价值的 都整理了..
+17. 快餐文分享:  5 Recommended Tools for Optimizing Performance in ReactJS  [https://blog.bitsrc.io/5-recommended-tools-for-optimizing-performance-in-reactjs-29eb2a3ec46d](https://blog.bitsrc.io/5-recommended-tools-for-optimizing-performance-in-reactjs-29eb2a3ec46d) 文章列举了检查 react performance 的一些工具:  1. React 提供的 Profiler 组件  2. React Developer tools plugin  3. why-did-you-render  4. Chrome Devtools - Performance timeline
+18. 好文分享:  将 React 作为 UI 运行时  [https://overreacted.io/zh-hans/react-as-a-ui-runtime/](https://overreacted.io/zh-hans/react-as-a-ui-runtime/) 摘要:  1. React 程序通常会输出一棵会随时间变化的树。 它有可能是一棵 DOM 树 ，iOS 视图层 ，PDF 原语 ，又或是 JSON 对象 。然而，通常我们希望用它来展示 UI 。我们称它为“宿主树”，因为它往往是 React 之外宿主环境中的一部分 — 就像 DOM 或 iOS 。宿主树通常有它自己的命令式 API 。而 React 就是它上面的那一层。 2. 请记住 React 元素并不是永远存在的 。它们总是在重建和删除之间不断循环着。 3. 我喜欢将 React 元素比作电影中放映的每一帧。它们捕捉 UI 在特定的时间点应该是什么样子。它们永远不会再改变。 4. 令人讽刺地是，React 并没有使用“反应式”的系统来支持细粒度的更新。换句话说，任何在顶层的更新只会触发协调而不是局部更新那些受影响的组件。 这样的设计是有意而为之的。对于 web 应用来说交互时间是一个关键指标，而通过遍历整个模型去设置细粒度的监听器只会浪费宝贵的时间。此外，在很多应用中交互往往会导致或小（按钮悬停）或大（页面转换）的更新，因此细粒度的订阅只会浪费内存资源。  我喜欢将 React 元素比作电影中放映的每一帧, 它们捕捉 UI 在特定的时间点应该是什么样子。 这句话很有价值.. 这就是 React 的 render 原理体现.
+19. Question: 以下组件 存在什么问题?
 
+    ```text
+    const handleClick = () => {}
+    <Button type="primary" onClick={() => handleClick()}> Click me </Button> 
+    ```
+
+    A: 每次渲染都会重复构造一遍这个回调函数  
+    B: 好家伙，我垃圾代码看多了，这种没放在 usecallback 的函数我已经习以为常了。。。  
+    C: 嗯 每次 render 时, onClick 都是一个新的函数, 而函数是引用类型, 所以 每次render 时 都会重新 render Button 组件...
 
 ![](../../.gitbook/assets/image%20%2813%29.png)
 
 ![ &#x5206;&#x4EAB;&#x4E0B;&#x4ECA;&#x5929; coding &#x65F6;&#x5BF9; React &#x7684;&#x91CD;&#x65B0;&#x601D;&#x8003;..](../../.gitbook/assets/image%20%2811%29.png)
 
-好文分享:   
-将 React 作为 UI 运行时   
-[https://overreacted.io/zh-hans/react-as-a-ui-runtime/](https://overreacted.io/zh-hans/react-as-a-ui-runtime/)  
-摘要:   
-1. React 程序通常会输出一棵会随时间变化的树。 它有可能是一棵 DOM 树 ，iOS 视图层 ，PDF 原语 ，又或是 JSON 对象 。然而，通常我们希望用它来展示 UI 。我们称它为“宿主树”，因为它往往是 React 之外宿主环境中的一部分 — 就像 DOM 或 iOS 。宿主树通常有它自己的命令式 API 。而 React 就是它上面的那一层。  
-2. 请记住 React 元素并不是永远存在的 。它们总是在重建和删除之间不断循环着。  
-3. 我喜欢将 React 元素比作电影中放映的每一帧。它们捕捉 UI 在特定的时间点应该是什么样子。它们永远不会再改变。  
-4. 令人讽刺地是，React 并没有使用“反应式”的系统来支持细粒度的更新。换句话说，任何在顶层的更新只会触发协调而不是局部更新那些受影响的组件。 这样的设计是有意而为之的。对于 web 应用来说交互时间是一个关键指标，而通过遍历整个模型去设置细粒度的监听器只会浪费宝贵的时间。此外，在很多应用中交互往往会导致或小（按钮悬停）或大（页面转换）的更新，因此细粒度的订阅只会浪费内存资源。  
-  
-我喜欢将 React 元素比作电影中放映的每一帧, 它们捕捉 UI 在特定的时间点应该是什么样子。  
-这句话很有价值.. 这就是 React 的 render 原理体现.
+![&#x8BBE;&#x8BA1;&#x4F18;&#x79C0;&#x7684;&#x4EE3;&#x7801;, &#x770B;&#x8D77;&#x6765;&#x5C31;&#x50CF;&#x8BD7;&#x4E00;&#x6837;&#x7684;&#x4F18;&#x7F8E;..](../../.gitbook/assets/image-20210104232439943.png)
 
-快餐文分享:   
-5 Recommended Tools for Optimizing Performance in ReactJS   
-[https://blog.bitsrc.io/5-recommended-tools-for-optimizing-performance-in-reactjs-29eb2a3ec46d](https://blog.bitsrc.io/5-recommended-tools-for-optimizing-performance-in-reactjs-29eb2a3ec46d)  
-文章列举了检查 react performance 的一些工具:   
-1. React 提供的 Profiler 组件   
-2. React Developer tools plugin   
-3. why-did-you-render   
-4. Chrome Devtools - Performance timeline
 
-Question: 以下组件 存在什么问题?
 
-```text
-const handleClick = () => {}
-<Button type="primary" onClick={() => handleClick()}> Click me </Button> 
-```
 
-A: 每次渲染都会重复构造一遍这个回调函数  
-B: 好家伙，我垃圾代码看多了，这种没放在 usecallback 的函数我已经习以为常了。。。  
-C: 嗯 每次 render 时, onClick 都是一个新的函数, 而函数是引用类型, 所以 每次render 时 都会重新 render Button 组件...
-
-设计优秀的代码, 看起来就像诗一样的优美..
-
-![image-20210104232439943](../../.gitbook/assets/image-20210104232439943.png)
-
-分享一本刚刚整理的 React - Hooks 小册 - Dig deep into Hooks.  
-里面包括了一些 推荐阅读的源码库, 以及一些经典的 Hooks 片段. 前端的同学有空可以读一下~ 对掌握 Hooks 会更有帮助的.  
-[Dig deep into Hooks](https://thinking.tomotoes.com/tags/docs/dig-deep-into-hooks)  
-这个小册没有包括 ahooks 中的一些例子, 因为 ahooks 每个 hook 之间存在耦合, 不容易整理成代码片段..  
-其他参考链接中的 hooks , 对我产生价值的 都整理了..
-
-开发组件时，经常把 UI state 与 data state 混合在一起，看起来乱哄哄，这方面有什么好的实践嘛？ 我发现大部分的时间都是在调ui 调交互..
 
