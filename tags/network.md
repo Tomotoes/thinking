@@ -21,3 +21,14 @@
 
    本文不是 HTTP response header 的最佳实践, 而是介绍了 有哪些 field 实质上是没有必要的.
 
+4. 快餐文分享:   
+   Hardening Website Security – Part 1: HTTP Security Headers [https://int64software.com/blog/2018/11/05/hardening-website-security-part-1-http-security-headers/](https://int64software.com/blog/2018/11/05/hardening-website-security-part-1-http-security-headers/)
+
+   文章讲了一些常见的 HTTP 安全头概念, 以及如何设置\(Nginx Apache PHP ASP IIS\)
+
+   1. X-Frame-Options: 有关 iFrame 嵌入的限制选项
+   2. X-XSS-Protection: XSS 安全设置
+   3. X-Content-Type-Options: 浏览器嗅探文件选项
+   4. Strict-Transport-Security: HTTPS 相关
+   5. CSP, Content-Security-Policy: 前端必会, 面试也常问 不懂的同学可以去了解下了
+

@@ -9,3 +9,15 @@
 
    ![image-20210107192741718](../.gitbook/assets/image-20210107192741718.png)
 
+3. 分享篇文章:   
+   My Bootstrapped Micro-Startup got acquired for $22k   
+   [https://mohddanish.me/my-bootstrapped-micro-startup-got-acquired-for-usd22k-10](https://mohddanish.me/my-bootstrapped-micro-startup-got-acquired-for-usd22k-10)
+
+   一个独立开发者, 在辞职后 打算开发一款 简历生成器 项目, 在此过程中 遇到了 Github 上的 PublicAPI 库 \(我之前看到这个库时, 就想利用它做点什么..\), 然后他为这个库搭建了一个可视化使用界面, 在长达 8 个月后, 他把这个产品卖了 20k 美金.. 这 8 个月中, 他又基于 twitter 上 有人发布招聘信息的场景, 开发了一款收集招聘信息的应用..
+
+   看完这篇文章, 我又想起我之前的一个观点.. 一个产品往往都是 能看到它潜力的人 才会驱动起来, 并不一定不是发明者.
+
+   并且很多时候信息差真的很重要, 在我 TODO 清单中一直有个条目没有实施: 利用信息差 发现可以挖掘的产品 然后借助现在营销的手段 搞点东西出来
+
+   目前国内的最短糙快的营销平台就是 抖音了.. 我之前看过一个身边的产品落地, 就是利用网上修复老照片的服务, 然后找各种自媒体推广, 最后 将流量引导到微信中 快速盈利..
+

@@ -244,5 +244,10 @@
 
     我之前写的打包脚本, 感觉是 promise 的正确应用场景
 
+16. 分享一个JS清单: [https://github.com/DrkSephy/es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
+17. ![image-20210118000520853](../../.gitbook/assets/image-20210118000520853.png)
+
+    两行代码实现全排列..
+
 ​
 

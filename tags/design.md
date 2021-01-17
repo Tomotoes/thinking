@@ -18,3 +18,12 @@
 
    [https://www.inneed.club/articles/detail/l5xgd43gdw](https://www.inneed.club/articles/detail/l5xgd43gdw)
 
+5. 分享两个视频:
+
+   1. UI Design Trends 2021 [https://www.youtube.com/watch?v=5RluSnRPRbI&ab\_channel=DesignSense](https://www.youtube.com/watch?v=5RluSnRPRbI&ab_channel=DesignSense)
+   2. UX Design Trends 2021 [https://www.youtube.com/watch?v=tPoRAL7Lm1M&ab\_channel=DesignSense](https://www.youtube.com/watch?v=tPoRAL7Lm1M&ab_channel=DesignSense)
+
+   2021 UI/UX 演讲趋势, 看完让我大开眼界, 每一个设计都具有美感, 尤其是 Colorless Design , 个人太喜欢了.. 美得溢出屏幕.. 还有在 AR 时代的 UX 设计, 科技感满满..
+
+6. 分享一个调色板网站: [https://www.happyhues.co/palettes/17](https://www.happyhues.co/palettes/17)  网站中的每种调色方案, 都很让人舒服, 即简洁又突出重点
+

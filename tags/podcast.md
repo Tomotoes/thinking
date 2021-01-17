@@ -31,3 +31,10 @@
 
    三个上岸的大佬分享校招的一些亲身事情与经验。
 
+4. [https://moon.fm/share/episode/2606/](https://moon.fm/share/episode/2606/)  🎙Ep 14. 聊聊职场中的那些坑 关于 Google 的两位大佬，阿里的一位大佬 之间的一场闲聊，好玩的点挺多的
+5. [https://moon.fm/share/episode/2646/](https://moon.fm/share/episode/2646/)  🎙\#78 - 和 Vue.js 框架的作者聊聊前端框架开发背后的故事
+6. 今日Podcast分享: [https://moon.fm/share/episode/2631/](https://moon.fm/share/episode/2631/)   
+   🎙Ep 10. 和 ctrlsf 的作者 dyng 聊聊 Vim
+
+   大佬们之间的关于Vim的闲聊，听完没什么干货，完全当成背景声了..
+

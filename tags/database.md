@@ -49,4 +49,9 @@
    通过在线关卡的方式 一步一步引导你 如何写出基本的 SQL 语句。 可以花几分钟刷一下，很好玩~
 
 6. 在你的认知中 数据库索引 是什么？ 数据结构。
+7. 分享一个简单的数据库\(基于文件系统\):
+
+   Kn-DB [https://github.com/Knove/knDB/blob/master/README.CN.md](https://github.com/Knove/knDB/blob/master/README.CN.md)
+
+   源码很简单, 正是应了那句话 最早的数据库 就是文件系统.. 这个库做到事情就是 对文件包了一层 IO 接口..
 

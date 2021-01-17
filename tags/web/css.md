@@ -54,4 +54,19 @@
     [https://dev.to/joyshaheb/flexbox-cheat-sheets-in-2021-css-2021-3edl?utm\_source=digest\_mailer&utm\_medium=email&utm\_campaign=digest\_email](https://dev.to/joyshaheb/flexbox-cheat-sheets-in-2021-css-2021-3edl?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 
 13. CSS 目前的三种趋势:  CSS-in-CSS \(e.g. CSS, Preloader, CSS Modules\)  CSS-in-JS \(e.g. Styled Components, Emotion\)  Utility-First-CSS \(e.g. Tailwind CSS\)
+14. 点击网页的按钮, 如何只利用 CSS 发起网络请求:
+
+    .some-button:active { background-image: url\('some\_image.jpg'\) }
+
+    点击按钮时, 触发 按钮 active 状态, 然后应用到 CSS 规则的 background-image: url\(图片地址\) 这就相当于对 图片地址 发起了一次网络请求..
+
+15. 分享个网站: cssdb [https://cssdb.org/](https://cssdb.org/)
+
+    cssdb is a comprehensive list of CSS features and their positions in the process of becoming implemented web standards.
+
+    未来 CSS 的新feature 都可以在这里找到~
+
+    @media \(480px &lt;= width &lt; 768px\) {}
+
+    关于媒体查询器, 新的语法方案, 看起来挺期待的.
 

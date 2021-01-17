@@ -52,7 +52,25 @@
 
 10. 程序员基础掌握得好学新东西真的就快么？ - invalid s的回答 - 知乎 [https://www.zhihu.com/question/332732069/answer/737894772](https://www.zhihu.com/question/332732069/answer/737894772)
 11. [漫画 \| 程序员必须要小心的7个潜规则](https://mp.weixin.qq.com/s/ubzCmQTL7wt9GEoSqueicw)
-12. 我突然想到了一个点, coding 时有一个问题一直无法绕过.. 就是命名了..
+12. I think there's fundamentally 3 architypes of programmers, divided by which ideals we hold in highest esteem:
+
+    1. You are a poet and a mathematician. Programming is your poetry
+    2. You are a hacker. You make hardware dance to your tune
+    3. You are a maker. You build things for people to use
+
+    这个opinion 是我最近听到最感同身受的一个了.. 很幸福, 这3种分类 我都有体验过~
+
+13. 好文分享: 3 tribes of programming [https://josephg.com/blog/3-tribes/](https://josephg.com/blog/3-tribes/)
+
+    文章介绍了 编程语言的三种阵营, 也正对开发者的不同方向.
+
+    1. Programming as applied mathematics 学术界的代表: Haskell, FP理论
+    2. Programming as hardware hacking 注重性能的底层语言: C系列, 汇编
+    3. Programming as a tool to make things 开发应用的语言: 前端..
+
+    Ultimately code is code. Even though we have different reasons for writing software, what we write is \(usually\) compatible. And even when its not \(looking at you, Haskell\) - there's always a lot of ideas we can learn from and steal. 作者的主要思想: crosses multiple tribal lines
+
+14. 我突然想到了一个点, coding 时有一个问题一直无法绕过.. 就是命名了..
 
     命名变量的时候, 用名词堆叠 再符合个命名规范就可以了
 
@@ -145,4 +163,8 @@
     我经常闹这种情况..
 
     B: 我喜欢前面加个new， newPageList
+
+15. Question: 如何在编程角度复用资源？
+
+    A: 单例与池化
 
