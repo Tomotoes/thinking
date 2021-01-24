@@ -1,3 +1,7 @@
+---
+description: 图像
+---
+
 # Image
 
 1. ![&#x56FE;&#x50CF;](../.gitbook/assets/EnglzPaVkAAkV6b%20%281%29.jpeg)

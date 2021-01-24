@@ -1,3 +1,7 @@
+---
+description: 操作系统
+---
+
 # OS
 
 1. [Linux系统调用详解（实现机制分析）](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650234968&idx=2&sn=ac66f50ab865f063b86620c970c029df&chksm=befe60798989e96fb5083482a41c85c248b460fcf0514a4f64bf8099aa6a4537d27caab31676&mpshare=1&scene=1&srcid=11142yPKPW3WuUYBzuK3EokC&sharer_sharetime=1605363487361&sharer_shareid=765a226e8a94a0d2fa33e57e9363afac&key=29a501fbe6d282a45bd111ba4fd954778d62b6559d909de6d8ddffe3b99a817ec3bd844d3ddfeb6a0c9f0df941e9e0ab5c92fc5a0ca1e95c79b8c47b9432d7e537e9827500d98eb0ce7a767187579ab865692be105a2492c53cccd3eedef92c375f62e613c5bc641dd6785b8418b580d95b01794c12abfadc571983b57639ba7&ascene=1&uin=MzA1OTU5NTc0&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AxzKkI9tPkDQa0lLx3WZmw0%3D&pass_ticket=SgzS0tNZCexKGAoYVX6Ti8IwGWyAv%2BQfFRa5bUFUlvkEAgmSXJ03rdvqroRZOQYI&wx_header=0)
@@ -101,4 +105,14 @@
 21. 打开线程 \| 进程 \| 协程的大门
 
     [https://mp.weixin.qq.com/s/NP2TEpgIArJrHagGfq5N2A](https://mp.weixin.qq.com/s/NP2TEpgIArJrHagGfq5N2A) 文章很长，很啰嗦，到涉及的基础概念还是挺全的。
+
+22. Linux 常见的文件类型:
+    1. 普通文件
+    2. 目录文件
+    3. 块设备文件和字符设备文件-外设
+    4. FIFO 管道
+    5. Socket
+    6. 符号链接
+23. 计算机图形的两种分支: 矢量图形与光栅图形\(位图\)
+24. 计算密集与IO密集最本质的差别 就是 计算密集主要在用户态花费时间，IO密集则是在内核态。
 

@@ -1,3 +1,7 @@
+---
+description: 开发模式
+---
+
 # Coding
 
 1. 最难调试修复的 bug 是怎样的？ - doodlewind的回答 - 知乎 [https://www.zhihu.com/question/21991014/answer/1513267624](https://www.zhihu.com/question/21991014/answer/1513267624)
@@ -167,4 +171,10 @@
 15. Question: 如何在编程角度复用资源？
 
     A: 单例与池化
+
+16. 分享篇文章:
+
+    圣杯与银弹 · 没用的设计模式
+
+    [https://mp.weixin.qq.com/s/3TbunRkouM7PtCQrC52brQ](https://mp.weixin.qq.com/s/3TbunRkouM7PtCQrC52brQ)
 

@@ -249,5 +249,10 @@
 
     两行代码实现全排列..
 
+18. 快餐文分享:   
+    🦸‍♂️ 11 JavaScript Tips and Tricks to Code Like A Superhero \(Vol.2\) [https://dev.to/orkhanjafarovr/11-javascript-tips-and-tricks-to-code-like-a-superhero-vol-2-mp6](https://dev.to/orkhanjafarovr/11-javascript-tips-and-tricks-to-code-like-a-superhero-vol-2-mp6)
+
+    我喜欢这个片段
+
 ​
 

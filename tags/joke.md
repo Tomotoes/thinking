@@ -1,3 +1,7 @@
+---
+description: 破梗
+---
+
 # Joke
 
 1. ![image-20201122150516492](../.gitbook/assets/image-20201122150516492.png)
@@ -89,7 +93,31 @@
     C: 欺负领导不懂，瞎汇报
 
 27. 灭霸打响指的源码: DELETE FROM people where rand\(\) &lt; 0.5
-28. V社 这帖子笑死了..  问一下前端大佬，你们公司的产品或者 UI，在出原型或者设计稿的时候，是怎么体现动画的？ [https://v2ex.com/t/742168\#reply29](https://v2ex.com/t/742168#reply29)
+28. 如何看待 QQ 扫描读取所有浏览器的历史记录？ - 360安全卫士的回答 - 知乎 [https://www.zhihu.com/question/439768601/answer/1683922148](https://www.zhihu.com/question/439768601/answer/1683922148)
+
+    hah 第二次 3Q 大战~
+
+29. ![image-20210124124443236](../.gitbook/assets/image-20210124124443236.png)
+30. V社 这帖子笑死了..  问一下前端大佬，你们公司的产品或者 UI，在出原型或者设计稿的时候，是怎么体现动画的？ [https://v2ex.com/t/742168\#reply29](https://v2ex.com/t/742168#reply29)
+31. 垃圾代码编写规范: State-of-the-Art Shitcode Principles
+
+    [https://github.com/trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode)
+
+    建议全文背诵￼
+
+32. 程序员的信仰之争： Vim vs Emacs, Tab vs Space - 老莫的视频 - 知乎 [https://www.zhihu.com/zvideo/1293595906412236800](https://www.zhihu.com/zvideo/1293595906412236800)
+
+    我绝对不会与 用空格键而不是Tab的人同床共枕。 hah 太搞了…
+
+33. 分享个帖子, 太好玩了: 个人博客一般怎么增加用户粘性？ [https://v2ex.com/t/746884\#reply35](https://v2ex.com/t/746884#reply35)
+
+    下面有个回答是: 得用 python 写，因为...python 号称胶水语言 /doge
+
+34. ![image-20210124130756895](../.gitbook/assets/image-20210124130756895.png)
+
+    并发出轨可太秀了
+
+35. ![image-20210124130335179](../.gitbook/assets/image-20210124130335179.png)
 
 ![&#x8FD9;&#x5E16;&#x5B50;&#x7EDD;&#x5BF9;&#x662F;&#x6765;&#x641E;&#x4E8B;&#x60C5;&#x7684;](../.gitbook/assets/image%20%2810%29.png)
 

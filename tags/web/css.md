@@ -70,3 +70,17 @@
 
     关于媒体查询器, 新的语法方案, 看起来挺期待的.
 
+16. 快餐文分享:
+
+    CSS Tips you won't see in most tutorials [https://denic.hashnode.dev/css-tips-you-wont-see-in-most-tutorials](https://denic.hashnode.dev/css-tips-you-wont-see-in-most-tutorials)
+
+17. 快餐文分享: CSS Grid 网格布局教程 [http://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html](http://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html)
+
+    摘要: Grid 布局与 Flex 布局有一定的相似性，都可以指定容器内部多个项目的位置。但是，它们也存在重大区别。 Flex 布局是轴线布局，只能指定"项目"针对轴线的位置，可以看作是一维布局。Grid 布局则是将容器划分成"行"和"列"，产生单元格，然后指定"项目所在"的单元格，可以看作是二维布局。Grid 布局远比 Flex 布局强大。
+
+18. 快餐文分享: Scoping CSS using Shadow DOM [https://blog.bitsrc.io/scoping-css-using-shadow-dom-a548985b73af](https://blog.bitsrc.io/scoping-css-using-shadow-dom-a548985b73af)
+
+    使用 Shadow DOM 去隔离 不同应用之间的样式
+
+    应用场景 太适合 微前端了..
+

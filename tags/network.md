@@ -1,3 +1,7 @@
+---
+description: 计算机网络
+---
+
 # Network
 
 1. Q: HTTP状态码204代表着什么？ A: HTTP 204 No Content 成功状态响应码，表示该请求已经成功了
@@ -31,4 +35,10 @@
    3. X-Content-Type-Options: 浏览器嗅探文件选项
    4. Strict-Transport-Security: HTTPS 相关
    5. CSP, Content-Security-Policy: 前端必会, 面试也常问 不懂的同学可以去了解下了
+
+5. 分享篇文章:
+
+   被拆分的身份证
+
+   [https://mp.weixin.qq.com/s/XohlUmqYEVXTyxjPsDm3pA](https://mp.weixin.qq.com/s/XohlUmqYEVXTyxjPsDm3pA) 一个网络包从节点A发到节点B，这个过程中 只有目标IP地址是不变的。
 

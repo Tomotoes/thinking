@@ -1,3 +1,7 @@
+---
+description: 职场
+---
+
 # Workplace
 
 1. 分享个视频: 因为看到同事被抬上救护车我被拼多多开除了 [https://www.youtube.com/watch?v=Vs8c5fYQlVc&feature=youtu.be&ab\_channel=wuqi](https://www.youtube.com/watch?v=Vs8c5fYQlVc&feature=youtu.be&ab_channel=wuqi)
@@ -9,4 +13,11 @@
    保护自己 1、不要用公司发配的设备登录个人账号 2、不要使用公司网络干工作无关的事情 3、公司系统中的密码与私人密码需要明确区分开 4、QQ微信最好准备工作账号，私人账号不要介入公司WIFI等
 
 3. 分享篇文章: 我在拼多多这三年 [https://github.com/LeadroyaL/pdd\_3years/blob/master/pdd\_3year.md](https://github.com/LeadroyaL/pdd_3years/blob/master/pdd_3year.md)
+4. 分享篇文章:
+
+   Worth Moving to Sweden as Engineers? [https://hongchao.me/living-and-working-in-sweden-as-engineers/](https://hongchao.me/living-and-working-in-sweden-as-engineers/)
+
+   一名国人开发者在瑞典的十年回首.
+
+   文中涉及到的很多关于福利, 工作环境的问题 都很现实.
 

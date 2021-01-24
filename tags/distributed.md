@@ -1,3 +1,7 @@
+---
+description: 分布式理论
+---
+
 # Distributed
 
 1. 好文分享: 深度解析 Raft 分布式一致性协议 [https://juejin.cn/post/6907151199141625870](https://juejin.cn/post/6907151199141625870)

@@ -78,4 +78,98 @@
 16. 分享两个名词:
     1. 动效 == 交互动画 界面动效能加强用户认知且增加活力。
     2. 品质建设 == 优化应用 就如 前端品质建设 主要为了解决白屏渲染, 提高 FCP, FP 指数.
+17. 好文分享:
+
+    前端架构发展史 [https://tomotoes.com/blog/history-of-front-end-architecture/](https://tomotoes.com/blog/history-of-front-end-architecture/)
+
+    摘要: 在1990年，Tim Berners-Lee 在他的 NeXT 电脑上部署了第一套“主机-网站-浏览器”构成的Web系统，这标志着前端的开始。 在最初，前端是一片荒芜的，经过浏览器大战，W3C 标准化的过程 前端才慢慢成长了起来。
+
+    这篇文章 读了很多遍, 主要讲了 前端改革 30 年，从一片荒芜到微前端兴起, 很有价值, 并且文笔很好, 推荐阅读.
+
+    本文作者 是我一朋友￼, 狗头
+
+18. 分享篇文章:
+
+    微前端到底是什么？
+
+    [https://zhuanlan.zhihu.com/p/96464401?utm\_source=wechat\_session&utm\_medium=social&utm\_oi=1088870436204318720&utm\_campaign=shareopn](https://zhuanlan.zhihu.com/p/96464401?utm_source=wechat_session&utm_medium=social&utm_oi=1088870436204318720&utm_campaign=shareopn)
+
+19. 分享篇文章:
+
+    JS Bridge 通信原理
+
+    [https://mp.weixin.qq.com/s/cBsmunLXLBEtR14cFfy1LQ](https://mp.weixin.qq.com/s/cBsmunLXLBEtR14cFfy1LQ)
+
+    可以着重看下概念与前端调用的方式
+
+20. \(2020.11.14\) 分享一篇我今天看的好文, 值得前端同学读. [https://3perf.com/talks/web-perf-101/](https://3perf.com/talks/web-perf-101/)
+
+    摘要: This is an introduction to the modern web loading performance. Learn why performance is important, what performance optimizations exist and what tools help to understand if your app is doing well.
+
+21. 快餐文分享:
+
+    JavaScript: Conditional JavaScript, only download when it is appropriate to do so
+
+    [https://umaar.com/dev-tips/242-considerate-javascript/](https://umaar.com/dev-tips/242-considerate-javascript/)
+
+    如何根据终端的配置来进一步优化 UX 呢?这篇文章给出了一些例子.
+
+22. 快餐文分享:   
+    页面的加载优化方案   
+    [https://blog.serenader.me/ye-mian-de-jia-zai-xing-neng-you-hua-fang-an](https://blog.serenader.me/ye-mian-de-jia-zai-xing-neng-you-hua-fang-an)
+
+    涉及了一些常见的点，可以简单刷下。
+
+23. 哇 我发现了一个宝藏 up 主 , objtube的卢克儿 下面是他的一个视频: 【干货】浏览器是如何运作的？
+
+    [https://www.bilibili.com/video/BV1x54y1B7RE](https://www.bilibili.com/video/BV1x54y1B7RE)
+
+    讲的很不错, 有空可以看看
+
+24. ![image-20201122150208414](../../.gitbook/assets/image-20201122150208414%20%282%29%20%282%29.png)
+25. 好文分享:
+
+    Inside look at modern web browser
+
+    [https://developers.google.com/web/updates/2018/09/inside-browser-part1](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+
+    该系列由 Google 技术专家编写, 分为 4 个部分: 第一部分讲了 现代浏览器的架构. 第二部分讲了 页面导航时 浏览器内部发生的活动 第三部分讲了 浏览器如何渲染一个页面 第四部分讲了 浏览器处理事件时的动作
+
+    非常建议 前端同学花点时间 阅读下该系列文章的, 是很有帮助的.
+
+26. 据报道称“浏览器内核有上千万行代码”，浏览器内核真的很复杂吗？ - 龙泉寺扫地僧的回答 - 知乎 [https://www.zhihu.com/question/290767285/answer/1200063036](https://www.zhihu.com/question/290767285/answer/1200063036)
+27. 1995 - 2019浏览器大战 - 深度学习于NLP的视频 - 知乎 [https://www.zhihu.com/zvideo/1286027542877270016](https://www.zhihu.com/zvideo/1286027542877270016)
+
+    02年 IE 市场占用率高达95%，但到现在已经出局。
+
+28. Things you can do with a browser in 2020 [https://github.com/luruke/browser-2020](https://github.com/luruke/browser-2020)
+29. 快餐文分享:   
+    Introducing: The Async Cookie Store API   
+    [https://medium.com/nmc-techblog/introducing-the-async-cookie-store-api-89cbecf401f](https://medium.com/nmc-techblog/introducing-the-async-cookie-store-api-89cbecf401f)
+
+    摘要: Are you sick and tired of weird ways to get cookies fromdocument.cookie ? Hate it that you don’t know whether the cookie you set was actually saved or not? Introducing: Cookie Store API, available on Chrome version 87!
+
+    有生之年系列.
+
+30. JS 在浏览器环境中 真正的并行执行..
+
+    ![image-20210104232415831](../../.gitbook/assets/image-20210104232415831.png)
+
+    通过 Worker API 去实现
+
+    分享一篇没建群之前看过的好文
+
+    Web Worker 文献综述 [http://www.alloyteam.com/2020/07/14680/](http://www.alloyteam.com/2020/07/14680/)
+
+    是腾讯 AlloyTeam 团队写的, 文章写的有深度, 该介绍的都介绍了.
+
+31. 快餐文分享:   
+    浅谈移动端开发技术   
+    [https://mp.weixin.qq.com/s/TXBRUVoOBDxr8P9Iw5FpTQ](https://mp.weixin.qq.com/s/TXBRUVoOBDxr8P9Iw5FpTQ)
+
+    文章花大篇幅讲了 hybrid 在移动端的一些原理
+
+    在移动端 昂贵的不是 触发 render 的次数, 而是通信的次数.
+
+    都说了 还是扩展下吧: web 的性能瓶颈 在于单线程模型, 这就是为什么 react 16 提出了 增量化 fiber 架构 移动端的 hybrid 的性能瓶颈 在于 线程通信, 不过 RN 从一开始就常用的 vdom, 可以将多次修改 增量化
 

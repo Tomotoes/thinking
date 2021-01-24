@@ -1,6 +1,11 @@
+---
+description: 产品
+---
+
 # Product
 
-1. 分享一个推: [https://twitter.com/xiqingongzi/status/1336353507167780864?s=20](https://twitter.com/xiqingongzi/status/1336353507167780864?s=20)
+1. 分享一个推:   
+   [https://twitter.com/xiqingongzi/status/1336353507167780864?s=20](https://twitter.com/xiqingongzi/status/1336353507167780864?s=20)
 
    开发者搞项目的一个迷思：关注技术。但除了极少数项目，绝大多数项目都不是靠技术赚钱的。更应该关注的是，产品设计、运营策略、流量来源、转化效率，技术是所有环节中最不起眼的那个。
 
@@ -20,4 +25,10 @@
    并且很多时候信息差真的很重要, 在我 TODO 清单中一直有个条目没有实施: 利用信息差 发现可以挖掘的产品 然后借助现在营销的手段 搞点东西出来
 
    目前国内的最短糙快的营销平台就是 抖音了.. 我之前看过一个身边的产品落地, 就是利用网上修复老照片的服务, 然后找各种自媒体推广, 最后 将流量引导到微信中 快速盈利..
+
+4. 分享篇文章:
+
+   [https://medium.com/@jaf\_designer/why-product-thinking-is-the-next-big-thing-in-ux-design-ee7de959f3fe](https://medium.com/@jaf_designer/why-product-thinking-is-the-next-big-thing-in-ux-design-ee7de959f3fe)
+
+   设计产品时，最应该关注的是 用户最基本的体验，而不是各种特性。这才是一个产品的成功之本。
 

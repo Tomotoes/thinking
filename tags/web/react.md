@@ -68,7 +68,8 @@
 16. 分享一本刚刚整理的 React - Hooks 小册 - Dig deep into Hooks. 里面包括了一些 推荐阅读的源码库, 以及一些经典的 Hooks 片段. 前端的同学有空可以读一下~ 对掌握 Hooks 会更有帮助的. [Dig deep into Hooks](https://thinking.tomotoes.com/tags/docs/dig-deep-into-hooks) 这个小册没有包括 ahooks 中的一些例子, 因为 ahooks 每个 hook 之间存在耦合, 不容易整理成代码片段.. 其他参考链接中的 hooks , 对我产生价值的 都整理了..
 17. 快餐文分享:  5 Recommended Tools for Optimizing Performance in ReactJS  [https://blog.bitsrc.io/5-recommended-tools-for-optimizing-performance-in-reactjs-29eb2a3ec46d](https://blog.bitsrc.io/5-recommended-tools-for-optimizing-performance-in-reactjs-29eb2a3ec46d) 文章列举了检查 react performance 的一些工具:  1. React 提供的 Profiler 组件  2. React Developer tools plugin  3. why-did-you-render  4. Chrome Devtools - Performance timeline
 18. 好文分享:  将 React 作为 UI 运行时  [https://overreacted.io/zh-hans/react-as-a-ui-runtime/](https://overreacted.io/zh-hans/react-as-a-ui-runtime/) 摘要:  1. React 程序通常会输出一棵会随时间变化的树。 它有可能是一棵 DOM 树 ，iOS 视图层 ，PDF 原语 ，又或是 JSON 对象 。然而，通常我们希望用它来展示 UI 。我们称它为“宿主树”，因为它往往是 React 之外宿主环境中的一部分 — 就像 DOM 或 iOS 。宿主树通常有它自己的命令式 API 。而 React 就是它上面的那一层。 2. 请记住 React 元素并不是永远存在的 。它们总是在重建和删除之间不断循环着。 3. 我喜欢将 React 元素比作电影中放映的每一帧。它们捕捉 UI 在特定的时间点应该是什么样子。它们永远不会再改变。 4. 令人讽刺地是，React 并没有使用“反应式”的系统来支持细粒度的更新。换句话说，任何在顶层的更新只会触发协调而不是局部更新那些受影响的组件。 这样的设计是有意而为之的。对于 web 应用来说交互时间是一个关键指标，而通过遍历整个模型去设置细粒度的监听器只会浪费宝贵的时间。此外，在很多应用中交互往往会导致或小（按钮悬停）或大（页面转换）的更新，因此细粒度的订阅只会浪费内存资源。  我喜欢将 React 元素比作电影中放映的每一帧, 它们捕捉 UI 在特定的时间点应该是什么样子。 这句话很有价值.. 这就是 React 的 render 原理体现.
-19. Question: 以下组件 存在什么问题?
+19. [https://usehooks.com/useKonamiCode/](https://usehooks.com/useKonamiCode/)  分享一个有趣的 hooks, up up down down left right left right B A 的按键 彩蛋
+20. Question: 以下组件 存在什么问题?
 
     ```text
     const handleClick = () => {}

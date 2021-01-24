@@ -1,3 +1,7 @@
+---
+description: 架构
+---
+
 # Architecture
 
 1. 快餐文分享:
@@ -72,15 +76,13 @@
 
     ![image-20210118000403355](../.gitbook/assets/image-20210118000403355.png)
 
-13. 常见的负载均衡实现场景:
+13. 微服务架构（Microservices Architecture, MSA）的出现并非偶然，与这个时代的软件思想、技术工具的发展有着密切的联系。比如，将业务功能服务化，是SOA的延续；RESTful等架构的兴起，让我们可以考虑更多轻量化的通信机制；领域驱动设计指导我们如何分析并模型化复杂的业务；敏捷方法论帮助我们拥抱变化，快速反馈；持续集成和持续交付（CI/CD）促使我们构建更快、更可靠、更频繁的软件部署和交付能力；虚拟化和容器技术的发展，使我们简化了部署环境的创建和安装；DevOps文化的流行及全栈自治团队的出现，使得小团队更加全功能化。这些都是推动微服务架构诞生和发展的重要因素。
 
-    1. DNS 层面
-    2. 服务层面 负载均衡服务器, 比如 Nginx
-    3. 硬件层面 , 比如 F5
+    摘抄自 分布式系统常用技术及案例分析 第二版
 
-    Load Balancers have different strategies for distributing the load across a set of backends.
+    A: ￼前段也有微服务了
 
-    1. Round Robin Distribute load equally, assumes all backends have the same processing power.
-    2. Weighted Round Robin Additional weights can be given considering the backend’s processing power.
-    3. Least Connections Load is distributed to the servers with least active connections.
+    B: 是呀~ 应用复杂性不可避免，所以 系统级的模块化 也是趋势所向。
+
+    如果一股趋势不加以控制，混乱度会越来越高。 “微”服务就是抑制熵增的很好例子~
 
