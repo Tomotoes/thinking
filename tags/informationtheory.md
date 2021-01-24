@@ -1,7 +1,3 @@
----
-description: 信息论
----
-
 # InformationTheory
 
 1. 分享篇文章:
