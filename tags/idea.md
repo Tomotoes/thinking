@@ -75,3 +75,10 @@ description: 想法
 
    B: 900个月还少吗
 
+10. [https://vole.wtf/coder-serial-killer-quiz/](https://vole.wtf/coder-serial-killer-quiz/)   
+    编程语言创始人 还是 连环杀手，你能选对几个？
+
+    我刚刚玩了一把，不明所以.. 为什么要把 这两种不同的人物画像放在一起…
+
+11. [https://nohello.net/](https://nohello.net/)  发现了个有趣的网站，传播的主题 和我们平时反感“在吗\(却不说事）” 是一样的。
+

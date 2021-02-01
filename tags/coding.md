@@ -178,3 +178,62 @@ description: 开发模式
 
     [https://mp.weixin.qq.com/s/3TbunRkouM7PtCQrC52brQ](https://mp.weixin.qq.com/s/3TbunRkouM7PtCQrC52brQ)
 
+17. 【分享】：如何发现代码质量问题
+
+    ![image-20210201231815544](../.gitbook/assets/image-20210201231815544.png)
+
+    ![image-20210201231825540](../.gitbook/assets/image-20210201231825540.png)
+
+18. 题目：假如给你一个新产品，你将从哪些方面来保障它的质量？
+
+    参考答案： 可以从代码开发、测试保障、线上质量三个方面来保障。 在代码开发阶段，有单元测试、代码Review、静态代码扫描等； 测试保障阶段，有功能测试、性能测试、高可用测试、稳定性测试、兼容性测试等； 在线上质量方面，有灰度发布、紧急回滚、故障演练、线上监控和巡检等。
+
+19. 分享篇文章：
+
+    You-Dont-Need-Loops   
+    [https://github.com/you-dont-need/You-Dont-Need-Loops](https://github.com/you-dont-need/You-Dont-Need-Loops)
+
+    文章讲述使用 函数式范式来处理数据的例子， 非常建议阅读，会培养你的编程思维。
+
+    文章外的讨论： 使用 for 循环 必然要引入 其他状态，且还会隐藏意图，这通常不是一种很好的实践。
+
+    但函数式也是有明显的问题， 如果编译器没有自动尾调用优化， 很容易造成调用栈溢出的问题，
+
+    我记得之前和一朋友讨论过一个场景， 就是数组求和。
+
+    通常情况下，如果没有接触函数式编程的同学，很可能写出面条式的代码：
+
+    ```text
+    let total = 0
+    ​
+    for(cont el of list){
+      total += el
+    }
+    ```
+
+    上面的代码， 就引入 total 这个完全没必要的状态， 所以的意图都藏在了 for 循环中。
+
+    而建议的场景是 list.reduce\(\(t,o\)=&gt;t+o\)
+
+    可以在拓展下， pointfree 编程原则。
+
+    之前不知道各位还记得 聊 js 初始数组的时候，我提到过一次。
+
+    在纯 FP 的语言中，是不存在赋值语句的，FP 是非常排斥 无关上下文状态的出现。
+
+    如果想遵循 pointfree ，那最好有很多可以组合映射数据流的工具，也就是FP中的Functor。
+
+    举个例子:
+
+    ```text
+    const getLongestWordLength = R.pipe(
+      R.split(' '),
+      R.map(R.length),
+      R.reduce(R.max, 0)
+    );
+    ```
+
+    A: pointfree 的 point 是什么
+
+    没必要的状态，就是上文中的 total
+

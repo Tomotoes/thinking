@@ -41,3 +41,17 @@ description: 书籍推荐
 
    《大型网站技术架构》[https://book.douban.com/subject/2](https://book.douban.com/subject/25723064/)
 
+7. 前方的路 - 阮一峰
+
+   [https://book.douban.com/subject/30234758//](https://book.douban.com/subject/30234758//)
+
+   推荐一本阮一峰老师写的书。
+
+   书是有一个个散文组成的，每一篇散文都给我带来的一些不同的思考与声音，很有价值的一本书。
+
+8. 前端架构：从入门到微前端
+
+   [https://book.douban.com/subject/33477112/](https://book.douban.com/subject/33477112/)
+
+   准备今天把这本书啃完。 和终端打交道，都能有微服务的概念，可见现在应用的复杂性...
+

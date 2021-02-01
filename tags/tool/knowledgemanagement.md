@@ -12,3 +12,9 @@
 
    这样收获的知识 系统性也很强。
 
+4. 构建个人知识体系
+
+   [https://mp.weixin.qq.com/s/aUj1yHHgvDtseDkyHnrKSg](https://mp.weixin.qq.com/s/aUj1yHHgvDtseDkyHnrKSg)
+
+5. [https://moon.fm/share/episode/3087/](https://moon.fm/share/episode/3087/) 🎙Ep 24. 个人知识管理体系系列 - 内化篇
+

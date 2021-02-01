@@ -76,7 +76,19 @@
 
     嘿嘿, 主题就叫 漫谈编程语言.
 
-11. 分享篇文章: FIZZBUZZ IN 10 LANGUAGES! [https://iolivia.me/posts/fizzbuzz-in-10-languages/](https://iolivia.me/posts/fizzbuzz-in-10-languages/)
+11. 编程语言的关键词个数: [https://github.com/e3b0c442/keywords](https://github.com/e3b0c442/keywords)
+
+    ![image-20210201232452774](../../.gitbook/assets/image-20210201232452774.png)
+
+    甜得齁人的C\#位居第二 107 关键词 大道至简的 Golang 25 关键词
+
+12. 分享篇文章:
+
+    漫谈编程语言 [https://tomotoes.com/blog/talking-about-programming-language/](https://tomotoes.com/blog/talking-about-programming-language/)
+
+    本文来自于 我在公司内部的一次分享。 主要简述了编程语言的阵营，语义的表达形式，不同的思维范式，以及常见规范和执行机制。 感兴趣的朋友可以读一下~
+
+13. 分享篇文章: FIZZBUZZ IN 10 LANGUAGES! [https://iolivia.me/posts/fizzbuzz-in-10-languages/](https://iolivia.me/posts/fizzbuzz-in-10-languages/)
 
     FizzBuzz 是一个简单编程题, 从 1 到 100 的数列中, 遇到3的倍数输出Fizz, 遇到5的倍数输出Buzz, 遇到3与5的共同倍数输出FizzBuzz, 否则输出数字本身
 

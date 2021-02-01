@@ -115,4 +115,7 @@ description: 操作系统
     6. 符号链接
 23. 计算机图形的两种分支: 矢量图形与光栅图形\(位图\)
 24. 计算密集与IO密集最本质的差别 就是 计算密集主要在用户态花费时间，IO密集则是在内核态。
+25. 内存对齐 \| 原来字段顺序还能影响结构体占用的内存空间
+
+    [https://mp.weixin.qq.com/s/l3T5p\_iw3S9nm635ezflGQ](https://mp.weixin.qq.com/s/l3T5p_iw3S9nm635ezflGQ)
 

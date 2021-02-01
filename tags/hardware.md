@@ -8,5 +8,12 @@ description: 硬件
 
    SoC 的盛行会带来一个后果，因为它把许多功能集成在一起，大量使用自定义的逻辑和接口，封装成一个黑箱，而且每家公司的设计都不一样，所以 SoC 不可能是一个开放的、兼容的系统，只可能是封闭的专有系统。 目前的手机硬件，就是这种状况。
 
-   来自阮一峰老师141期科技周刊 [http://www.ruanyifeng.com/blog/2021/01/weekly-issue-141.html](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-141.html)
+   来自阮一峰老师141期科技周刊   
+   [http://www.ruanyifeng.com/blog/2021/01/weekly-issue-141.html](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-141.html)
+
+2. 电脑硬件基本常识
+
+   [https://segmentfault.com/a/1190000039076172](https://segmentfault.com/a/1190000039076172)
+
+   涉及到的点还挺多的，可以刷一下。
 

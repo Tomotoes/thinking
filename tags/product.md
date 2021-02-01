@@ -32,3 +32,7 @@ description: 产品
 
    设计产品时，最应该关注的是 用户最基本的体验，而不是各种特性。这才是一个产品的成功之本。
 
+5. 分享篇文章: 张小龙把微信8.0做成了丑八怪 [https://www.inneed.club/articles/detail/k3v0qw90xw](https://www.inneed.club/articles/detail/k3v0qw90xw)
+
+   暴躁老哥从个人角度的吐槽, 说的很挺有道理的..
+

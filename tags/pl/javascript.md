@@ -254,5 +254,29 @@
 
     我喜欢这个片段
 
+19. 分享个项目:   
+    In-JavaScript-we-trust   
+    [https://github.com/yeungon/In-JavaScript-we-trust](https://github.com/yeungon/In-JavaScript-we-trust)
+
+    In JS we trust - The best way to learn is by building/coding and teaching. I create the challenges to help my friends learn JavaScript and in return it helps me embrace the language in much deeper level. Feel free to clone, fork and pull.
+
+    刷了两道就不想看了, js 奇怪的特性太多了
+
+20. 分享篇文章：   
+    You-Dont-Need-Lodash-Underscore   
+    [https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
+
+    文章介绍了常见的 工具函数的JS实现，有兴趣的同学可以刷一下。
+
+21. 分享个项目:   
+    gpu.js   
+    [https://github.com/gpujs/gpu.js](https://github.com/gpujs/gpu.js)
+
+    GPU.js is a JavaScript Acceleration library for GPGPU \(General purpose computing on GPUs\) in JavaScript for Web and Node. GPU.js automatically transpiles simple JavaScript functions into shader language and compiles them so they run on your GPU.
+
+    底层是使用的 webgl 调 gpu
+
+    智能硬件，gpu 并行计算，这些领域都有待挖掘..
+
 ​
 
