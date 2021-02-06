@@ -78,6 +78,8 @@
   * [Book](tags/book.md)
 * [Archives](archives/README.md)
   * [2021](archives/2021/README.md)
+    * [2](archives/2021/2/README.md)
+      * [1-6](archives/2021/2/1-6.md)
     * [1](archives/2021/1/README.md)
       * [1-3](archives/2021/1/1-3.md)
       * [4-7](archives/2021/1/4-7.md)
