@@ -2,7 +2,7 @@
 description: 信息论
 ---
 
-# InformationTheory
+# Information Theory
 
 1. 分享篇文章:
 

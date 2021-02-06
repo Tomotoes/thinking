@@ -1,5 +1,5 @@
 ---
-description: 书籍推荐
+description: 书籍
 ---
 
 # Book

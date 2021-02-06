@@ -3,7 +3,7 @@
 * [README](README.md)
 * [Tags](tags/README.md)
   * [Talk](tags/talk.md)
-  * [InformationTheory](tags/informationtheory.md)
+  * [Information Theory](tags/informationtheory.md)
   * [Web](tags/web/README.md)
     * [Vue](tags/web/vue.md)
     * [Roadmap](tags/web/roadmap.md)
