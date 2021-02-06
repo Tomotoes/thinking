@@ -66,3 +66,14 @@
 
       由于 Shell 的糟糕设计, 作者提出了 防御性编程规范...
 
+3. Shell的魅力
+
+   ![image-20210206215911726](../../.gitbook/assets/image-20210206215911726.png)
+
+   A: jq 不会是 jquery 吧。？
+
+   B: 不是 Go写的 查询 json 的一个知名工具
+
+4. sudo=速冻 cd=吃的 ls=零食 ps=披萨 ssh=熟食 scp=水产品
+5. alias please=sudo
+

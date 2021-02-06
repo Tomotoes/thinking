@@ -93,29 +93,61 @@ description: 操作系统
 
 16. [你不好奇 Linux 是如何收发网络包的？](https://zhuanlan.zhihu.com/p/339698383?utm_source=wechat_session&utm_medium=social&utm_oi=1088870436204318720&utm_campaign=shareopn)
 17. 多个CPU的原子操作通常通过总线锁或者是缓存锁实现，意思就是当某一个核读取一块内存或者是缓存的时候。CPU会拉低系统总线或者是缓存的电平，这样其他核就无法读取被锁定的区域，这样就实现了资源隔离，从而解决并发冲突问题。 硬件层面上的原子操作机制。
-18. ![image-20210107192510137](../.gitbook/assets/image-20210107192510137.png)
-19. 看完这篇还不懂高并发中的线程与线程池你来打我\(内含20张图\)
+18. 看完这篇还不懂高并发中的线程与线程池你来打我\(内含20张图\)
 
     [https://mp.weixin.qq.com/s/BvU3ASLGkGBf5NIJmmESKA](https://mp.weixin.qq.com/s/BvU3ASLGkGBf5NIJmmESKA)
 
-20. 互斥锁与信号量的差别: 信号量, 可定义 同时访问 临界资源的线程数量 互斥锁, 只能定义一个 访问临界资源的线程 当有解锁时, 只有锁住该临界资源的线程才能解开 而 信号量没有这一限制 Mutex管理的是线程的使用权，而Semaphore管理的线程数量
+19. 互斥锁与信号量的差别: 信号量, 可定义 同时访问 临界资源的线程数量 互斥锁, 只能定义一个 访问临界资源的线程 当有解锁时, 只有锁住该临界资源的线程才能解开 而 信号量没有这一限制 Mutex管理的是线程的使用权，而Semaphore管理的线程数量
 
     你想到哪些 编程语言相应的实现了嘛..
 
-21. 打开线程 \| 进程 \| 协程的大门
+20. 打开线程 \| 进程 \| 协程的大门
 
     [https://mp.weixin.qq.com/s/NP2TEpgIArJrHagGfq5N2A](https://mp.weixin.qq.com/s/NP2TEpgIArJrHagGfq5N2A) 文章很长，很啰嗦，到涉及的基础概念还是挺全的。
 
-22. Linux 常见的文件类型:
+21. Linux 常见的文件类型:
     1. 普通文件
     2. 目录文件
     3. 块设备文件和字符设备文件-外设
     4. FIFO 管道
     5. Socket
     6. 符号链接
-23. 计算机图形的两种分支: 矢量图形与光栅图形\(位图\)
-24. 计算密集与IO密集最本质的差别 就是 计算密集主要在用户态花费时间，IO密集则是在内核态。
-25. 内存对齐 \| 原来字段顺序还能影响结构体占用的内存空间
+22. 计算机图形的两种分支: 矢量图形与光栅图形\(位图\)
+23. 计算密集与IO密集最本质的差别 就是 计算密集主要在用户态花费时间，IO密集则是在内核态。
+24. 内存对齐 \| 原来字段顺序还能影响结构体占用的内存空间
 
     [https://mp.weixin.qq.com/s/l3T5p\_iw3S9nm635ezflGQ](https://mp.weixin.qq.com/s/l3T5p_iw3S9nm635ezflGQ)
+
+25. 漫画 \| CPU战争40年，真正的王者终于现身!
+
+    [https://mp.weixin.qq.com/s/ARmVvuRR8bwmo3Dm1\_mJLA](https://mp.weixin.qq.com/s/ARmVvuRR8bwmo3Dm1_mJLA)
+
+26. 好文分享:
+
+    为什么 Linux 需要 Swapping
+
+    [https://mp.weixin.qq.com/s/sf9G13Lp0LNm\_CvFzDYGaA](https://mp.weixin.qq.com/s/sf9G13Lp0LNm_CvFzDYGaA)
+
+27. 如果 CPU 访问 L1 缓存需要 1 秒，那么访问主存需要 3 分钟、从 SSD 中随机读取数据需要 3.4 天、磁盘寻道需要 2 个月，网络传输可能需要 1 年多的时间。
+28. 为什么 Linux 默认页大小是 4KB
+
+    [https://mp.weixin.qq.com/s/rz5H5\_kKul-H1Z8u0aYGcg](https://mp.weixin.qq.com/s/rz5H5_kKul-H1Z8u0aYGcg)
+
+29. 漫画 \| 轻松写意了解一下Linux 内核的真面目
+
+    [https://mp.weixin.qq.com/s/RySLif5-dZRVpiNGcdbZ2w](https://mp.weixin.qq.com/s/RySLif5-dZRVpiNGcdbZ2w)
+
+30. 操作系统提供的是一个抽象”。抽象来源于具体，又超越具体。
+
+    进程从根本上来说是操作系统对 CPU 进行的抽象和装扮 从根本上说，线程是操作系统给进程模型提供并发能力的手段进程属于处理器级并发，即在处理器这一层次上提供并发的抽象 线程则属于进程级并发，即在进程这个层次上再提供一层并发的抽象 内存管理从根本上说是操作系统对存储设备进行的抽象和装扮 文件系统从根本上说是操作系统对磁盘进行的抽象和装扮 输入输出从根本上说是操作系统对各种外部设备进行的抽象和装扮
+
+    每次看到这些基本概念, 都很感叹设计的艺术..
+
+31. 分享篇文章:   
+    《操作系统之哲学原理》读书笔记   
+    [https://taifua.com/operating-system-philosophy-notes.html](https://taifua.com/operating-system-philosophy-notes.html)
+
+    反复读了两遍, 就喜欢这么干的文章..
+
+32. ![image-20210107192510137](../.gitbook/assets/image-20210107192510137.png)
 

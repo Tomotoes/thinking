@@ -42,3 +42,33 @@ description: 计算机网络
 
    [https://mp.weixin.qq.com/s/XohlUmqYEVXTyxjPsDm3pA](https://mp.weixin.qq.com/s/XohlUmqYEVXTyxjPsDm3pA) 一个网络包从节点A发到节点B，这个过程中 只有目标IP地址是不变的。
 
+6. 多线程下载大文件速度更快的原因，到底是什么？
+
+   [https://mp.weixin.qq.com/s/7xQfO663MrnTHYDeFXUZSQ](https://mp.weixin.qq.com/s/7xQfO663MrnTHYDeFXUZSQ)
+
+   多线程下载单个文件并不一定优于单线程下载单个文件。
+
+   任何一台机器都有一个实时网络最大可用带宽。
+
+   而机器实时抢占带宽是永远小于实时网络最大可用带宽\(TCP 重传机制\)。
+
+   而之所以广义上，多线程下载优于单线程下载，就是因为单线程触发重传时 小于多线程平均重传的下载速率。
+
+   假如机器使用的不是传统流量调度算法 而是BRP算法，那么多线程下载的优势 就体现不出来了。
+
+   A: 百度网盘\[破涕为笑\]神一样的限速
+
+   B: 哈哈哈，百度网盘： 别和我提多线程，brp 不好使
+
+   C: 我刚在掘金看到一个百度云网盘多线程下载的 还没实验呢🌚
+
+   Java实现大文件多线程下载，提速30倍！想学？我教你啊 [https://juejin.cn/post/6908867438624899079](https://juejin.cn/post/6908867438624899079)
+
+   B: 这个可行，多线程下载 就适合单点限速。
+
+7. 好文分享:
+
+   为什么 TCP 会被 UDP 取代
+
+   [https://mp.weixin.qq.com/s/BGWkvLl0AAx9slI1lSZMgw](https://mp.weixin.qq.com/s/BGWkvLl0AAx9slI1lSZMgw)
+

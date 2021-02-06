@@ -64,7 +64,43 @@
 
     A: [https://github.com/Snailclimb/JavaGuide/](https://github.com/Snailclimb/JavaGuide/) 可以看下这个
 
-13. 快餐文分享: Java 并发编程之 JMM & volatile 详解 [https://segmentfault.com/a/1190000038926896](https://segmentfault.com/a/1190000038926896)
+13. 快餐文分享:   
+    Java 并发编程之 JMM & volatile 详解   
+    [https://segmentfault.com/a/1190000038926896](https://segmentfault.com/a/1190000038926896)
 
     文章完美做到了 浅入深出.. 前面介绍基础概念 讲得不错, 后面 讲 volatile 时,少了一些相关概念..
+
+14. Java的战争
+
+    [https://mp.weixin.qq.com/s/21eCFfRZYyTstnw777-Fhg](https://mp.weixin.qq.com/s/21eCFfRZYyTstnw777-Fhg)
+
+15. JVM 三种模式：解释执行；JIT编译执行；JIT编译与解释混合执行（主流JVM默认执行模式）。混合执行模式的优势在于解释器在启动时先解释执行，省去编译时间 JIT动态编译：将热点代码转换成机器码，直接交给CPU;JIT的作业是将Java字节码动态地编译成可以直接发送给处理器指令执行的机器码。
+
+    V8 执行 JS 也是相似的流程。
+
+    都是从解释向编译的过程。
+
+    解释执行后获取到的信息反哺 编译机器码的过程。
+
+16. 分享篇文章：  
+    多线程高并发学习之并发容器   
+    [https://segmentfault.com/a/1190000039163739](https://segmentfault.com/a/1190000039163739)
+
+    文章比较浅，介绍了 Java 中常见的并发容器 和一些基本原理。
+
+    基本上常见的保持一致性的策略： cas\(Compare And Swap\): 原子操作，系统级。基本很多语言都有 Atmoic 提供 cow\(Copy on Wirte\): 乐观锁，读写锁的底层机制
+
+    一些与语言相关的同步机制就不介绍了
+
+17. 分享篇文章:   
+    How To Implement Inter-thread Communication In Java   
+    [https://www.tutorialdocs.com/article/java-inter-thread-communication.html](https://www.tutorialdocs.com/article/java-inter-thread-communication.html)
+
+    文章涉及了 Java 线程通信的简单工具例子.
+
+    并发工具搞来搞去也就那一套...
+
+    还不如从通信机制本身做出创新..
+
+    参考 actor , channel
 

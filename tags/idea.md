@@ -81,4 +81,13 @@ description: 想法
     我刚刚玩了一把，不明所以.. 为什么要把 这两种不同的人物画像放在一起…
 
 11. [https://nohello.net/](https://nohello.net/)  发现了个有趣的网站，传播的主题 和我们平时反感“在吗\(却不说事）” 是一样的。
+12. 分享个网站:   
+    Akiyoshi's illusion pages   
+    [http://www.ritsumei.ac.jp/~akitaoka/index-e.html](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)
+
+    站点收集了各种错觉图片..
+
+    ![image-20210206221907253](../.gitbook/assets/image-20210206221923709.png)
+
+13. 分享个网站:  荷兰的国家博物馆  [https://www.rijksmuseum.nl/en/rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio)
 

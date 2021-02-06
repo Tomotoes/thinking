@@ -1,4 +1,8 @@
-# KnowledgeManagement
+---
+description: 知识管理
+---
+
+# Knowledge Management
 
 1. Ep 23. 个人知识管理体系系列 - 输入篇  [https://pythonhunter.org/episodes/ep23](https://pythonhunter.org/episodes/ep23)
 2. 分享篇 池建强老师谈信息噪音的文章:
@@ -17,4 +21,7 @@
    [https://mp.weixin.qq.com/s/aUj1yHHgvDtseDkyHnrKSg](https://mp.weixin.qq.com/s/aUj1yHHgvDtseDkyHnrKSg)
 
 5. [https://moon.fm/share/episode/3087/](https://moon.fm/share/episode/3087/) 🎙Ep 24. 个人知识管理体系系列 - 内化篇
+6. 如何管理自己的时间资产
+
+   [https://mp.weixin.qq.com/s/AeqtxDmtgIkKzEbcMyZh3Q](https://mp.weixin.qq.com/s/AeqtxDmtgIkKzEbcMyZh3Q)
 

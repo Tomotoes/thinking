@@ -27,6 +27,9 @@ description: 招聘信息
 
 6. [「墨刀冬招」「远程/北京/长沙」前后端/产品/设计职位开放，北京薪资，远程/北京/长沙可选，可节前面试，节后入职](https://www.v2ex.com/t/732806)
 7. 招聘信息分享: 腾讯云云开发团队招全职/实习生， Web 前端/Node.js 相关岗位 [https://v2ex.com/t/744656\#reply0](https://v2ex.com/t/744656#reply0)
+8. 程序员招聘月刊：谁在招人？（2021年2月）
+
+   [https://mp.weixin.qq.com/s/R5KrtXbQ-p2jHEAJmV-taQ](https://mp.weixin.qq.com/s/R5KrtXbQ-p2jHEAJmV-taQ)
 
 
 

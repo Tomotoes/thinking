@@ -21,3 +21,11 @@ description: 职场
 
    文中涉及到的很多关于福利, 工作环境的问题 都很现实.
 
+5. 好文分享:
+
+   项飙谈996和异化：城市新穷人不是经济穷人，是意义贫困 \| 专访
+
+   [https://mp.weixin.qq.com/s?\_\_biz=MzA5ODY2NDIyNQ==&mid=2651977911&idx=1&sn=35fea1ba9ddbfca8e24fc83c4f2e32e1&chksm=8b6b72f9bc1cfbefd7ef5ffdbe6711754171a9c374aaa1d4d3d8a7a44e305e73a69d9bd2d15f\#rd](https://mp.weixin.qq.com/s?__biz=MzA5ODY2NDIyNQ==&mid=2651977911&idx=1&sn=35fea1ba9ddbfca8e24fc83c4f2e32e1&chksm=8b6b72f9bc1cfbefd7ef5ffdbe6711754171a9c374aaa1d4d3d8a7a44e305e73a69d9bd2d15f#rd)
+
+   文中涉及到的一些点, 引起了我的共鸣. 一个人如果一天到晚生活在自己的大脑里和心理空间里，自然需要渴求意义来支撑自己。这个时候，人自己就成为了一个封闭的“系统”。
+

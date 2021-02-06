@@ -94,3 +94,15 @@ description: 架构
 
     摘抄自 系统架构设计 一书
 
+15. 分享篇文章：   
+    DDD实现之路   
+    [https://insights.thoughtworks.cn/path-to-ddd/](https://insights.thoughtworks.cn/path-to-ddd/)
+
+    A: 文章看了两三遍，其中的一些概念还是没有很好理解。
+
+    看不懂的都是好文...
+
+    B: 知乎上有个人一直在推DDD 看不懂根本
+
+    A: 架构设计的领域，需要场景支持。 没有经验 很难理解他的概念。
+

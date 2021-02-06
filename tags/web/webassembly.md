@@ -6,3 +6,13 @@
 
    ![image-20201207225633527](../../.gitbook/assets/image-20201207225633527%20%282%29%20%282%29.png)
 
+2. 从 JS 引擎谈到 WebAssembly
+
+   [https://mp.weixin.qq.com/s/p2a8P6\_Ww8UAWOZqbgyAsg](https://mp.weixin.qq.com/s/p2a8P6_Ww8UAWOZqbgyAsg)
+
+   文章写得不错，建议阅读.
+
+   感觉这东西最大帮助就是扩展 web 生态，比如游戏迁移，调用opengl这些库啊.
+
+   我一直觉得大部分场景下，web应用的性能瓶颈是单线程所致。
+

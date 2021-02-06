@@ -84,3 +84,32 @@
 
     应用场景 太适合 微前端了..
 
+19. Chrome 88 支持新的 CSS 属性`aspect-ratio`，可以设置容器的长宽比。
+
+    这么常见的UI构建功能，现在才出现...
+
+    ![image-20210206215650285](../../.gitbook/assets/image-20210206215650285.png)
+
+20. 分享篇好文：   
+    Things You Can Do With CSS Today   
+    [https://www.smashingmagazine.com/2021/02/things-you-can-do-with-css-today/](https://www.smashingmagazine.com/2021/02/things-you-can-do-with-css-today/)
+
+    总结：
+
+    1. grid 网格布局
+    2. is 伪类选择器 .post :is\(h1, h2, h3\)
+    3. where 选择器
+    4. min max clamp 函数
+    5. ch ex 字体尺寸单位
+    6. text decoration 的一些 rule
+    7. scroll-margin-top
+    8. 之前分享过的 aspect-ratio 尺寸等比划分
+    9. content-visibility：google 带头提出的一个特性，刚出的时候让我很惊艳，具体做的是：With content-visibility: auto, you can tell the browser not to worry about rendering the elements in there while they are outside of the viewport, which can have a massive impact on initial loading speeds.
+    10. 支持嵌套选择
+
+21. 分享篇文章:   
+    CSS奇思妙想 -- 使用 background 创造各种美妙的背景   
+    [https://juejin.cn/post/6925600887947657224](https://juejin.cn/post/6925600887947657224)
+
+    chokcoco 每篇文章都很有艺术气息aaa..
+

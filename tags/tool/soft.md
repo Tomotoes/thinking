@@ -28,3 +28,23 @@
 
    可以在多种不同尺寸的终端上 调试页面
 
+3. 分享一个编写时序图的工具:   
+   swimlanes.io
+
+   A: 整个过程，用文字描述即可生成对应的图，非常方便。
+
+   B: 怎么有点像 mermaid.js ?
+
+   A: 这个库好强啊..
+
+4. 分享个软件, 用了好几天了~   
+   [https://github.com/zenghongtu/PPet](https://github.com/zenghongtu/PPet)   
+   在你的桌面放一个萌妹子，多一点趣味~（支持Mac、Win和Linux）
+
+   之前我的网站还搞过这个 live2d 的模型~ 每天看两眼都很开心
+
+5. Help users in Iran reconnect to Signal   
+   [https://signal.org/blog/help-iran-reconnect/](https://signal.org/blog/help-iran-reconnect/)
+
+   signal 太良心了
+

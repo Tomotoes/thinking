@@ -278,5 +278,55 @@
 
     智能硬件，gpu 并行计算，这些领域都有待挖掘..
 
+22. 好文分享:
+
+    Future JavaScript: what is still missing?   
+    [https://2ality.com/2019/01/future-js.html](https://2ality.com/2019/01/future-js.html)
+
+    摘要: In recent years, JavaScript has grown considerably in size. This blog post explores what’s still missing. Notes: I’m only listing the missing features that I find most important. Many others are useful, but there is also a risk of adding too much. My choices are subjective. Almost everything mentioned in this blog post is on TC39’s radar. That is, it also serves as a preview of a possible future JavaScript.
+
+    面向未来的 JavaScript 应该是什么样.
+
+    不得不说 JS 的历史包袱太重了.
+
+23. ![image-20210206222156542](../../.gitbook/assets/image-20210206222156542.png)
+
+    stage 3
+
+24. 梳理下 Promise API:
+    1. Promise.allSettled \(ES2020\) 返回每个 promise 结果, 不管是 fulfilled 还是 rejected
+    2. Promise.all \(ES2015\) 如果有一个 promise rejected, 则立刻返回 reject; 否则等待所有 promise fulfilled
+    3. Promise.race \(ES2015\) 如果有一个 promise fulfilled or reject 则立刻返回, 可以用于 网络超时 你想到了嘛?
+    4. Promise.any \(ES2021\) 如果有一个 promise fulfilled 则立刻返回
+25. ![image-20210206221646099](../../.gitbook/assets/image-20210206221646099.png)
+26. 你不知道的 Proxy
+
+    [https://mp.weixin.qq.com/s/SN8HqiGA30-IJ7OZ3WMr3g](https://mp.weixin.qq.com/s/SN8HqiGA30-IJ7OZ3WMr3g)
+
+27. 假如重新设计 JavaScript 它会是什么样的？ - 贺师俊的回答 - 知乎 [https://www.zhihu.com/question/442622908/answer/1715676739](https://www.zhihu.com/question/442622908/answer/1715676739)
+28. ![image-20210206223725990](../../.gitbook/assets/image-20210206223725990.png)
+
+    A: 刚刚又突然想到了 惊讶系列分享中的一张图\(已经分享过, 重温下思想\)
+
+    让我吃惊的是, 完全可以通过 fetch 指定 url 的内容 并设置到 innerHTML, 实现爬虫.. 在浏览器就可以跑, 什么库也不需要..
+
+    最后 eval\(code\) 真的很惊艳..
+
+    B: 恭喜你发现了 qiankun 的秘密
+
+    A: 不过建议使用 new Function, Function 比 eval 安全性要高, 并且执行时性能也高
+
+    B: new Function 主要不会污染全局
+
+    A: 还有一点, new Function 仅需要处理传入的字符串一次，后面重复执行都是同一个函数，而eval需要每次都处理，性能更高
+
+    A: 哈哈, qiankun 那个源码使用 new Proxy 代理 假window, new Function 执行代码的
+
+    A: ![image-20210206223810223](../../.gitbook/assets/image-20210206223810223.png)
+
+    qiankun 沙箱的核心思想... 可能有误, 烦请指正..
+
+    B: 大体上是这样，有很多细节要小心处理 比如 fakewindow 上 freeze 的变量什么的
+
 ​
 

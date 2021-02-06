@@ -15,5 +15,10 @@
 
    A: kotlin也有inline 还有refied这种类型擦除后再生 给Java擦屁股
 
+3. 分享篇文章：   
+   New Language Features Preview in Kotlin 1.4.30
+
+   [https://blog.jetbrains.com/kotlin/2021/02/new-language-features-preview-in-kotlin-1-4-30/](https://blog.jetbrains.com/kotlin/2021/02/new-language-features-preview-in-kotlin-1-4-30/)
+
 ![&#x5982;&#x6B64;&#x8BED;&#x4E49;&#x5316;, &#x770B;&#x7740;&#x5C31;&#x8D4F;&#x5FC3;&#x60A6;&#x76EE;..](../../.gitbook/assets/image%20%2814%29.png)
 

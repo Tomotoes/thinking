@@ -237,3 +237,11 @@ description: 开发模式
 
     没必要的状态，就是上文中的 total
 
+20. 好文分享:   
+    Software development topics I've changed my mind on after 6 years in the industry   
+    [https://chriskiehl.com/article/thoughts-after-6-years](https://chriskiehl.com/article/thoughts-after-6-years)
+
+    很多观点都很犀利, 我喜欢.
+
+    So called "best practices" are contextual and not broadly applicable. Blindly following them makes you an idiot
+

@@ -119,9 +119,39 @@ description: 破梗
 
 35. ![image-20210124130335179](../.gitbook/assets/image-20210124130335179.png)
 36. ![image-20210201232313653](../.gitbook/assets/image-20210201232313653.png)
-37. ![image-20210201232434466](../.gitbook/assets/image-20210201232434466.png)
+37. ![image-20210201232434466](../.gitbook/assets/image-20210201232434466.png)![image-20210201232440149](../.gitbook/assets/image-20210201232440149.png)
+38. 网易云音乐：关于给酷狗音乐相关团队申请年终奖励的建议
 
-    ![image-20210201232440149](../.gitbook/assets/image-20210201232440149.png)
+    [https://mp.weixin.qq.com/s/LPB6GffoosdD4M92fG5NlA](https://mp.weixin.qq.com/s/LPB6GffoosdD4M92fG5NlA)
+
+    A: 哈哈哈，撕起来了
+
+    B: 太刚了
+
+    A: 狗化 可太秀了，哈哈哈
+
+    C: qq音乐用户表示吃瓜
+
+    D: 网易云音乐：关于取消酷狗音乐相关团队年终奖励的建议
+
+    [https://mp.weixin.qq.com/s/PxoggRcAHMwEjuDM-co-NQ](https://mp.weixin.qq.com/s/PxoggRcAHMwEjuDM-co-NQ)
+
+    大阴阳师又发文了
+
+    A: 哈哈哈 搞活能手
+
+39. ![image-20210206221400400](../.gitbook/assets/image-20210206221400400.png)
+
+     太真实了.. 不过 actionscript 设计得还是挺不错的.. 去掉了 js 的很多历史包袱..
+
+40. ![image-20210206221452442](../.gitbook/assets/image-20210206221452442.png)
+41. `npm install -g yarn`
+42. ![image-20210206221505828](../.gitbook/assets/image-20210206221505828.png)
+43. ![image-20210206221656614](../.gitbook/assets/image-20210206221656614.png)
+
+    好家伙，今年可以参加百亿项目了
+
+
 
 ![&#x8FD9;&#x5E16;&#x5B50;&#x7EDD;&#x5BF9;&#x662F;&#x6765;&#x641E;&#x4E8B;&#x60C5;&#x7684;](../.gitbook/assets/image%20%2810%29.png)
 

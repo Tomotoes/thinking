@@ -59,3 +59,7 @@ description: 数据库
 
    源码很简单, 正是应了那句话 最早的数据库 就是文件系统.. 这个库做到事情就是 对文件包了一层 IO 接口..
 
+8. NoSQL ：一个帝国的崛起
+
+   [https://mp.weixin.qq.com/s/JedHtkVNklyfs0-viCLLPA](https://mp.weixin.qq.com/s/JedHtkVNklyfs0-viCLLPA)
+

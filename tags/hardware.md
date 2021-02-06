@@ -17,3 +17,5 @@ description: 硬件
 
    涉及到的点还挺多的，可以刷一下。
 
+3. 分享篇文章:  深度：揭秘小米隔空充电背后技术  [https://zhidx.com/p/255150.html](https://zhidx.com/p/255150.html)
+

@@ -2,7 +2,7 @@
 description: 测试
 ---
 
-# QA
+# Quality Assurance
 
 1. 分享一个最近学到的术语：AB测试
 

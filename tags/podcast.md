@@ -42,3 +42,5 @@ description: 播客
 
    大佬们之间的关于Vim的闲聊，听完没什么干货，完全当成背景声了..
 
+7. 分享期播客： [https://moon.fm/share/episode/3240/](https://moon.fm/share/episode/3240/)  🎙Ep 02. 开发中的碎碎念
+

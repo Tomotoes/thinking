@@ -14,3 +14,5 @@ description: 算法
 
    有兴趣的同学, 可以做一下这道题 很爽的 \(不骗你
 
+2. 如何通俗易懂地解释遗传算法？有什么例子？ - 尼布甲尼撒的回答 - 知乎 [https://www.zhihu.com/question/23293449/answer/120185075](https://www.zhihu.com/question/23293449/answer/120185075)
+

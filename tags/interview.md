@@ -19,8 +19,9 @@ description: 面试
 
    文章涉及了一些校招基本的点, 希望能对找工作的同学有帮助吧..
 
-4. 快餐文分享: 我在阿里做技术面试官的一些经验 [https://github.com/lihongxun945/myblog/issues/40](https://github.com/lihongxun945/myblog/issues/40)
+4. 快餐文分享:  我在阿里做技术面试官的一些经验  [https://github.com/lihongxun945/myblog/issues/40](https://github.com/lihongxun945/myblog/issues/40)
    1. 面试前准备
    2. 面试的时候的一些建议
    3. 面试结束的时候应该问点什么
+5. 分享篇文章：  校招攻略 DLC  [https://sspai.com/post/64922](https://sspai.com/post/64922)
 

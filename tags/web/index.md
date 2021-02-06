@@ -180,3 +180,20 @@
 
     之前分享过一次, 不过那次写的比较糙, 这次重新润色了下, 并添加了微前端架构的使用场景..
 
+33. Question: 怎么将不同技术栈的页面组合在一个页面，且不存在样式冲突，数据冲突。
+
+    具体场景是，一个 vue 搭建的页面，一个 react 搭建的页面，继承进其他页面这样。
+
+    这其实就是一道典型的前端面试题，考你的知识广度与深度。 只不过是我出的。
+
+    Answer:
+
+    1. Iframe
+    2. Web components
+    3. 构建时，打包多个子应用
+    4. 微件化，远程 load js chunk
+
+34. 换一个角度分析，网页性能优化
+
+    [https://mp.weixin.qq.com/s/o8HOvYfUNUKPGydSak1mxA](https://mp.weixin.qq.com/s/o8HOvYfUNUKPGydSak1mxA)
+

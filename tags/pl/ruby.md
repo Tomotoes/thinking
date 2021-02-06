@@ -20,5 +20,34 @@
 
    其余信息可以查阅上面链接~
 
+2. 分享个项目：   
+   rails/kredis [https://github.com/rails/kredis](https://github.com/rails/kredis)
+
+   基于 Redis 封装的数据模型，可以理解为高度集成的 orm， 支持元编程的语言就是硬气。。
+
+3. 分享篇文章：   
+   Ruby 编程语言入门   
+   [https://hutusi.com/articles/ruby-quickstart](https://hutusi.com/articles/ruby-quickstart)
+
+   ```text
+   一些我欣赏的特性：
+   ​
+   a = []
+   a << 1        # [1]
+   a << 2 << 3   # [1, 2, 3]
+   ​
+   a = [1, 2, 3, 4, 5]
+   a[-2]         # 4, 负数下标从最后一个倒数
+   ​
+   # 获取子数组 切片
+   a[1, 2]       # [2, 3] 第一个下标数字表示起始下标，第二个表示子数组长度
+   a[1, 0]       # [] 
+   a[0...-1]     # [1, 2, 3, 4]
+   ​
+   3.times { action }
+   ​
+   a << 1 这种命令式的符号表达 看起来挺好玩的。
+   ```
+
 
 
