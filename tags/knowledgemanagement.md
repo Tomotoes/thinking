@@ -25,3 +25,11 @@ description: 知识管理
 
    [https://mp.weixin.qq.com/s/AeqtxDmtgIkKzEbcMyZh3Q](https://mp.weixin.qq.com/s/AeqtxDmtgIkKzEbcMyZh3Q)
 
+7. 我准备下一步获取知识，通过一些 paper 了。
+
+   我目前的困境就在于此，信息获取的质量一直不高，不管是读书还是看文章。
+
+   虽然平时我在群里分享很多文章，但这些文章一是质量一般，很少有好文章，二是找到这些质量一般的文章 也需要花时间。
+
+   这不利于我进步。
+
