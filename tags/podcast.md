@@ -43,15 +43,4 @@ description: 播客
    大佬们之间的关于Vim的闲聊，听完没什么干货，完全当成背景声了..
 
 7. 分享期播客： [https://moon.fm/share/episode/3240/](https://moon.fm/share/episode/3240/)  🎙Ep 02. 开发中的碎碎念
-8. Podcast分享： [https://moon.fm/share/episode/3453/](https://moon.fm/share/episode/3453/)  
-   🎙Ep 07. Lisp 程序员眼中的 Python?
-
-   讲了很多语言特性，编程范式，可以当做饭后零食~
-
-9. Podcast 分享：[https://moon.fm/share/episode/3495/](https://moon.fm/share/episode/3495/)  
-   🎙Ep 18. 竟然有人在前端做科学计算？
-
-   解决了我昨天的那个py发展的问题，是因为 py 已经有很好的计算工具生态 比如numpy，借助 ai 的风潮，在科学计算领域成为了现象级的语言.
-
-10. Podcast 分享：  OCaml编程语言 - 张宏‪波‬  [https://podcasts.apple.com/cn/podcast/ocaml%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-%E5%BC%A0%E5%AE%8F%E6%B3%A2/id1098682510?i=1000396401474](https://podcasts.apple.com/cn/podcast/ocaml%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-%E5%BC%A0%E5%AE%8F%E6%B3%A2/id1098682510?i=1000396401474)
 

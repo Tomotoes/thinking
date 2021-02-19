@@ -85,12 +85,5 @@ description: 人物
 
     电影中 在纳什获奖感谢爱人那一刻 泪崩了..
 
-12. 人物分享：
-
-    欧长坤 - 2020 年终总结   
-    [https://blog.changkun.de/posts/2020-summary/](https://blog.changkun.de/posts/2020-summary/)
-
-    这是一位我仰慕已久的大佬。
-
 
 

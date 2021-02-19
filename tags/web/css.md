@@ -132,3 +132,13 @@
 
     摘要：CSS与其编程语言不同，她没有循环、逻辑和其他概念，它只是声明式的语言，因此，CSS很容易上手。也许正是因为如此，它才获得了简单的美誉。在 "不复杂 "的意义上，它是简单的，但这并不意味着它很容易。把 "简单 "误认为是 “容易”，只会让人心痛”。
 
+27. CSS 专业技巧 一个帮你提升 CSS 技巧的收藏集。
+
+    [https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
+
+    文章中一些技巧很有实践意义，总结了下:
+
+    1. all: unset; 可以用all简写來指定所有元素的属性。
+    2. 安装字体时，使用 local 函数检查是否本地安装
+    3. a\[href^="http"\]:empty::before { content: attr\(href\); }
+
