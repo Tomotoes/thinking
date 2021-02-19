@@ -338,26 +338,14 @@ description: 草稿整理区
 39. 分享两篇关于介绍 React-Native 比较简明的文章：
     1. React Native架构一览 [http://www.ayqy.net/blog/react-native-architecture-overview/](http://www.ayqy.net/blog/react-native-architecture-overview/)
     2. React Native架构演进 [http://www.ayqy.net/blog/react-native-new-architecture/](http://www.ayqy.net/blog/react-native-new-architecture/)
-40. HTTP2.0 的多路复用 与 浏览器网络连接限制 针对 Web 应用优化的建议：
-
-    1. 如果服务端配置了 HTTP 2.0 ，那么建议域名收敛，可以最大程度上 多个请求复用同一个链接，可以消除重复连接带来的消耗。
-    2. 如果服务端没有配置 HTTP2.0，并且请求数量很多，建议域名分散，最大程度上 不阻塞 请求统一域名下的资源。
-
-    我总结的这个主题，有同学想讨论下吗。   
-    域名收敛 与 域名分散 居然出现在了同一个场景。  
-    好吧，其实我对浏览器限制同一域名最大请求限制数 这个规则挺好奇的。   
-    其实这点与 tcp 拥塞避免 规则 可以联系到一起。  
-     一句话概括：为了正义.  
-    可以看下这个回答 浏览器允许的并发请求资源数是什么意思？ - bombless的回答 - 知乎 [https://www.zhihu.com/question/20474326/answer/15691654](https://www.zhihu.com/question/20474326/answer/15691654)
-
-41. 分享个好玩的项目：
+40. 分享个好玩的项目：
 
     GTAmodding/re3   
     [https://github.com/GTAmodding/re3](https://github.com/GTAmodding/re3)
 
     GTA3 罪恶都市源代码 全局搜了下 nuttertools 居然啥也没找到，这不是真的罪恶都市￼
 
-42. 想讲讲 客户端缓存，也就是只有静态页面，没有服务端的应用 该怎么利用好缓存，让页面加载更快。   
+41. 想讲讲 客户端缓存，也就是只有静态页面，没有服务端的应用 该怎么利用好缓存，让页面加载更快。   
     我在这方面有一些实践，因为我的网站是一直是托管在 github page 和使用 jsdriver cdn 这样的，除了域名 没有买过服务器，所以网络请求的优化也无法涉及，只能从客户端性能这边入手。   
     但是 只讲下 页面缓存，其他优化的点 暂时不涉及。   
     我最开始使用的页面缓存 很蠢，我把关键 css，js 的内容保存到 localStorage 中，然后页面 onload 时，判断是否命中，命中的话读取，反之拉取数据。  
@@ -372,7 +360,7 @@ description: 草稿整理区
     是的，不过我的优先级很高，hh~ 关于全站上 sw 这事我做了一周多，因为我的网站分为多个子站点，而每个站点的技术栈不同，打包的机制不同，想把所有站点全上 sw 缓存 就必须把所有打包机制全统一化，就比如 主页使用 gulp，博客使用 hexo，关于页 webpack 等等。   
     其实 sw 缓存还有代理的功能~ 配置项很多，玩法就很多
 
-43. ![image-20210219231816728](../.gitbook/assets/image-20210219231816728.png)
+42. ![image-20210219231816728](../.gitbook/assets/image-20210219231816728.png)
 
     注意，module 文件 A 中 import 的其他文件（B，C） 加载机制是不同的。
 
@@ -382,38 +370,16 @@ description: 草稿整理区
     如果是手动加载 script，默认是 async 的方式   
     [https://javascript.info/script-async-defer](https://javascript.info/script-async-defer)
 
-44. Windows 10X 上手体验   
+43. Windows 10X 上手体验   
     [https://sspai.com/post/64991](https://sspai.com/post/64991)
 
     好家伙，Windows 又新增了一种设计系统.. 之前的 WinXP，Win7 拟物，Win10 Fluent Design 还不嫌乱嘛..
 
-45. 很好奇 TLS1.3 改进了什么算法，一次 RTT 即可握手成功。TLS 详解握手流程 [https://juejin.cn/post/6895624327896432654](https://juejin.cn/post/6895624327896432654)
-
-    摘要：TLS 三个版本的握手方式，你都了解吗？
-
-    介绍了 RSA、DH、TLS1.3 握手流程，只是宏观层面...  
-    The Transport Layer Security \(TLS\) Protocol Version 1.3   
-    [https://tools.ietf.org/html/rfc8446](https://tools.ietf.org/html/rfc8446)
-
-    找到了 TLS1.3 的 rfc，算了还是宏观了解下吧。
-
-46. Question：抓包工具是 如何拦截记录 HTTPS 请求的呢？
-
-    抓包工具实际上是作为 客户端与服务端的中间人。   
-    客户端以为是与服务端通信，实则是与抓包工具。 服务端以为是与客户端通信，实则是与抓包工具。
-
-    服务端与抓包工具的通信 就是正常的通信。   
-    而客户端与抓包工具的通信 是在 用户已经在系统安装了抓包工具根证书的前提下的。
-
-    当客户端与抓包工具通信时，验证抓包工具的证书，会以已经安装好的根证书去验证。自己验证自己是一定会通过的。   
-    所以说，当抓包工具不使用时，尽快把它的根证书下掉，万一黑化 很可怕的。
-
-47. Kotlin基金会成立  [https://kotlinlang.org/docs/kotlin-foundation.html](https://kotlinlang.org/docs/kotlin-foundation.html)  这两天 Kotlin, Rust 的基金会都成立了，好耶~
-48. 写一篇最好懂的HTTPS讲解  [https://juejin.cn/post/6925296374628122632](https://juejin.cn/post/6925296374628122632)  分享篇科普文，文中有一处错误，通过数据解密成功失败去认证权威性 显然是不对的，而是在使用公钥解密后拿到数据摘要，客户端本地在使用hash生成一份数据摘要，只有这两份摘要相同才认证成功。
-49. 分享一个数据结构的基础知识：
+44. Kotlin基金会成立  [https://kotlinlang.org/docs/kotlin-foundation.html](https://kotlinlang.org/docs/kotlin-foundation.html)  这两天 Kotlin, Rust 的基金会都成立了，好耶~
+45. 分享一个数据结构的基础知识：
     1. 树是图的联通无环类型
     2. 链表是树的非叶节点只有一个子节点类型
-50. 提个观点，平衡二叉树（AVL）树 是二分搜索在存储结构设计上的体现。
+46. 提个观点，平衡二叉树（AVL）树 是二分搜索在存储结构设计上的体现。
 
     A: 在学红黑树，突然联想到的一个概念..   
     B: 我之前面试的时候，让我手撕红黑树   
@@ -426,7 +392,7 @@ description: 草稿整理区
 
     [https://www.cs.usfca.edu/~galles/visualization/RedBlack.html](https://www.cs.usfca.edu/~galles/visualization/RedBlack.html)
 
-51. 文章分享：   
+47. 文章分享：   
     如何基于心智模型打造更棒的用户体验   
     [https://mp.weixin.qq.com/s/6-M3iyHQYHxYUNNWoUAx\_Q](https://mp.weixin.qq.com/s/6-M3iyHQYHxYUNNWoUAx_Q)
 
@@ -434,8 +400,8 @@ description: 草稿整理区
 
     那么关键的问题来了，如何将心智模型应用于 UI-UX 设计中呢？我们又要如何利用用户体验中的这种心理因素来构建更人性化的产品呢？
 
-52. 分享个很全面的 Vim Cheatsheet：[https://devhints.io/vim](https://devhints.io/vim)
-53. 安利下 三款命令行应用：
+48. 分享个很全面的 Vim Cheatsheet：[https://devhints.io/vim](https://devhints.io/vim)
+49. 安利下 三款命令行应用：
 
     1. exa - ls 的替代品，更强大 配置项众多 [https://github.com/ogham/exa](https://github.com/ogham/exa)
     2. cheat - man 的替代品，所有文档由社区维护，也可自定义 [https://github.com/cheat/cheat](https://github.com/cheat/cheat)
@@ -443,48 +409,24 @@ description: 草稿整理区
 
     一些其他的 autojump fzf ni bat git-extra gacp silver-searcher ...
 
-54. 分享个项目：
+50. 分享个项目：
 
     50projects50days   
     [https://github.com/bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)
 
     使用 CSS HTML JS 构建的 50 个小项目，代码质量可以、项目也都很不错，可以作为练手项目。 比如使用 React Hooks + TS 重写一些例子。 下面是我重写 ToDo App 的一个例子： [https://github.com/Tomotoes/50projects50days-react/blob/master/src/todo-list/index.tsx](https://github.com/Tomotoes/50projects50days-react/blob/master/src/todo-list/index.tsx)
 
-55. 好文分享：
-
-    Exploring Node.js Internals   
-    [https://www.smashingmagazine.com/2020/04/nodejs-internals/](https://www.smashingmagazine.com/2020/04/nodejs-internals/)
-
-    文章介绍了 Nodejs 的内部构造 以及 调用 系统 API 时 底层是如何运行的，并在最后指出了IO操作时，JS 并非是单线程的。
-
-    摘要：we will dig deeper into the Node.js runtime, understanding how it runs JavaScript, seeing whether it actually is single-threaded, and, finally, better understanding the interconnection between its core dependencies, V8 and libuv.
-
-    文中指的 运行在虚拟机的语言 ，可简单列举下：
-
-    1. JVM \(java,scala,kotlin,groovy,Clojure...\)
-    2. CLR \(C\#\)
-    3. BEAM \(erlang, elixir\)
-
-    我记得很久之前（大家在讨论 arguments 特性时） 我曾提过一点： 学习 JavaScript 最痛苦的地方就是，环境（Nodejs、浏览器）给你的 API，是无法直接查看源码的，它不像其他语言会有自建的 SDK，它的所有 API 都像是个带有规则的黑箱。 如果想查看源码，只能去翻看相应的 v8 构建。   
-    其实有的语言，比如 Go，Java 也是对一些 built-in 函数、关键字 有所黑箱，因为有的东西 确实无法自举...   
-    实现的层级 不同没办法的。   
-    A: Python JS这些脚本语言算是跑在虚拟机上的吗
-
-    JS 不是跑在虚拟机上的，它是一门解释编译语言，有对应的解释器与运行环境就可以了。 Python 也是如此的，是一门解释语言，不需要虚拟机。   
-    虚拟机最大的好处 就是可以使用虚拟机上面已有的生态，开发语言时也无需考虑后端（指编程语言）的设计。   
-    当然 跨平台 拿到现在就没什么亮点了。
-
-56. ![image-20210219232415472](../.gitbook/assets/image-20210219232415472.png)
+51. ![image-20210219232415472](../.gitbook/assets/image-20210219232415472.png)
 
     这买了血赚，才 20k
 
-57. 分享篇文章\(官方faq\)：
+52. 分享篇文章\(官方faq\)：
 
     Why is esbuild fast?   
     [https://esbuild.github.io/faq/](https://esbuild.github.io/faq/)   
     这篇文章 建议前端同学阅读，里面有涉及 JS 运行时的缺陷。
 
-58. 分享个项目：
+53. 分享个项目：
 
     apankrat/nullboard   
     [https://github.com/apankrat/nullboard](https://github.com/apankrat/nullboard)   
@@ -495,7 +437,7 @@ description: 草稿整理区
     这种 jQuery 一把梭 的方式看起来挺酷的.. 所以说 React 的组件化 与 状态驱动 思想 很利于工程化，在大中型项目中会感受到明显收益，而小型项目中引入（主要还是看场景）多少有点过渡设计的味道。   
     好吧，这句话没什么价值。 因为项目大小 与 工程化 没有一个很好的鉴定。
 
-59. A: 感觉技术的发展有点像个圈子 新的东西也很容易找到以前的影子
+54. A: 感觉技术的发展有点像个圈子 新的东西也很容易找到以前的影子
 
     是啊，计算机领域多久没更新新的理论了，很多基础概念都是89十年代的那群大佬已经定下的了。   
     就比如 redux 提倡的全局唯一状态不可修改，纯函数，都是来自 fp 的基础理论。   
@@ -503,7 +445,7 @@ description: 草稿整理区
     我想说的重点不是这句话，而是 我觉得很多基础设施决定了上层的发展，同时也限制了新的创新。   
     举个例子，假如从一开始就不是冯诺依曼体系的计算机，而是细胞自动机或者其他体系，还会有并发原语，数据结构等这些概念的出现嘛。 
 
-60. 今天还和一朋友讨论 css 的设计，不正交性，理论耦合过深。 我相信很多同学从一开始接触前端 都用过dreamweaver，它支持可视化搭建界面，就像 winform,android studio那样，为什么它没有继续流行起来？  我相信在以后\(现在 low code 平台已经成为了大厂绩效的风向标\)，一定会再出现的。
+55. 今天还和一朋友讨论 css 的设计，不正交性，理论耦合过深。 我相信很多同学从一开始接触前端 都用过dreamweaver，它支持可视化搭建界面，就像 winform,android studio那样，为什么它没有继续流行起来？  我相信在以后\(现在 low code 平台已经成为了大厂绩效的风向标\)，一定会再出现的。
 
 
 

@@ -151,36 +151,6 @@ description: 破梗
 
     好家伙，今年可以参加百亿项目了
 
-44. 分享篇有趣的文章：
-
-    代码要按行收费？！  
-     [https://mp.weixin.qq.com/s?\_\_biz=MjM5NzAxMzMxOQ==&mid=2675249783&idx=1&sn=89853b6c2302f2f7dbffea43739b3a61&chksm=bc61c05f8b164949156fe0619071eecc1b1faa8f0d33a9bdc0326bc139962d3a5eae3ad4465c](https://mp.weixin.qq.com/s?__biz=MjM5NzAxMzMxOQ==&mid=2675249783&idx=1&sn=89853b6c2302f2f7dbffea43739b3a61&chksm=bc61c05f8b164949156fe0619071eecc1b1faa8f0d33a9bdc0326bc139962d3a5eae3ad4465c)
-
-    摘要：有一个站在巅峰的男人曾经应拉里 · 佩奇的邀请将谷歌的所有代码写成了一行，并且能完整的实现了谷歌现有的所有功能，人们甚至发现谷歌搜索快了将近 30%。后来有华尔街和硅谷的资深从业者看到这行代码后久久不能平静，对这行代码给出了 5600 亿美元的估值，当然这行代码一般人是看不完的，据说这行代码的长度可以从加州连接到 M31 星系。
-
-45. 我还真搜到了文中提到的 awesome-awesome-awesome repo，  
-    hah [https://github.com/t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome)
-
-    项目描述是 A a curated list of curated lists of awesome lists.   
-    哈哈哈 这种黑色幽默 太可爱了。
-
-46. Answer to What should you never say to a programmer? by Aladin Bensassi [https://www.quora.com/What-should-you-never-say-to-a-programmer/answer/Aladin-Bensassi?ch=99&share=753c53dd&srid=iVbmg](https://www.quora.com/What-should-you-never-say-to-a-programmer/answer/Aladin-Bensassi?ch=99&share=753c53dd&srid=iVbmg)
-
-    代入感很强，已经开始生气了..
-
-47. ![image-20210219231252196](../.gitbook/assets/image-20210219231252196.png)
-
-    hah 第一次碰到 so 维护..
-
-48. ![image-20210219231901578](../.gitbook/assets/image-20210219231901578.png)
-
-    A: hah 我今天早上 也刷到这张图了   
-    B: 这是一台已觉醒的服务器对后一台的温柔。。
-
-49. ![image-20210219232422769](../.gitbook/assets/image-20210219232422769.png)
-
-    React 的正确打开方式
-
 
 
 ![&#x8FD9;&#x5E16;&#x5B50;&#x7EDD;&#x5BF9;&#x662F;&#x6765;&#x641E;&#x4E8B;&#x60C5;&#x7684;](../.gitbook/assets/image%20%2810%29.png)
