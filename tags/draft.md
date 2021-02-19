@@ -158,39 +158,29 @@ description: 草稿整理区
 
    A: 好吧~\_~ 运算符重载 是挺酷的，但是对工程化的提升不大.. 好吧，灵活性与工程化本来就很难兼得
 
-9. Podcast分享： [https://moon.fm/share/episode/3453/](https://moon.fm/share/episode/3453/)  
-   🎙Ep 07. Lisp 程序员眼中的 Python?
-
-   讲了很多语言特性，编程范式，可以当做饭后零食~
-
-10. 好文分享:  分布式一致性与共识算法  [https://mp.weixin.qq.com/s/iPynSikOAihYMIcCERtrgg](https://mp.weixin.qq.com/s/iPynSikOAihYMIcCERtrgg)
-11. 正在找工作的前端同学可以看看，面试题都很典型。  2021 千字大厂面经 & 个人成长经验分享  [https://juejin.cn/post/6922290178836922381](https://juejin.cn/post/6922290178836922381)
-12. 实用函数式编程技巧： Combinator Pattern  [https://juejin.cn/post/6919302763306287117](https://juejin.cn/post/6919302763306287117) 好文分享。 好文不易，受教了。  尤其是讲 rxjs 与 函数组合概念章节 很赞，文中的 demo 将 generator 与 fp tools 结合 给了我另一个视角去思考迭代器。非常建议阅读。
-13. 【译】主板芯片组和内存映射  [https://juejin.cn/post/6927099189872721928](https://juejin.cn/post/6927099189872721928)  文章分享，干货不少，示例图有些歧义，现在北桥一般都集成进cpu了。
-14. 程序调用 dll 的本质是什么？   
+9. 好文分享:  分布式一致性与共识算法  [https://mp.weixin.qq.com/s/iPynSikOAihYMIcCERtrgg](https://mp.weixin.qq.com/s/iPynSikOAihYMIcCERtrgg)
+10. 正在找工作的前端同学可以看看，面试题都很典型。  2021 千字大厂面经 & 个人成长经验分享  [https://juejin.cn/post/6922290178836922381](https://juejin.cn/post/6922290178836922381)
+11. 实用函数式编程技巧： Combinator Pattern  [https://juejin.cn/post/6919302763306287117](https://juejin.cn/post/6919302763306287117) 好文分享。 好文不易，受教了。  尤其是讲 rxjs 与 函数组合概念章节 很赞，文中的 demo 将 generator 与 fp tools 结合 给了我另一个视角去思考迭代器。非常建议阅读。
+12. 【译】主板芯片组和内存映射  [https://juejin.cn/post/6927099189872721928](https://juejin.cn/post/6927099189872721928)  文章分享，干货不少，示例图有些歧义，现在北桥一般都集成进cpu了。
+13. 程序调用 dll 的本质是什么？   
     [https://www.v2ex.com/t/752972](https://www.v2ex.com/t/752972)
 
     帖子中 有人说 dll 的主要作用有 2 个，一个是代码复用，另外一个是节省内存。 我再补充下，还有混淆加密关键文件的作用。
 
-15. Podcast 分享：[https://moon.fm/share/episode/3495/](https://moon.fm/share/episode/3495/)  
-    🎙Ep 18. 竟然有人在前端做科学计算？
-
-    解决了我昨天的那个py发展的问题，是因为 py 已经有很好的计算工具生态 比如numpy，借助 ai 的风潮，在科学计算领域成为了现象级的语言.
-
-16. 文章分享：   
+14. 文章分享：   
     一名近六年工作经验的程序员通过日常开发，沟通，排查和解决问题，来提升开发效率的经验   
     [https://lichuanyang.top/posts/3423/](https://lichuanyang.top/posts/3423/)
 
     虽然文章不长，但是我觉得在工作中确实会被一些除技术外的事情影响进度，如何提高效率很重要
 
-17. 词汇分享：  chew\[tʃuː\]  v.咀嚼；思量  【记】联想记忆：chewing gum（口香糖） 【考】chew sth. over 思量
-18. vs stories 插件作者 ben今天推出了 最近研发的vscode clubhouse 插件~ 执行力max..
+15. 词汇分享：  chew\[tʃuː\]  v.咀嚼；思量  【记】联想记忆：chewing gum（口香糖） 【考】chew sth. over 思量
+16. vs stories 插件作者 ben今天推出了 最近研发的vscode clubhouse 插件~ 执行力max..
 
     [https://youtu.be/hy-EhJ\_tTQo](https://youtu.be/hy-EhJ_tTQo)
 
     I built an audio social network that's going to be the next billion dollar unicorn. [https://dogehouse.tv](https://dogehouse.tv) [https://github.com/benawad/dogehouse](https://github.com/benawad/dogehouse)
 
-19. CSS 专业技巧 一个帮你提升 CSS 技巧的收藏集。
+17. CSS 专业技巧 一个帮你提升 CSS 技巧的收藏集。
 
     [https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
 
@@ -200,7 +190,7 @@ description: 草稿整理区
     2. 安装字体时，使用 local 函数检查是否本地安装
     3. a\[href^="http"\]:empty::before { content: attr\(href\); }
 
-20. 盘点春节红包大战：流量和多巴胺 [https://mp.weixin.qq.com/s/0DoZxo8QgqgTQoeUtJkncw](https://mp.weixin.qq.com/s/0DoZxo8QgqgTQoeUtJkncw)
+18. 盘点春节红包大战：流量和多巴胺 [https://mp.weixin.qq.com/s/0DoZxo8QgqgTQoeUtJkncw](https://mp.weixin.qq.com/s/0DoZxo8QgqgTQoeUtJkncw)
 
 
 
@@ -299,15 +289,8 @@ description: 草稿整理区
 
    作者的一个观点我很赞同：编程语言的语法就是开发者的用户界面。很大程度上，编程语言的风格决定了开发人员的思维风格，编程语言的局限也会成为开发人员的思维局限。
 
-10. 人物分享：
-
-    欧长坤 - 2020 年终总结   
-    [https://blog.changkun.de/posts/2020-summary/](https://blog.changkun.de/posts/2020-summary/)
-
-    这是一位我仰慕已久的大佬。
-
-11. mutex 是 mutual exclusion 的简写，翻译一下：互相排斥。
-12. 人每天只有八个小时工作时间，谁都一样。其中能高效工作的时间绝对不超过4个小时。 这些工程师编写的代码行数绝对不算多，但从事的项目影响大。 比如 Pike，大部分时间花在了审查其他成员的 Go 代码上。而一个刚入行的 Golang 工程师，每天的任务就是写作 Go 的标准库，今天写 http 明天写 sort，写的比 Pike 多很多。 考核时，高级工程师因为带领着高效团队，每季度 OKRs 上都有诸多亮点；而刚入行的工程师，只能报告一些比较琐碎的成就。 这个观察近乎于常识，然而对于当时的我来说是一个顿悟：做出 MapReduce 框架的和写琐碎 MapReduce 程序的工程师之间的差距并不是他们的工具和编程效率，也往往不是教育背景或者经验，而是他们各自的杠杆：所带领的团队。
+10. mutex 是 mutual exclusion 的简写，翻译一下：互相排斥。
+11. 人每天只有八个小时工作时间，谁都一样。其中能高效工作的时间绝对不超过4个小时。 这些工程师编写的代码行数绝对不算多，但从事的项目影响大。 比如 Pike，大部分时间花在了审查其他成员的 Go 代码上。而一个刚入行的 Golang 工程师，每天的任务就是写作 Go 的标准库，今天写 http 明天写 sort，写的比 Pike 多很多。 考核时，高级工程师因为带领着高效团队，每季度 OKRs 上都有诸多亮点；而刚入行的工程师，只能报告一些比较琐碎的成就。 这个观察近乎于常识，然而对于当时的我来说是一个顿悟：做出 MapReduce 框架的和写琐碎 MapReduce 程序的工程师之间的差距并不是他们的工具和编程效率，也往往不是教育背景或者经验，而是他们各自的杠杆：所带领的团队。
 
     问题是，没有人会给你这个杠杆。
 
@@ -539,84 +522,77 @@ description: 草稿整理区
 
     那么关键的问题来了，如何将心智模型应用于 UI-UX 设计中呢？我们又要如何利用用户体验中的这种心理因素来构建更人性化的产品呢？
 
-15. 快餐文分享：
 
-    CSS现状和如何学习   
-    [https://mp.weixin.qq.com/s/ztU1tESHy-5kF2iFpZbgfw](https://mp.weixin.qq.com/s/ztU1tESHy-5kF2iFpZbgfw)
 
-    hah 我曾经也写过 CHSS，文章实在太长了...
+1. 分享个很全面的 Vim Cheatsheet：[https://devhints.io/vim](https://devhints.io/vim)
+2. 安利下 三款命令行应用：
 
-    摘要：CSS与其编程语言不同，她没有循环、逻辑和其他概念，它只是声明式的语言，因此，CSS很容易上手。也许正是因为如此，它才获得了简单的美誉。在 "不复杂 "的意义上，它是简单的，但这并不意味着它很容易。把 "简单 "误认为是 “容易”，只会让人心痛”。
+   1. exa - ls 的替代品，更强大 配置项众多 [https://github.com/ogham/exa](https://github.com/ogham/exa)
+   2. cheat - man 的替代品，所有文档由社区维护，也可自定义 [https://github.com/cheat/cheat](https://github.com/cheat/cheat)
+   3. broot - file browser 在 Windows 上用了挺久了，非常强大。 [https://github.com/Canop/broot](https://github.com/Canop/broot)
 
-16. 分享个很全面的 Vim Cheatsheet：[https://devhints.io/vim](https://devhints.io/vim)
-17. 安利下 三款命令行应用：
+   一些其他的 autojump fzf ni bat git-extra gacp silver-searcher ...
 
-    1. exa - ls 的替代品，更强大 配置项众多 [https://github.com/ogham/exa](https://github.com/ogham/exa)
-    2. cheat - man 的替代品，所有文档由社区维护，也可自定义 [https://github.com/cheat/cheat](https://github.com/cheat/cheat)
-    3. broot - file browser 在 Windows 上用了挺久了，非常强大。 [https://github.com/Canop/broot](https://github.com/Canop/broot)
+3. 分享个项目：
 
-    一些其他的 autojump fzf ni bat git-extra gacp silver-searcher ...
+   50projects50days   
+   [https://github.com/bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)
 
-18. 分享个项目：
+   使用 CSS HTML JS 构建的 50 个小项目，代码质量可以、项目也都很不错，可以作为练手项目。 比如使用 React Hooks + TS 重写一些例子。 下面是我重写 ToDo App 的一个例子： [https://github.com/Tomotoes/50projects50days-react/blob/master/src/todo-list/index.tsx](https://github.com/Tomotoes/50projects50days-react/blob/master/src/todo-list/index.tsx)
 
-    50projects50days   
-    [https://github.com/bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)
+4. 好文分享：
 
-    使用 CSS HTML JS 构建的 50 个小项目，代码质量可以、项目也都很不错，可以作为练手项目。 比如使用 React Hooks + TS 重写一些例子。 下面是我重写 ToDo App 的一个例子： [https://github.com/Tomotoes/50projects50days-react/blob/master/src/todo-list/index.tsx](https://github.com/Tomotoes/50projects50days-react/blob/master/src/todo-list/index.tsx)
+   Exploring Node.js Internals   
+   [https://www.smashingmagazine.com/2020/04/nodejs-internals/](https://www.smashingmagazine.com/2020/04/nodejs-internals/)
 
-19. 好文分享：
+   文章介绍了 Nodejs 的内部构造 以及 调用 系统 API 时 底层是如何运行的，并在最后指出了IO操作时，JS 并非是单线程的。
 
-    Exploring Node.js Internals   
-    [https://www.smashingmagazine.com/2020/04/nodejs-internals/](https://www.smashingmagazine.com/2020/04/nodejs-internals/)
+   摘要：we will dig deeper into the Node.js runtime, understanding how it runs JavaScript, seeing whether it actually is single-threaded, and, finally, better understanding the interconnection between its core dependencies, V8 and libuv.
 
-    文章介绍了 Nodejs 的内部构造 以及 调用 系统 API 时 底层是如何运行的，并在最后指出了IO操作时，JS 并非是单线程的。
+   文中指的 运行在虚拟机的语言 ，可简单列举下：
 
-    摘要：we will dig deeper into the Node.js runtime, understanding how it runs JavaScript, seeing whether it actually is single-threaded, and, finally, better understanding the interconnection between its core dependencies, V8 and libuv.
+   1. JVM \(java,scala,kotlin,groovy,Clojure...\)
+   2. CLR \(C\#\)
+   3. BEAM \(erlang, elixir\)
 
-    文中指的 运行在虚拟机的语言 ，可简单列举下：
+   我记得很久之前（大家在讨论 arguments 特性时） 我曾提过一点： 学习 JavaScript 最痛苦的地方就是，环境（Nodejs、浏览器）给你的 API，是无法直接查看源码的，它不像其他语言会有自建的 SDK，它的所有 API 都像是个带有规则的黑箱。 如果想查看源码，只能去翻看相应的 v8 构建。   
+   其实有的语言，比如 Go，Java 也是对一些 built-in 函数、关键字 有所黑箱，因为有的东西 确实无法自举...   
+   实现的层级 不同没办法的。   
+   A: Python JS这些脚本语言算是跑在虚拟机上的吗
 
-    1. JVM \(java,scala,kotlin,groovy,Clojure...\)
-    2. CLR \(C\#\)
-    3. BEAM \(erlang, elixir\)
+   JS 不是跑在虚拟机上的，它是一门解释编译语言，有对应的解释器与运行环境就可以了。 Python 也是如此的，是一门解释语言，不需要虚拟机。   
+   虚拟机最大的好处 就是可以使用虚拟机上面已有的生态，开发语言时也无需考虑后端（指编程语言）的设计。   
+   当然 跨平台 拿到现在就没什么亮点了。
 
-    我记得很久之前（大家在讨论 arguments 特性时） 我曾提过一点： 学习 JavaScript 最痛苦的地方就是，环境（Nodejs、浏览器）给你的 API，是无法直接查看源码的，它不像其他语言会有自建的 SDK，它的所有 API 都像是个带有规则的黑箱。 如果想查看源码，只能去翻看相应的 v8 构建。   
-    其实有的语言，比如 Go，Java 也是对一些 built-in 函数、关键字 有所黑箱，因为有的东西 确实无法自举...   
-    实现的层级 不同没办法的。   
-    A: Python JS这些脚本语言算是跑在虚拟机上的吗
+5. ![image-20210219232415472](../.gitbook/assets/image-20210219232415472.png)
 
-    JS 不是跑在虚拟机上的，它是一门解释编译语言，有对应的解释器与运行环境就可以了。 Python 也是如此的，是一门解释语言，不需要虚拟机。   
-    虚拟机最大的好处 就是可以使用虚拟机上面已有的生态，开发语言时也无需考虑后端（指编程语言）的设计。   
-    当然 跨平台 拿到现在就没什么亮点了。
+   这买了血赚，才 20k
 
-20. ![image-20210219232415472](../.gitbook/assets/image-20210219232415472.png)
+6. ![image-20210219232422769](../.gitbook/assets/image-20210219232422769.png)
 
-    这买了血赚，才 20k
+   React 的正确打开方式
 
-21. ![image-20210219232422769](../.gitbook/assets/image-20210219232422769.png)
+7. 分享篇文章\(官方faq\)：
 
-    React 的正确打开方式
+   Why is esbuild fast?   
+   [https://esbuild.github.io/faq/](https://esbuild.github.io/faq/)   
+   这篇文章 建议前端同学阅读，里面有涉及 JS 运行时的缺陷。
 
-22. 分享篇文章\(官方faq\)：
+8. 词汇分享：
 
-    Why is esbuild fast?   
-    [https://esbuild.github.io/faq/](https://esbuild.github.io/faq/)   
-    这篇文章 建议前端同学阅读，里面有涉及 JS 运行时的缺陷。
+   typist\[ˈtaɪpɪst\]   
+   n.打字员
 
-23. 词汇分享：
+9. 分享道题目：
 
-    typist\[ˈtaɪpɪst\]   
-    n.打字员
+   重塑矩阵   
+   [https://leetcode-cn.com/problems/reshape-the-matrix/](https://leetcode-cn.com/problems/reshape-the-matrix/)
 
-24. 分享道题目：
+   感兴趣的同学可以刷一下。  
+    ![image-20210219232507973](../.gitbook/assets/image-20210219232507973.png)   
+   分享下我的做法
 
-    重塑矩阵   
-    [https://leetcode-cn.com/problems/reshape-the-matrix/](https://leetcode-cn.com/problems/reshape-the-matrix/)
-
-    感兴趣的同学可以刷一下。  
-     ![image-20210219232507973](../.gitbook/assets/image-20210219232507973.png)   
-    分享下我的做法
-
-25. 分享个项目：
+10. 分享个项目：
 
     apankrat/nullboard   
     [https://github.com/apankrat/nullboard](https://github.com/apankrat/nullboard)   
@@ -627,19 +603,15 @@ description: 草稿整理区
     这种 jQuery 一把梭 的方式看起来挺酷的.. 所以说 React 的组件化 与 状态驱动 思想 很利于工程化，在大中型项目中会感受到明显收益，而小型项目中引入（主要还是看场景）多少有点过渡设计的味道。   
     好吧，这句话没什么价值。 因为项目大小 与 工程化 没有一个很好的鉴定。
 
-26. Podcast 分享：  OCaml编程语言 - 张宏‪波‬  [https://podcasts.apple.com/cn/podcast/ocaml%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-%E5%BC%A0%E5%AE%8F%E6%B3%A2/id1098682510?i=1000396401474](https://podcasts.apple.com/cn/podcast/ocaml%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-%E5%BC%A0%E5%AE%8F%E6%B3%A2/id1098682510?i=1000396401474)
+11. A: 感觉技术的发展有点像个圈子 新的东西也很容易找到以前的影子
 
+    是啊，计算机领域多久没更新新的理论了，很多基础概念都是89十年代的那群大佬已经定下的了。   
+    就比如 redux 提倡的全局唯一状态不可修改，纯函数，都是来自 fp 的基础理论。   
+    今天我了解到了一个概念，编程范式会对GC有明显的影响。   
+    我想说的重点不是这句话，而是 我觉得很多基础设施决定了上层的发展，同时也限制了新的创新。   
+    举个例子，假如从一开始就不是冯诺依曼体系的计算机，而是细胞自动机或者其他体系，还会有并发原语，数据结构等这些概念的出现嘛。 
 
-
-1. A: 感觉技术的发展有点像个圈子 新的东西也很容易找到以前的影子
-
-   是啊，计算机领域多久没更新新的理论了，很多基础概念都是89十年代的那群大佬已经定下的了。   
-   就比如 redux 提倡的全局唯一状态不可修改，纯函数，都是来自 fp 的基础理论。   
-   今天我了解到了一个概念，编程范式会对GC有明显的影响。   
-   我想说的重点不是这句话，而是 我觉得很多基础设施决定了上层的发展，同时也限制了新的创新。   
-   举个例子，假如从一开始就不是冯诺依曼体系的计算机，而是细胞自动机或者其他体系，还会有并发原语，数据结构等这些概念的出现嘛。 
-
-2. 今天还和一朋友讨论 css 的设计，不正交性，理论耦合过深。 我相信很多同学从一开始接触前端 都用过dreamweaver，它支持可视化搭建界面，就像 winform,android studio那样，为什么它没有继续流行起来？  我相信在以后\(现在 low code 平台已经成为了大厂绩效的风向标\)，一定会再出现的。
+12. 今天还和一朋友讨论 css 的设计，不正交性，理论耦合过深。 我相信很多同学从一开始接触前端 都用过dreamweaver，它支持可视化搭建界面，就像 winform,android studio那样，为什么它没有继续流行起来？  我相信在以后\(现在 low code 平台已经成为了大厂绩效的风向标\)，一定会再出现的。
 
 
 

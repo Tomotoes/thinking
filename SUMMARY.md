@@ -16,6 +16,7 @@
     * [Ruby](tags/pl/ruby.md)
     * [Lisp](tags/pl/lisp.md)
     * [Scala](tags/pl/scala.md)
+    * [OCaml](tags/pl/ocaml.md)
     * [Python](tags/pl/python.md)
     * [Elm](tags/pl/elm.md)
     * [PHP](tags/pl/php.md)
