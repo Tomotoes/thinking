@@ -42,27 +42,3 @@ description: Node & Deno
 
    如果你还没个人网站的话, 可以参考这篇文章 构建一个简单的生成器.
 
-7. 好文分享：
-
-   Exploring Node.js Internals   
-   [https://www.smashingmagazine.com/2020/04/nodejs-internals/](https://www.smashingmagazine.com/2020/04/nodejs-internals/)
-
-   文章介绍了 Nodejs 的内部构造 以及 调用 系统 API 时 底层是如何运行的，并在最后指出了IO操作时，JS 并非是单线程的。
-
-   摘要：we will dig deeper into the Node.js runtime, understanding how it runs JavaScript, seeing whether it actually is single-threaded, and, finally, better understanding the interconnection between its core dependencies, V8 and libuv.
-
-   文中指的 运行在虚拟机的语言 ，可简单列举下：
-
-   1. JVM \(java,scala,kotlin,groovy,Clojure...\)
-   2. CLR \(C\#\)
-   3. BEAM \(erlang, elixir\)
-
-   我记得很久之前（大家在讨论 arguments 特性时） 我曾提过一点： 学习 JavaScript 最痛苦的地方就是，环境（Nodejs、浏览器）给你的 API，是无法直接查看源码的，它不像其他语言会有自建的 SDK，它的所有 API 都像是个带有规则的黑箱。 如果想查看源码，只能去翻看相应的 v8 构建。   
-   其实有的语言，比如 Go，Java 也是对一些 built-in 函数、关键字 有所黑箱，因为有的东西 确实无法自举...   
-   实现的层级 不同没办法的。   
-   A: Python JS这些脚本语言算是跑在虚拟机上的吗
-
-   JS 不是跑在虚拟机上的，它是一门解释编译语言，有对应的解释器与运行环境就可以了。 Python 也是如此的，是一门解释语言，不需要虚拟机。   
-   虚拟机最大的好处 就是可以使用虚拟机上面已有的生态，开发语言时也无需考虑后端（指编程语言）的设计。   
-   当然 跨平台 拿到现在就没什么亮点了。
-

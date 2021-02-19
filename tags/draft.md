@@ -392,16 +392,8 @@ description: 草稿整理区
 
     [https://www.cs.usfca.edu/~galles/visualization/RedBlack.html](https://www.cs.usfca.edu/~galles/visualization/RedBlack.html)
 
-47. 文章分享：   
-    如何基于心智模型打造更棒的用户体验   
-    [https://mp.weixin.qq.com/s/6-M3iyHQYHxYUNNWoUAx\_Q](https://mp.weixin.qq.com/s/6-M3iyHQYHxYUNNWoUAx_Q)
-
-    摘要：用户体验设计存在的一个主要原因，就是为了迎合人们的心智模型，从而帮助他们以尽可能最佳的体验去完成任务。
-
-    那么关键的问题来了，如何将心智模型应用于 UI-UX 设计中呢？我们又要如何利用用户体验中的这种心理因素来构建更人性化的产品呢？
-
-48. 分享个很全面的 Vim Cheatsheet：[https://devhints.io/vim](https://devhints.io/vim)
-49. 安利下 三款命令行应用：
+47. 分享个很全面的 Vim Cheatsheet：[https://devhints.io/vim](https://devhints.io/vim)
+48. 安利下 三款命令行应用：
 
     1. exa - ls 的替代品，更强大 配置项众多 [https://github.com/ogham/exa](https://github.com/ogham/exa)
     2. cheat - man 的替代品，所有文档由社区维护，也可自定义 [https://github.com/cheat/cheat](https://github.com/cheat/cheat)
@@ -409,24 +401,24 @@ description: 草稿整理区
 
     一些其他的 autojump fzf ni bat git-extra gacp silver-searcher ...
 
-50. 分享个项目：
+49. 分享个项目：
 
     50projects50days   
     [https://github.com/bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)
 
     使用 CSS HTML JS 构建的 50 个小项目，代码质量可以、项目也都很不错，可以作为练手项目。 比如使用 React Hooks + TS 重写一些例子。 下面是我重写 ToDo App 的一个例子： [https://github.com/Tomotoes/50projects50days-react/blob/master/src/todo-list/index.tsx](https://github.com/Tomotoes/50projects50days-react/blob/master/src/todo-list/index.tsx)
 
-51. ![image-20210219232415472](../.gitbook/assets/image-20210219232415472.png)
+50. ![image-20210219232415472](../.gitbook/assets/image-20210219232415472.png)
 
     这买了血赚，才 20k
 
-52. 分享篇文章\(官方faq\)：
+51. 分享篇文章\(官方faq\)：
 
     Why is esbuild fast?   
     [https://esbuild.github.io/faq/](https://esbuild.github.io/faq/)   
     这篇文章 建议前端同学阅读，里面有涉及 JS 运行时的缺陷。
 
-53. 分享个项目：
+52. 分享个项目：
 
     apankrat/nullboard   
     [https://github.com/apankrat/nullboard](https://github.com/apankrat/nullboard)   
@@ -437,7 +429,7 @@ description: 草稿整理区
     这种 jQuery 一把梭 的方式看起来挺酷的.. 所以说 React 的组件化 与 状态驱动 思想 很利于工程化，在大中型项目中会感受到明显收益，而小型项目中引入（主要还是看场景）多少有点过渡设计的味道。   
     好吧，这句话没什么价值。 因为项目大小 与 工程化 没有一个很好的鉴定。
 
-54. A: 感觉技术的发展有点像个圈子 新的东西也很容易找到以前的影子
+53. A: 感觉技术的发展有点像个圈子 新的东西也很容易找到以前的影子
 
     是啊，计算机领域多久没更新新的理论了，很多基础概念都是89十年代的那群大佬已经定下的了。   
     就比如 redux 提倡的全局唯一状态不可修改，纯函数，都是来自 fp 的基础理论。   
@@ -445,7 +437,7 @@ description: 草稿整理区
     我想说的重点不是这句话，而是 我觉得很多基础设施决定了上层的发展，同时也限制了新的创新。   
     举个例子，假如从一开始就不是冯诺依曼体系的计算机，而是细胞自动机或者其他体系，还会有并发原语，数据结构等这些概念的出现嘛。 
 
-55. 今天还和一朋友讨论 css 的设计，不正交性，理论耦合过深。 我相信很多同学从一开始接触前端 都用过dreamweaver，它支持可视化搭建界面，就像 winform,android studio那样，为什么它没有继续流行起来？  我相信在以后\(现在 low code 平台已经成为了大厂绩效的风向标\)，一定会再出现的。
+54. 今天还和一朋友讨论 css 的设计，不正交性，理论耦合过深。 我相信很多同学从一开始接触前端 都用过dreamweaver，它支持可视化搭建界面，就像 winform,android studio那样，为什么它没有继续流行起来？  我相信在以后\(现在 low code 平台已经成为了大厂绩效的风向标\)，一定会再出现的。
 
 
 

@@ -39,4 +39,11 @@ description: 产品
    暴躁老哥从个人角度的吐槽, 说的很挺有道理的..
 
 6. ![image-20210206222041073](../.gitbook/assets/image-20210206222041073.png)
+7. 文章分享：   
+   如何基于心智模型打造更棒的用户体验   
+   [https://mp.weixin.qq.com/s/6-M3iyHQYHxYUNNWoUAx\_Q](https://mp.weixin.qq.com/s/6-M3iyHQYHxYUNNWoUAx_Q)
+
+   摘要：用户体验设计存在的一个主要原因，就是为了迎合人们的心智模型，从而帮助他们以尽可能最佳的体验去完成任务。
+
+   那么关键的问题来了，如何将心智模型应用于 UI-UX 设计中呢？我们又要如何利用用户体验中的这种心理因素来构建更人性化的产品呢？
 
