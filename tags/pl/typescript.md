@@ -322,9 +322,3 @@
 
     快餐文分享，第一条 与 第四条 都是之前没有想过的用法。
 
-28. 🌚如何更容易上手 Typescript 类型计算？   
-    [https://juejin.cn/post/6924848590544207885](https://juejin.cn/post/6924848590544207885)   
-    摘要： 最近在国内的前端圈流行一个名词“TS 体操”，TS 对应 TypeScript，“体操”是 TC 的戏称，而 TC 就是 turing completeness （图灵完备）的意思，具体就是指验证 TypeScript 的 Type-level programming （编译时（compile time）的相关语法）是图灵完备的，经过传播之后，也泛指以一个 TS 类型作为输入，通过写 TS 代码输出另外一个类型的实践。
-
-    文章分享，写的很不错，demo也值得刷一下。
-

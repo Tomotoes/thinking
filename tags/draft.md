@@ -617,23 +617,18 @@ description: 草稿整理区
     React 的正确打开方式
 
 24. 每日一句分享：  线程的实现模型主要有3种：内核级线程模型、用户级线程模型和两级线程模型（也称混合型线程模型），它们之间最大的差异就在于用户级线程与内核级线程的对应关系。
-25. 分享篇文章：
-
-    平台与创新的悖论：Facebook头顶紧箍咒   
-    [https://www.huxiu.com/article/409688.html](https://www.huxiu.com/article/409688.html)
-
-26. 分享篇文章\(官方faq\)：
+25. 分享篇文章\(官方faq\)：
 
     Why is esbuild fast?   
     [https://esbuild.github.io/faq/](https://esbuild.github.io/faq/)   
     这篇文章 建议前端同学阅读，里面有涉及 JS 运行时的缺陷。
 
-27. 词汇分享：
+26. 词汇分享：
 
     typist\[ˈtaɪpɪst\]   
     n.打字员
 
-28. 分享道题目：
+27. 分享道题目：
 
     重塑矩阵   
     [https://leetcode-cn.com/problems/reshape-the-matrix/](https://leetcode-cn.com/problems/reshape-the-matrix/)
@@ -642,7 +637,7 @@ description: 草稿整理区
      ![image-20210219232507973](../.gitbook/assets/image-20210219232507973.png)   
     分享下我的做法
 
-29. 分享个项目：
+28. 分享个项目：
 
     apankrat/nullboard   
     [https://github.com/apankrat/nullboard](https://github.com/apankrat/nullboard)   
@@ -653,7 +648,7 @@ description: 草稿整理区
     这种 jQuery 一把梭 的方式看起来挺酷的.. 所以说 React 的组件化 与 状态驱动 思想 很利于工程化，在大中型项目中会感受到明显收益，而小型项目中引入（主要还是看场景）多少有点过渡设计的味道。   
     好吧，这句话没什么价值。 因为项目大小 与 工程化 没有一个很好的鉴定。
 
-30. Podcast 分享：  OCaml编程语言 - 张宏‪波‬  [https://podcasts.apple.com/cn/podcast/ocaml%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-%E5%BC%A0%E5%AE%8F%E6%B3%A2/id1098682510?i=1000396401474](https://podcasts.apple.com/cn/podcast/ocaml%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-%E5%BC%A0%E5%AE%8F%E6%B3%A2/id1098682510?i=1000396401474)
+29. Podcast 分享：  OCaml编程语言 - 张宏‪波‬  [https://podcasts.apple.com/cn/podcast/ocaml%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-%E5%BC%A0%E5%AE%8F%E6%B3%A2/id1098682510?i=1000396401474](https://podcasts.apple.com/cn/podcast/ocaml%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-%E5%BC%A0%E5%AE%8F%E6%B3%A2/id1098682510?i=1000396401474)
 
 
 

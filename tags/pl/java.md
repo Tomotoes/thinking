@@ -104,8 +104,3 @@
 
     参考 actor , channel
 
-18. 分享篇文章: Java 新特性解析：模式匹配   
-    [https://www.infoq.cn/article/1CB7jiLBmvU3Hbxw2ZO7](https://www.infoq.cn/article/1CB7jiLBmvU3Hbxw2ZO7)
-
-    这怎么越来越 Scala 化了... 有趣
-

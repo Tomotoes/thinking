@@ -329,39 +329,6 @@
     B: 大体上是这样，有很多细节要小心处理 比如 fakewindow 上 freeze 的变量什么的
 
 29. ES6 提出 class 关键字是希望解决什么问题？它是不是鸡肋？ - 大宽宽的回答 - 知乎 [https://www.zhihu.com/question/432832293/answer/1719931291](https://www.zhihu.com/question/432832293/answer/1719931291)  宽老师居然来飞书做架构师了..
-30. 分享篇文章：
-
-    Writing JavaScript tools in other languages – a new trend  
-    [https://2ality.com/2020/10/js-plus-other-languages.html](https://2ality.com/2020/10/js-plus-other-languages.html)
-
-    摘要：Recently, we have seen an uptick of JavaScript tools being written in languages other than JavaScript. This blog post lists a few examples and explains the appeal of not using JavaScript.
-
-31. [https://weibo.com/1787076481/K15Zi8Xk2?type=repost](https://weibo.com/1787076481/K15Zi8Xk2?type=repost)
-
-    JavaScript 2020 年度普查 \(2\) · 技术章 \| 程序员黄玄 - 2020 年最受关注的技术 —— 横跨 JS 方言、前端/后端/测试框架、数据层、构建工具、桌面端移动端 App 开发方案。
-
-    视频做的很棒，建议观感~
-
-32. 好文分享：
-
-    深入理解JSCore   
-    [https://tech.meituan.com/2018/08/23/deep-understanding-of-jscore.html](https://tech.meituan.com/2018/08/23/deep-understanding-of-jscore.html)
-
-33. 快餐文分享：
-
-    聊聊 JavaScript 的并发、异步和事件循环   
-    [https://musicfe.dev/eventloop/](https://musicfe.dev/eventloop/)
-
-    文章涉及了一些基本的概念，可以简单看下。
-
-34. 好文分享：
-
-    JavaScript Promises: 9 Questions   
-    [https://danlevy.net/javascript-promises-quiz/](https://danlevy.net/javascript-promises-quiz/)
-
-    My goal is to try a new ‘quiz tool’ I built for my blog, and get feedback on how well you learned from the excercise.
-
-    除了第一个比较特例，剩下的都正确了，文章是以题目+讲解的形式 去学习 Promise 。
 
 ​
 

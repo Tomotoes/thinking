@@ -80,27 +80,3 @@
 
     除了操作系统和编程语言这种较为底层的调度器之外，容器和计算任务调度在今天也很常见，Kubernetes 作为容器编排系统会负责调取集群中的容器，对它稍有了解的人都知道，Kubernetes 中调度的基本单元是 Pod，这些 Pod 会被调度到节点 Node 上执行： 任务 —— Pod 优先级不同：Pod 的优先级可能不同，高优先级的系统 Pod 可以抢占低优先级 Pod 的资源； 有状态：Pod 可以分为无状态和有状态，有状态的 Pod 需要依赖持久存储卷； 资源 —— Node 类型不同：不同节点上的资源类型不同，包括 CPU、GPU 和内存等，这些资源可以被拆分但是都属于当前节点； 不稳定：节点可能由于突发原因不可用，例如：无网络连接、磁盘损坏等；
 
-11. 快餐文分享：
-
-    Go 并发编程范例   
-    [https://steeed.gitee.io/gotour-concurrency-coding-example.html](https://steeed.gitee.io/gotour-concurrency-coding-example.html)
-
-    Goruntine + channel 实现多种并发模型 真的不要太简单。
-
-12. 好文分享：
-
-    Let's Create a Simple Load Balancer With Go   
-    [https://kasvith.me/posts/lets-create-a-simple-lb-go/](https://kasvith.me/posts/lets-create-a-simple-lb-go/)
-
-    摘要：Load Balancers plays a key role in Web Architecture. They allow distributing load among a set of backends. This makes services more scalable. Also since there are multiple backends configured the service become highly available as load balancer can pick up a working server in case of a failure.
-
-    文章写的很好，由浅入深 先介绍了 负载均衡常见的策略，然后给出了实践，重试机制，心脏检测都有涉及，可惜的是反向代理的核心流量转发 使用的是 Go library 中的 ReverseProxy..
-
-13. 文章分享：
-
-    go-patterns - Semaphore
-
-    [https://hxangel.gitbooks.io/go-patterns/content/synchronization/semaphore.html](https://hxangel.gitbooks.io/go-patterns/content/synchronization/semaphore.html)
-
-    使用 channel 实现 信号量，代码很简单，文章很短，建议阅读。
-

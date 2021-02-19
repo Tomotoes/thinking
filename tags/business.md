@@ -192,3 +192,8 @@ description: 商业
 
     哎，典型的囚徒困境 ，如果没有不可抗力 是无法破的。
 
+30. 分享篇文章：
+
+    平台与创新的悖论：Facebook头顶紧箍咒   
+    [https://www.huxiu.com/article/409688.html](https://www.huxiu.com/article/409688.html)
+
