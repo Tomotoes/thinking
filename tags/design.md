@@ -30,4 +30,8 @@ description: 设计
    2021 UI/UX 演讲趋势, 看完让我大开眼界, 每一个设计都具有美感, 尤其是 Colorless Design , 个人太喜欢了.. 美得溢出屏幕.. 还有在 AR 时代的 UX 设计, 科技感满满..
 
 6. 分享一个调色板网站: [https://www.happyhues.co/palettes/17](https://www.happyhues.co/palettes/17)  网站中的每种调色方案, 都很让人舒服, 即简洁又突出重点
+7. JS 主题图标和插画艺术展   
+   [https://zhuanlan.zhihu.com/p/124302068](https://zhuanlan.zhihu.com/p/124302068)
+
+   拟物风 爱了爱了..
 

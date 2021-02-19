@@ -27,6 +27,7 @@
     * [Shell](tags/pl/shell.md)
     * [Index](tags/pl/index.md)
     * [Objective-C](tags/pl/objective-c.md)
+    * [C](tags/pl/c.md)
     * [TypeScript](tags/pl/typescript.md)
     * [Rust](tags/pl/rust.md)
     * [SQL](tags/pl/sql.md)
