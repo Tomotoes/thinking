@@ -4,7 +4,7 @@ description: 书籍
 
 # Book
 
-1. 推荐本书:  未来世界的幸存者  阮一峰老师 几年前出的一本书。 里面的很多内容 现在看来也具有价值，建议阅读。
+1. 推荐本书:  未来世界的幸存者  [http://www.ruanyifeng.com/survivor/](http://www.ruanyifeng.com/survivor/) 阮一峰老师 几年前出的一本书。 里面的很多内容 现在看来也具有价值，建议阅读。
 2. 书籍分享：
 
    introduction-to-bash-scripting
@@ -15,10 +15,7 @@ description: 书籍
 
    虽然此书一共才122页，但内容很全面，由浅入深。值得阅读。
 
-3. 分享一本书，读了前两章 干货很多，后面的章节 有兴趣的同学可以实践下.
-
-   [https://weread.qq.com/web/appreader/4a4323f0718ff6824a40316k9bf32f301f9bf31c7ff0a60?wtheme=white&wfrom=app&wvid=244154583&scene=bottomSheetShare](https://weread.qq.com/web/appreader/4a4323f0718ff6824a40316k9bf32f301f9bf31c7ff0a60?wtheme=white&wfrom=app&wvid=244154583&scene=bottomSheetShare)
-
+3. 分享一本书，读了前两章 干货很多，后面的章节 有兴趣的同学可以实践下.[https://weread.qq.com/web/appreader/4a4323f0718ff6824a40316k9bf32f301f9bf31c7ff0a60?wtheme=white&wfrom=app&wvid=244154583&scene=bottomSheetShare](https://weread.qq.com/web/appreader/4a4323f0718ff6824a40316k9bf32f301f9bf31c7ff0a60?wtheme=white&wfrom=app&wvid=244154583&scene=bottomSheetShare)
 4. 电子书分享:
 
    《微服务：从设计到部署》
@@ -54,4 +51,6 @@ description: 书籍
    [https://book.douban.com/subject/33477112/](https://book.douban.com/subject/33477112/)
 
    准备今天把这本书啃完。 和终端打交道，都能有微服务的概念，可见现在应用的复杂性...
+
+9. 分享本书：改变未来的九大算法  [https://book.douban.com/subject/24529132/](https://book.douban.com/subject/24529132/)  虽然书名取得很一般，但内容还是不错的。
 

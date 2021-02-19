@@ -197,3 +197,8 @@
 
     [https://mp.weixin.qq.com/s/o8HOvYfUNUKPGydSak1mxA](https://mp.weixin.qq.com/s/o8HOvYfUNUKPGydSak1mxA)
 
+35. 你辛苦学会的 Webpack dll 配置，可能已经过时了   
+    [https://mp.weixin.qq.com/s/jtIbVc9Bl50TIs7YilWbFg](https://mp.weixin.qq.com/s/jtIbVc9Bl50TIs7YilWbFg)
+
+    之前一直没想过前端工程与dll之间的关系..
+

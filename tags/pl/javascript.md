@@ -328,5 +328,7 @@
 
     B: 大体上是这样，有很多细节要小心处理 比如 fakewindow 上 freeze 的变量什么的
 
+29. ES6 提出 class 关键字是希望解决什么问题？它是不是鸡肋？ - 大宽宽的回答 - 知乎 [https://www.zhihu.com/question/432832293/answer/1719931291](https://www.zhihu.com/question/432832293/answer/1719931291)  宽老师居然来飞书做架构师了..
+
 ​
 

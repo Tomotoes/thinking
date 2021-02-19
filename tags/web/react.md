@@ -81,7 +81,14 @@
 
     文章写得挺好的，建议阅读。
 
-22. Question: 以下组件 存在什么问题?
+22. 分享篇文章：
+
+    React 事件系统工作原理   
+    [https://musicfe.dev/react-event/](https://musicfe.dev/react-event/)
+
+    摘要：React 为我们提供了一套虚拟的事件系统，这套虚拟事件系统是如何工作的，笔者对源码做了一次梳理，整理了下面的文档供大家参考。
+
+23. Question: 以下组件 存在什么问题?
 
     ```text
     const handleClick = () => {}

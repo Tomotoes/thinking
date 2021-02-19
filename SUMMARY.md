@@ -81,6 +81,7 @@
   * [Architecture](tags/architecture.md)
   * [Education](tags/education.md)
   * [Book](tags/book.md)
+  * [Draft](tags/draft.md)
 * [Archives](archives/README.md)
   * [2021](archives/2021/README.md)
     * [2](archives/2021/2/README.md)
