@@ -171,21 +171,20 @@ description: 草稿整理区
 
     虽然文章不长，但是我觉得在工作中确实会被一些除技术外的事情影响进度，如何提高效率很重要
 
-23. 词汇分享：  chew\[tʃuː\]  v.咀嚼；思量  【记】联想记忆：chewing gum（口香糖） 【考】chew sth. over 思量
-24. vs stories 插件作者 ben今天推出了 最近研发的vscode clubhouse 插件~ 执行力max..
+23. vs stories 插件作者 ben今天推出了 最近研发的vscode clubhouse 插件~ 执行力max..
 
     [https://youtu.be/hy-EhJ\_tTQo](https://youtu.be/hy-EhJ_tTQo)
 
     I built an audio social network that's going to be the next billion dollar unicorn. [https://dogehouse.tv](https://dogehouse.tv) [https://github.com/benawad/dogehouse](https://github.com/benawad/dogehouse)
 
-25. hah 它终于来了。
+24. hah 它终于来了。
 
     reactend/reactend-express   
     [https://github.com/reactend/reactend-express](https://github.com/reactend/reactend-express)
 
     React renderer to build Node.js server 感觉也就是一个玩具，使用 JSX 表达，让我想起了 使用 xml 配置 tomcat .. 实用价值几乎为0..
 
-26. B: 可以衍生谈一谈这点：
+25. B: 可以衍生谈一谈这点：
 
     JSX 最初是用来描述 GUI 的，最大的特点是 可以在 GUI 内部包含逻辑，包含状态。
 
@@ -224,23 +223,23 @@ description: 草稿整理区
     A: 嗯，实际写代码的时候我基本都不 care 声明式还是命令式啥的范式。。按直觉去写了   
     B: hah 我除了遵循 fp 的编程规范外，做到最多的事 就是隔离状态。
 
-27. A: 之前我看 Go web frame 源码时，经常看到使用前缀tree做路由匹配 其实是字典树，也叫字母树的一种应用。
+26. A: 之前我看 Go web frame 源码时，经常看到使用前缀tree做路由匹配 其实是字典树，也叫字母树的一种应用。
 
     B: trie树 leetcode上刷到过￼
 
-28. 哇 发现一个老古董~   
+27. 哇 发现一个老古董~   
     GnoConsortium/gno   
     [https://github.com/GnoConsortium/gno](https://github.com/GnoConsortium/gno)   
     ![image-20210219230945388](../.gitbook/assets/image-20210219230945388.png)
 
     24 年前... 都比我大了。
 
-29. Q: 给你一个 fetch 函数，fetch =&gt; Promise&lt;Data&gt;. 请你实现 请求 8 秒无结果后，超时报错的机制。
+28. Q: 给你一个 fetch 函数，fetch =&gt; Promise&lt;Data&gt;. 请你实现 请求 8 秒无结果后，超时报错的机制。
 
     A: ablortController￼ 加上promise.race￼   
     Q: 回答上了 promise.race 就成功了。
 
-30. 分享篇多年前看过的好文，出自黄峰达老师之手：
+29. 分享篇多年前看过的好文，出自黄峰达老师之手：
 
     演进：如何用练习快速提升技术
 
@@ -249,44 +248,37 @@ description: 草稿整理区
     对最开始刚学计算机的我，产生了很大的影响，还记得看完后 我练了一周的指法...   
     当时看完真是 收益匪浅，现在看了一遍 没多少感觉了..
 
-31. 分享篇 科普文章：
+30. 分享篇 科普文章：
 
     原子的故事   
     [https://oldj.net/article/2020/09/20/story-of-the-atom/](https://oldj.net/article/2020/09/20/story-of-the-atom/)
 
-32. 分享篇文章：
+31. 分享篇文章：
 
     编程语言社会学   
     [https://yuheng.io/articles/proglang-sociology](https://yuheng.io/articles/proglang-sociology)
 
     作者的一个观点我很赞同：编程语言的语法就是开发者的用户界面。很大程度上，编程语言的风格决定了开发人员的思维风格，编程语言的局限也会成为开发人员的思维局限。
 
-33. mutex 是 mutual exclusion 的简写，翻译一下：互相排斥。
-34. 人每天只有八个小时工作时间，谁都一样。其中能高效工作的时间绝对不超过4个小时。 这些工程师编写的代码行数绝对不算多，但从事的项目影响大。 比如 Pike，大部分时间花在了审查其他成员的 Go 代码上。而一个刚入行的 Golang 工程师，每天的任务就是写作 Go 的标准库，今天写 http 明天写 sort，写的比 Pike 多很多。 考核时，高级工程师因为带领着高效团队，每季度 OKRs 上都有诸多亮点；而刚入行的工程师，只能报告一些比较琐碎的成就。 这个观察近乎于常识，然而对于当时的我来说是一个顿悟：做出 MapReduce 框架的和写琐碎 MapReduce 程序的工程师之间的差距并不是他们的工具和编程效率，也往往不是教育背景或者经验，而是他们各自的杠杆：所带领的团队。
+32. mutex 是 mutual exclusion 的简写，翻译一下：互相排斥。
+33. 人每天只有八个小时工作时间，谁都一样。其中能高效工作的时间绝对不超过4个小时。 这些工程师编写的代码行数绝对不算多，但从事的项目影响大。 比如 Pike，大部分时间花在了审查其他成员的 Go 代码上。而一个刚入行的 Golang 工程师，每天的任务就是写作 Go 的标准库，今天写 http 明天写 sort，写的比 Pike 多很多。 考核时，高级工程师因为带领着高效团队，每季度 OKRs 上都有诸多亮点；而刚入行的工程师，只能报告一些比较琐碎的成就。 这个观察近乎于常识，然而对于当时的我来说是一个顿悟：做出 MapReduce 框架的和写琐碎 MapReduce 程序的工程师之间的差距并不是他们的工具和编程效率，也往往不是教育背景或者经验，而是他们各自的杠杆：所带领的团队。
 
     问题是，没有人会给你这个杠杆。
 
     摘抄自 4G Spaces - 技术管理猪鸡-1 开篇   
     [https://blog.youxu.info/2015/05/17/tech-lead-1/](https://blog.youxu.info/2015/05/17/tech-lead-1/)
 
-35. ![image-20210219231203219](../.gitbook/assets/image-20210219231203219.png)
+34. ![image-20210219231203219](../.gitbook/assets/image-20210219231203219.png)
 
     自由过了火~
 
-36. Learn fp visually
+35. Learn fp visually
 
     [https://david-peter.de/cube-composer/](https://david-peter.de/cube-composer/)
 
     一个 立方体映射的游戏，玩到 3.1 就玩不动了..
 
-37. 词汇分享：   
-    Ponder /ˈpɑːn.dɚ/
-
-    to think carefully about something, especially for a noticeable length of time:
-
-    例：She sat back for a minute to ponder her next move in the game.
-
-38. 刚刚学到两个快捷键，在 Chrome 下键入：
+36. 刚刚学到两个快捷键，在 Chrome 下键入：
 
     1. Command + up arrow：页面滚动至顶部
     2. Command + down arrow: 页面滚动至底部 平时都是用 vimium 的 G 与 gg...
@@ -296,12 +288,12 @@ description: 草稿整理区
     1. Command + up arrow：返回上一目录
     2. Command + down arrow: 返回刚刚的目录 这些快捷键 与 鼠标手势，剪切板手势结合 简直完美~
 
-39. 如何监听 React 应用的性能：
+37. 如何监听 React 应用的性能：
     1. 使用 React 官方提供的 Development tool plugin 中的 Profiler panel，控制台可见
     2. 与上面类似，使用 React 提供的 Profiler 组件，在 onRender props 中可以拿到渲染的信息。
     3. 使用 Chrome Dev Tools 的 performance tab，使用之前需要禁用 React Development tool 插件，不然会影响性能，记录之后 在 timing 中有查阅。
     4. 使用 performance api 拿到信息，不过经常用于埋点。
-40. React 组件测试的两种场景：
+38. React 组件测试的两种场景：
 
     1. 组件 snapshot 测试，常见的工具有 jest
 
@@ -317,7 +309,7 @@ description: 草稿整理区
     之所以这么划分，在我看来 是因为出发点的不同。  
     AB测试 是从产品，数据角度。 灰度发布 是从运维，开发角度。
 
-41. A: 可以讨论下 测试驱动开发。业界俗称 TDD
+39. A: 可以讨论下 测试驱动开发。业界俗称 TDD
 
     测试驱动开发 我觉得最关键的是 分场景。 需要质量保障，可以按模块分期迭代的场景比较适合。
 
@@ -348,10 +340,10 @@ description: 草稿整理区
     [https://blog.royalsloth.eu/posts/the-complexity-that-lives-in-the-gui/](https://blog.royalsloth.eu/posts/the-complexity-that-lives-in-the-gui/)   
     文章把主要的痛点 都归结于组件之间的状态管理。 正因为组件（模块，单元，类 一种概念）之间的状态 划分不清，开始设计时 很难把所有的 UI 状态，数据状态都想到位。
 
-42. 分享两篇关于介绍 React-Native 比较简明的文章：
+40. 分享两篇关于介绍 React-Native 比较简明的文章：
     1. React Native架构一览 [http://www.ayqy.net/blog/react-native-architecture-overview/](http://www.ayqy.net/blog/react-native-architecture-overview/)
     2. React Native架构演进 [http://www.ayqy.net/blog/react-native-new-architecture/](http://www.ayqy.net/blog/react-native-new-architecture/)
-43. HTTP2.0 的多路复用 与 浏览器网络连接限制 针对 Web 应用优化的建议：
+41. HTTP2.0 的多路复用 与 浏览器网络连接限制 针对 Web 应用优化的建议：
 
     1. 如果服务端配置了 HTTP 2.0 ，那么建议域名收敛，可以最大程度上 多个请求复用同一个链接，可以消除重复连接带来的消耗。
     2. 如果服务端没有配置 HTTP2.0，并且请求数量很多，建议域名分散，最大程度上 不阻塞 请求统一域名下的资源。
@@ -363,14 +355,14 @@ description: 草稿整理区
      一句话概括：为了正义.  
     可以看下这个回答 浏览器允许的并发请求资源数是什么意思？ - bombless的回答 - 知乎 [https://www.zhihu.com/question/20474326/answer/15691654](https://www.zhihu.com/question/20474326/answer/15691654)
 
-44. 分享个好玩的项目：
+42. 分享个好玩的项目：
 
     GTAmodding/re3   
     [https://github.com/GTAmodding/re3](https://github.com/GTAmodding/re3)
 
     GTA3 罪恶都市源代码 全局搜了下 nuttertools 居然啥也没找到，这不是真的罪恶都市￼
 
-45. 想讲讲 客户端缓存，也就是只有静态页面，没有服务端的应用 该怎么利用好缓存，让页面加载更快。   
+43. 想讲讲 客户端缓存，也就是只有静态页面，没有服务端的应用 该怎么利用好缓存，让页面加载更快。   
     我在这方面有一些实践，因为我的网站是一直是托管在 github page 和使用 jsdriver cdn 这样的，除了域名 没有买过服务器，所以网络请求的优化也无法涉及，只能从客户端性能这边入手。   
     但是 只讲下 页面缓存，其他优化的点 暂时不涉及。   
     我最开始使用的页面缓存 很蠢，我把关键 css，js 的内容保存到 localStorage 中，然后页面 onload 时，判断是否命中，命中的话读取，反之拉取数据。  
@@ -385,7 +377,7 @@ description: 草稿整理区
     是的，不过我的优先级很高，hh~ 关于全站上 sw 这事我做了一周多，因为我的网站分为多个子站点，而每个站点的技术栈不同，打包的机制不同，想把所有站点全上 sw 缓存 就必须把所有打包机制全统一化，就比如 主页使用 gulp，博客使用 hexo，关于页 webpack 等等。   
     其实 sw 缓存还有代理的功能~ 配置项很多，玩法就很多
 
-46. ![image-20210219231816728](../.gitbook/assets/image-20210219231816728.png)
+44. ![image-20210219231816728](../.gitbook/assets/image-20210219231816728.png)
 
     注意，module 文件 A 中 import 的其他文件（B，C） 加载机制是不同的。
 
@@ -395,12 +387,12 @@ description: 草稿整理区
     如果是手动加载 script，默认是 async 的方式   
     [https://javascript.info/script-async-defer](https://javascript.info/script-async-defer)
 
-47. Windows 10X 上手体验   
+45. Windows 10X 上手体验   
     [https://sspai.com/post/64991](https://sspai.com/post/64991)
 
     好家伙，Windows 又新增了一种设计系统.. 之前的 WinXP，Win7 拟物，Win10 Fluent Design 还不嫌乱嘛..
 
-48. 很好奇 TLS1.3 改进了什么算法，一次 RTT 即可握手成功。TLS 详解握手流程 [https://juejin.cn/post/6895624327896432654](https://juejin.cn/post/6895624327896432654)
+46. 很好奇 TLS1.3 改进了什么算法，一次 RTT 即可握手成功。TLS 详解握手流程 [https://juejin.cn/post/6895624327896432654](https://juejin.cn/post/6895624327896432654)
 
     摘要：TLS 三个版本的握手方式，你都了解吗？
 
@@ -410,7 +402,7 @@ description: 草稿整理区
 
     找到了 TLS1.3 的 rfc，算了还是宏观了解下吧。
 
-49. Question：抓包工具是 如何拦截记录 HTTPS 请求的呢？
+47. Question：抓包工具是 如何拦截记录 HTTPS 请求的呢？
 
     抓包工具实际上是作为 客户端与服务端的中间人。   
     客户端以为是与服务端通信，实则是与抓包工具。 服务端以为是与客户端通信，实则是与抓包工具。
@@ -421,14 +413,14 @@ description: 草稿整理区
     当客户端与抓包工具通信时，验证抓包工具的证书，会以已经安装好的根证书去验证。自己验证自己是一定会通过的。   
     所以说，当抓包工具不使用时，尽快把它的根证书下掉，万一黑化 很可怕的。
 
-50. ![image-20210219231901578](../.gitbook/assets/image-20210219231901578.png)
+48. ![image-20210219231901578](../.gitbook/assets/image-20210219231901578.png)
 
     A: hah 我今天早上 也刷到这张图了   
     B: 这是一台已觉醒的服务器对后一台的温柔。。
 
-51. Kotlin基金会成立  [https://kotlinlang.org/docs/kotlin-foundation.html](https://kotlinlang.org/docs/kotlin-foundation.html)  这两天 Kotlin, Rust 的基金会都成立了，好耶~
-52. 写一篇最好懂的HTTPS讲解  [https://juejin.cn/post/6925296374628122632](https://juejin.cn/post/6925296374628122632)  分享篇科普文，文中有一处错误，通过数据解密成功失败去认证权威性 显然是不对的，而是在使用公钥解密后拿到数据摘要，客户端本地在使用hash生成一份数据摘要，只有这两份摘要相同才认证成功。
-53. 分享篇老文   
+49. Kotlin基金会成立  [https://kotlinlang.org/docs/kotlin-foundation.html](https://kotlinlang.org/docs/kotlin-foundation.html)  这两天 Kotlin, Rust 的基金会都成立了，好耶~
+50. 写一篇最好懂的HTTPS讲解  [https://juejin.cn/post/6925296374628122632](https://juejin.cn/post/6925296374628122632)  分享篇科普文，文中有一处错误，通过数据解密成功失败去认证权威性 显然是不对的，而是在使用公钥解密后拿到数据摘要，客户端本地在使用hash生成一份数据摘要，只有这两份摘要相同才认证成功。
+51. 分享篇老文   
     Tutorial - Write a Shell in C   
     [https://brennan.io/2015/01/16/write-a-shell-in-c/](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 
@@ -438,7 +430,7 @@ description: 草稿整理区
 
     Initialize: In this step, a typical shell would read and execute its configuration files. These change aspects of the shell’s behavior. Interpret: Next, the shell reads commands from stdin \(which could be interactive, or a file\) and executes them. Terminate: After its commands are executed, the shell executes any shutdown commands, frees up any memory, and terminates.
 
-54. 好文分享：
+52. 好文分享：
 
     An Interactive Guide to CSS Transitions   
     [https://www.joshwcomeau.com/animation/css-transitions/](https://www.joshwcomeau.com/animation/css-transitions/)
@@ -454,18 +446,10 @@ description: 草稿整理区
     3. Doom flicker，触发动画的元素 与 动画运动元素 一定要分清
     4. @media \(prefers-reduced-motion: reduce\) 可以使用此选择器禁用动画 关于最后一点，确实 动画太多，整个页面看起来较油腻，建议设计时 动画要小而精美。
 
-55. 分享一个数据结构的基础知识：
+53. 分享一个数据结构的基础知识：
     1. 树是图的联通无环类型
     2. 链表是树的非叶节点只有一个子节点类型
-56. 词汇分享：
-
-    plight /plaɪt/ 困境
-
-    an unpleasant condition, especially a serious, sad, or difficult one:
-
-    eg: the plight of the poor/homeless eg: Few of us can be unmoved by the plight of the refugees. 光被挡住了，就会陷入困境。
-
-57. 提个观点，平衡二叉树（AVL）树 是二分搜索在存储结构设计上的体现。
+54. 提个观点，平衡二叉树（AVL）树 是二分搜索在存储结构设计上的体现。
 
     A: 在学红黑树，突然联想到的一个概念..   
     B: 我之前面试的时候，让我手撕红黑树   
@@ -478,7 +462,7 @@ description: 草稿整理区
 
     [https://www.cs.usfca.edu/~galles/visualization/RedBlack.html](https://www.cs.usfca.edu/~galles/visualization/RedBlack.html)
 
-58. 文章分享：   
+55. 文章分享：   
     如何基于心智模型打造更棒的用户体验   
     [https://mp.weixin.qq.com/s/6-M3iyHQYHxYUNNWoUAx\_Q](https://mp.weixin.qq.com/s/6-M3iyHQYHxYUNNWoUAx_Q)
 
@@ -486,8 +470,8 @@ description: 草稿整理区
 
     那么关键的问题来了，如何将心智模型应用于 UI-UX 设计中呢？我们又要如何利用用户体验中的这种心理因素来构建更人性化的产品呢？
 
-59. 分享个很全面的 Vim Cheatsheet：[https://devhints.io/vim](https://devhints.io/vim)
-60. 安利下 三款命令行应用：
+56. 分享个很全面的 Vim Cheatsheet：[https://devhints.io/vim](https://devhints.io/vim)
+57. 安利下 三款命令行应用：
 
     1. exa - ls 的替代品，更强大 配置项众多 [https://github.com/ogham/exa](https://github.com/ogham/exa)
     2. cheat - man 的替代品，所有文档由社区维护，也可自定义 [https://github.com/cheat/cheat](https://github.com/cheat/cheat)
@@ -495,14 +479,14 @@ description: 草稿整理区
 
     一些其他的 autojump fzf ni bat git-extra gacp silver-searcher ...
 
-61. 分享个项目：
+58. 分享个项目：
 
     50projects50days   
     [https://github.com/bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)
 
     使用 CSS HTML JS 构建的 50 个小项目，代码质量可以、项目也都很不错，可以作为练手项目。 比如使用 React Hooks + TS 重写一些例子。 下面是我重写 ToDo App 的一个例子： [https://github.com/Tomotoes/50projects50days-react/blob/master/src/todo-list/index.tsx](https://github.com/Tomotoes/50projects50days-react/blob/master/src/todo-list/index.tsx)
 
-62. 好文分享：
+59. 好文分享：
 
     Exploring Node.js Internals   
     [https://www.smashingmagazine.com/2020/04/nodejs-internals/](https://www.smashingmagazine.com/2020/04/nodejs-internals/)
@@ -526,35 +510,21 @@ description: 草稿整理区
     虚拟机最大的好处 就是可以使用虚拟机上面已有的生态，开发语言时也无需考虑后端（指编程语言）的设计。   
     当然 跨平台 拿到现在就没什么亮点了。
 
-63. ![image-20210219232415472](../.gitbook/assets/image-20210219232415472.png)
+60. ![image-20210219232415472](../.gitbook/assets/image-20210219232415472.png)
 
     这买了血赚，才 20k
 
-64. ![image-20210219232422769](../.gitbook/assets/image-20210219232422769.png)
+61. ![image-20210219232422769](../.gitbook/assets/image-20210219232422769.png)
 
     React 的正确打开方式
 
-65. 分享篇文章\(官方faq\)：
+62. 分享篇文章\(官方faq\)：
 
     Why is esbuild fast?   
     [https://esbuild.github.io/faq/](https://esbuild.github.io/faq/)   
     这篇文章 建议前端同学阅读，里面有涉及 JS 运行时的缺陷。
 
-66. 词汇分享：
-
-    typist\[ˈtaɪpɪst\]   
-    n.打字员
-
-67. 分享道题目：
-
-    重塑矩阵   
-    [https://leetcode-cn.com/problems/reshape-the-matrix/](https://leetcode-cn.com/problems/reshape-the-matrix/)
-
-    感兴趣的同学可以刷一下。  
-     ![image-20210219232507973](../.gitbook/assets/image-20210219232507973.png)   
-    分享下我的做法
-
-68. 分享个项目：
+63. 分享个项目：
 
     apankrat/nullboard   
     [https://github.com/apankrat/nullboard](https://github.com/apankrat/nullboard)   
@@ -565,7 +535,7 @@ description: 草稿整理区
     这种 jQuery 一把梭 的方式看起来挺酷的.. 所以说 React 的组件化 与 状态驱动 思想 很利于工程化，在大中型项目中会感受到明显收益，而小型项目中引入（主要还是看场景）多少有点过渡设计的味道。   
     好吧，这句话没什么价值。 因为项目大小 与 工程化 没有一个很好的鉴定。
 
-69. A: 感觉技术的发展有点像个圈子 新的东西也很容易找到以前的影子
+64. A: 感觉技术的发展有点像个圈子 新的东西也很容易找到以前的影子
 
     是啊，计算机领域多久没更新新的理论了，很多基础概念都是89十年代的那群大佬已经定下的了。   
     就比如 redux 提倡的全局唯一状态不可修改，纯函数，都是来自 fp 的基础理论。   
@@ -573,7 +543,7 @@ description: 草稿整理区
     我想说的重点不是这句话，而是 我觉得很多基础设施决定了上层的发展，同时也限制了新的创新。   
     举个例子，假如从一开始就不是冯诺依曼体系的计算机，而是细胞自动机或者其他体系，还会有并发原语，数据结构等这些概念的出现嘛。 
 
-70. 今天还和一朋友讨论 css 的设计，不正交性，理论耦合过深。 我相信很多同学从一开始接触前端 都用过dreamweaver，它支持可视化搭建界面，就像 winform,android studio那样，为什么它没有继续流行起来？  我相信在以后\(现在 low code 平台已经成为了大厂绩效的风向标\)，一定会再出现的。
+65. 今天还和一朋友讨论 css 的设计，不正交性，理论耦合过深。 我相信很多同学从一开始接触前端 都用过dreamweaver，它支持可视化搭建界面，就像 winform,android studio那样，为什么它没有继续流行起来？  我相信在以后\(现在 low code 平台已经成为了大厂绩效的风向标\)，一定会再出现的。
 
 
 

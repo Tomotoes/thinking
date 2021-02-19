@@ -170,32 +170,4 @@ description: 商业
     B: 赞一个，泛化大众化直到平台庞大，流量至上，虽然有些不一定质量高，但是流量够了也好商业化了
 
 26. ![image-20210206222015093](../.gitbook/assets/image-20210206222015093.png)
-27. 分享期视频:   
-    炒房、卖房、租房，潘石屹的中国房地产行业掘金史【中国商业史21】第1集   
-    [https://www.youtube.com/watch?v=ISlfUzVUcSA&ab\_channel=%E5%86%B2%E6%B5%AA%E6%99%AE%E6%8B%89%E6%96%AF](https://www.youtube.com/watch?v=ISlfUzVUcSA&ab_channel=%E5%86%B2%E6%B5%AA%E6%99%AE%E6%8B%89%E6%96%AF)
-
-    这系列只讲经济不讲政治.. 多少有失偏颇.. 不过无聊的时候看一看还是挺有趣的..
-
-28. 文章分享：
-
-    「字节跳动」投资2020：全面开花、深入布局   
-    [https://36kr.com/p/1090378619357956](https://36kr.com/p/1090378619357956)
-
-    字节的战略布局越来越广了..
-
-29. 分享篇文章：
-
-    互联网不需要皇帝   
-    [https://greatdk.com/1696.html](https://greatdk.com/1696.html)
-
-    摘要：互联网世界的许多东西都已经或正在消亡：RSS 在消亡，电子邮件在消亡，BBS 在消亡，超链接协议在消亡，浏览器也在消亡，剩下的只有 App，他们是互联网世界里，新立起来的一座座孤岛。 在 App 的世界中，自由举步维艰：内容审查，智障能推荐，跳转拦截，接口封闭，你的选择的权利，拒绝的权利，保存的权利，沟通的权利，都在逐渐丧失。
-
-    哎，典型的囚徒困境 ，如果没有不可抗力 是无法破的。
-
-30. 分享篇文章：
-
-    平台与创新的悖论：Facebook头顶紧箍咒   
-    [https://www.huxiu.com/article/409688.html](https://www.huxiu.com/article/409688.html)
-
-31. 盘点春节红包大战：流量和多巴胺 [https://mp.weixin.qq.com/s/0DoZxo8QgqgTQoeUtJkncw](https://mp.weixin.qq.com/s/0DoZxo8QgqgTQoeUtJkncw)
 

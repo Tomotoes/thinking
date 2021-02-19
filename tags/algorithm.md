@@ -27,3 +27,12 @@ description: 算法
    这平台里面 一百多道的题 我曾经全刷过，有关于 Virtual DOM 的实现，有关于 写一个 brainfuck 的解释器， linq 的 js 版本等等，里面的题目质量不底， 有工程实践味道。   
    另一个推荐的平台就是 codewars 了，支持很多编程语言，题目也由浅入深，推荐。[https://www.codewars.com/](https://www.codewars.com/) 断断续续的 刷到了 3段。
 
+4. 分享道题目：
+
+   重塑矩阵   
+   [https://leetcode-cn.com/problems/reshape-the-matrix/](https://leetcode-cn.com/problems/reshape-the-matrix/)
+
+   感兴趣的同学可以刷一下。  
+    ![image-20210219232507973](../.gitbook/assets/image-20210219232507973.png)   
+   分享下我的做法
+
