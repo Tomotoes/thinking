@@ -131,3 +131,12 @@ description: 每日一句
 
     如果我们把自己的人生看成是一个项目，既要有真才实学，也要懂得推销自己。
 
+37. 每日一句分享：  线程的实现模型主要有3种：内核级线程模型、用户级线程模型和两级线程模型（也称混合型线程模型），它们之间最大的差异就在于用户级线程与内核级线程的对应关系。
+38. 每日一句分享：  如果把人看作一个machine，这个machine有输入有输出，最初这个machine只拥有时间维度，逐渐它拥有了技能维度，积累了金钱维度，把时间、技能与金钱看作它的输入端，那它输出端就是金钱、技能与影响力维度，其中金钱和技能在输入与输出间自循环，一般是正向的。 [https://twitter.com/madawei2699/status/1361562843372417026?s=20](https://twitter.com/madawei2699/status/1361562843372417026?s=20)
+39. 每日一句分享：   
+    “Our mission is to organize the world’s information and make it universally accessible and useful.”
+
+    来自 Google 's mission - [https://about.google/](https://about.google/)
+
+40. 读到一句话，感觉写的很有道理。  人是社会动物，有欲望，有理智；人也是经济动物，凡事会计算利益得失。人永远在利益与代价之间，在理性与感性之间，决定自己的行动。
+

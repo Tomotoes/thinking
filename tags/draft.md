@@ -84,11 +84,6 @@ description: 草稿整理区
 
    想出来你就是下一个 Dan
 
-
-
-
-
-1. 读到一句话，感觉写的很有道理。  人是社会动物，有欲望，有理智；人也是经济动物，凡事会计算利益得失。人永远在利益与代价之间，在理性与感性之间，决定自己的行动。
 2. A: 每天调UI库的API，调到不知道该怎么提升...
 
    B: 可以提升到 如何在繁琐的业务中提升自己的主题。
@@ -206,115 +201,113 @@ description: 草稿整理区
     3. a\[href^="http"\]:empty::before { content: attr\(href\); }
 
 20. 盘点春节红包大战：流量和多巴胺 [https://mp.weixin.qq.com/s/0DoZxo8QgqgTQoeUtJkncw](https://mp.weixin.qq.com/s/0DoZxo8QgqgTQoeUtJkncw)
-21. 每日一句分享：   
-    “Our mission is to organize the world’s information and make it universally accessible and useful.”
 
-    来自 Google 's mission - [https://about.google/](https://about.google/)
 
-22. hah 它终于来了。
 
-    reactend/reactend-express   
-    [https://github.com/reactend/reactend-express](https://github.com/reactend/reactend-express)
+1. hah 它终于来了。
 
-    React renderer to build Node.js server 感觉也就是一个玩具，使用 JSX 表达，让我想起了 使用 xml 配置 tomcat .. 实用价值几乎为0..
+   reactend/reactend-express   
+   [https://github.com/reactend/reactend-express](https://github.com/reactend/reactend-express)
 
-23. B: 可以衍生谈一谈这点：
+   React renderer to build Node.js server 感觉也就是一个玩具，使用 JSX 表达，让我想起了 使用 xml 配置 tomcat .. 实用价值几乎为0..
 
-    JSX 最初是用来描述 GUI 的，最大的特点是 可以在 GUI 内部包含逻辑，包含状态。
+2. B: 可以衍生谈一谈这点：
 
-    而编程其实就是在写 UI，这里的 UI 是一个更高层次的，指的不仅是 Web，Command，还有面向开发者的 UI。
+   JSX 最初是用来描述 GUI 的，最大的特点是 可以在 GUI 内部包含逻辑，包含状态。
 
-    在设计接口，设计API时，从另一个角度来看，我们本质上是在写UI。
+   而编程其实就是在写 UI，这里的 UI 是一个更高层次的，指的不仅是 Web，Command，还有面向开发者的 UI。
 
-    并且 声明式编程范式，也是一种很好的体现。
+   在设计接口，设计API时，从另一个角度来看，我们本质上是在写UI。
 
-    JSX 代表的是一种表达方式，一种可以很好切合 声明式范式 需求的语义方案。
+   并且 声明式编程范式，也是一种很好的体现。
 
-    关于声明式编程 其实可以多谈一谈。
+   JSX 代表的是一种表达方式，一种可以很好切合 声明式范式 需求的语义方案。
 
-    如果用一句话概况声明式编程的话，它最大的特点是: 它的所有语义表达, 只是在声明要做什么，具体怎么做，剩下的它不需要关心，只需要交给编译器。
+   关于声明式编程 其实可以多谈一谈。
 
-    函数式编程其实就是声明式编程的一种体现。
+   如果用一句话概况声明式编程的话，它最大的特点是: 它的所有语义表达, 只是在声明要做什么，具体怎么做，剩下的它不需要关心，只需要交给编译器。
 
-    一些业界典型实践有，sql ，graphql，jsx
+   函数式编程其实就是声明式编程的一种体现。
 
-    A: 与声明式对应的是啥来着 OO？
+   一些业界典型实践有，sql ，graphql，jsx
 
-    B: 不不不，oo 其实算不上是语义范式，是命令式的建模
+   A: 与声明式对应的是啥来着 OO？
 
-    我觉得没有对应的，只是思考的层次不同吧。
+   B: 不不不，oo 其实算不上是语义范式，是命令式的建模
 
-    C: 声明式对应命令式吧 比如gui开发，声明式比如HTML，命令式比如qt
+   我觉得没有对应的，只是思考的层次不同吧。
 
-    B: 命令式 感觉和 声明式的思想一样的，只不过是被声明的对象不同。
+   C: 声明式对应命令式吧 比如gui开发，声明式比如HTML，命令式比如qt
 
-    声明式的出发点是开发者，命令式的出发点是 编译器，操作系统，运行时。 照这么说，感觉所有语义范式 应该都是声明式的，只不过是声明粒度不同而已。
+   B: 命令式 感觉和 声明式的思想一样的，只不过是被声明的对象不同。
 
-    而 oop 与 fp，算不上语义范式，是编程范式。
+   声明式的出发点是开发者，命令式的出发点是 编译器，操作系统，运行时。 照这么说，感觉所有语义范式 应该都是声明式的，只不过是声明粒度不同而已。
 
-    oop 对应建模，状态传递，fp 对应 状态映射，其实 oop 与 fp 之间的关系很近的。
+   而 oop 与 fp，算不上语义范式，是编程范式。
 
-    A: 嗯，实际写代码的时候我基本都不 care 声明式还是命令式啥的范式。。按直觉去写了   
-    B: hah 我除了遵循 fp 的编程规范外，做到最多的事 就是隔离状态。
+   oop 对应建模，状态传递，fp 对应 状态映射，其实 oop 与 fp 之间的关系很近的。
 
-24. A: 之前我看 Go web frame 源码时，经常看到使用前缀tree做路由匹配 其实是字典树，也叫字母树的一种应用。
+   A: 嗯，实际写代码的时候我基本都不 care 声明式还是命令式啥的范式。。按直觉去写了   
+   B: hah 我除了遵循 fp 的编程规范外，做到最多的事 就是隔离状态。
 
-    B: trie树 leetcode上刷到过￼
+3. A: 之前我看 Go web frame 源码时，经常看到使用前缀tree做路由匹配 其实是字典树，也叫字母树的一种应用。
 
-25. 分享道 leetcode 上的必刷题：
+   B: trie树 leetcode上刷到过￼
 
-    基本计算器   
-    [https://leetcode-cn.com/problems/basic-calculator/](https://leetcode-cn.com/problems/basic-calculator/)
+4. 分享道 leetcode 上的必刷题：
 
-    没有尝试过的同学可以试下，推荐。
+   基本计算器   
+   [https://leetcode-cn.com/problems/basic-calculator/](https://leetcode-cn.com/problems/basic-calculator/)
 
-    可惜 scriptoj 平台不继续运营了。 [http://scriptoj.mangojuice.top/](http://scriptoj.mangojuice.top/)
+   没有尝试过的同学可以试下，推荐。
 
-    这平台里面 一百多道的题 我曾经全刷过，有关于 Virtual DOM 的实现，有关于 写一个 brainfuck 的解释器， linq 的 js 版本等等，里面的题目质量不底， 有工程实践味道。   
-    另一个推荐的平台就是 codewars 了，支持很多编程语言，题目也由浅入深，推荐。[https://www.codewars.com/](https://www.codewars.com/) 断断续续的 刷到了 3段。
+   可惜 scriptoj 平台不继续运营了。 [http://scriptoj.mangojuice.top/](http://scriptoj.mangojuice.top/)
 
-26. 哇 发现一个老古董~   
-    GnoConsortium/gno   
-    [https://github.com/GnoConsortium/gno](https://github.com/GnoConsortium/gno)   
-    ![image-20210219230945388](../.gitbook/assets/image-20210219230945388.png)
+   这平台里面 一百多道的题 我曾经全刷过，有关于 Virtual DOM 的实现，有关于 写一个 brainfuck 的解释器， linq 的 js 版本等等，里面的题目质量不底， 有工程实践味道。   
+   另一个推荐的平台就是 codewars 了，支持很多编程语言，题目也由浅入深，推荐。[https://www.codewars.com/](https://www.codewars.com/) 断断续续的 刷到了 3段。
 
-    24 年前... 都比我大了。
+5. 哇 发现一个老古董~   
+   GnoConsortium/gno   
+   [https://github.com/GnoConsortium/gno](https://github.com/GnoConsortium/gno)   
+   ![image-20210219230945388](../.gitbook/assets/image-20210219230945388.png)
 
-27. Q: 给你一个 fetch 函数，fetch =&gt; Promise&lt;Data&gt;. 请你实现 请求 8 秒无结果后，超时报错的机制。
+   24 年前... 都比我大了。
 
-    A: ablortController￼ 加上promise.race￼   
-    Q: 回答上了 promise.race 就成功了。
+6. Q: 给你一个 fetch 函数，fetch =&gt; Promise&lt;Data&gt;. 请你实现 请求 8 秒无结果后，超时报错的机制。
 
-28. 分享篇多年前看过的好文，出自黄峰达老师之手：
+   A: ablortController￼ 加上promise.race￼   
+   Q: 回答上了 promise.race 就成功了。
 
-    演进：如何用练习快速提升技术
+7. 分享篇多年前看过的好文，出自黄峰达老师之手：
 
-    [https://mp.weixin.qq.com/s?\_\_biz=MjM5Mjg4NDMwMA==&mid=2652975915&idx=1&sn=1d0c3bb0937e3d9cf1f74b1257c7aacc&chksm=bd4ae0088a3d691e44cfaf0a3baae2cbd9b3611996663e4c00df5bbe79974b6ed005857995f4](https://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652975915&idx=1&sn=1d0c3bb0937e3d9cf1f74b1257c7aacc&chksm=bd4ae0088a3d691e44cfaf0a3baae2cbd9b3611996663e4c00df5bbe79974b6ed005857995f4)
+   演进：如何用练习快速提升技术
 
-    对最开始刚学计算机的我，产生了很大的影响，还记得看完后 我练了一周的指法...   
-    当时看完真是 收益匪浅，现在看了一遍 没多少感觉了..
+   [https://mp.weixin.qq.com/s?\_\_biz=MjM5Mjg4NDMwMA==&mid=2652975915&idx=1&sn=1d0c3bb0937e3d9cf1f74b1257c7aacc&chksm=bd4ae0088a3d691e44cfaf0a3baae2cbd9b3611996663e4c00df5bbe79974b6ed005857995f4](https://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652975915&idx=1&sn=1d0c3bb0937e3d9cf1f74b1257c7aacc&chksm=bd4ae0088a3d691e44cfaf0a3baae2cbd9b3611996663e4c00df5bbe79974b6ed005857995f4)
 
-29. 分享篇 科普文章：
+   对最开始刚学计算机的我，产生了很大的影响，还记得看完后 我练了一周的指法...   
+   当时看完真是 收益匪浅，现在看了一遍 没多少感觉了..
 
-    原子的故事   
-    [https://oldj.net/article/2020/09/20/story-of-the-atom/](https://oldj.net/article/2020/09/20/story-of-the-atom/)
+8. 分享篇 科普文章：
 
-30. 分享篇文章：
+   原子的故事   
+   [https://oldj.net/article/2020/09/20/story-of-the-atom/](https://oldj.net/article/2020/09/20/story-of-the-atom/)
 
-    编程语言社会学   
-    [https://yuheng.io/articles/proglang-sociology](https://yuheng.io/articles/proglang-sociology)
+9. 分享篇文章：
 
-    作者的一个观点我很赞同：编程语言的语法就是开发者的用户界面。很大程度上，编程语言的风格决定了开发人员的思维风格，编程语言的局限也会成为开发人员的思维局限。
+   编程语言社会学   
+   [https://yuheng.io/articles/proglang-sociology](https://yuheng.io/articles/proglang-sociology)
 
-31. 人物分享：
+   作者的一个观点我很赞同：编程语言的语法就是开发者的用户界面。很大程度上，编程语言的风格决定了开发人员的思维风格，编程语言的局限也会成为开发人员的思维局限。
+
+10. 人物分享：
 
     欧长坤 - 2020 年终总结   
     [https://blog.changkun.de/posts/2020-summary/](https://blog.changkun.de/posts/2020-summary/)
 
     这是一位我仰慕已久的大佬。
 
-32. mutex 是 mutual exclusion 的简写，翻译一下：互相排斥。
-33. 人每天只有八个小时工作时间，谁都一样。其中能高效工作的时间绝对不超过4个小时。 这些工程师编写的代码行数绝对不算多，但从事的项目影响大。 比如 Pike，大部分时间花在了审查其他成员的 Go 代码上。而一个刚入行的 Golang 工程师，每天的任务就是写作 Go 的标准库，今天写 http 明天写 sort，写的比 Pike 多很多。 考核时，高级工程师因为带领着高效团队，每季度 OKRs 上都有诸多亮点；而刚入行的工程师，只能报告一些比较琐碎的成就。 这个观察近乎于常识，然而对于当时的我来说是一个顿悟：做出 MapReduce 框架的和写琐碎 MapReduce 程序的工程师之间的差距并不是他们的工具和编程效率，也往往不是教育背景或者经验，而是他们各自的杠杆：所带领的团队。
+11. mutex 是 mutual exclusion 的简写，翻译一下：互相排斥。
+12. 人每天只有八个小时工作时间，谁都一样。其中能高效工作的时间绝对不超过4个小时。 这些工程师编写的代码行数绝对不算多，但从事的项目影响大。 比如 Pike，大部分时间花在了审查其他成员的 Go 代码上。而一个刚入行的 Golang 工程师，每天的任务就是写作 Go 的标准库，今天写 http 明天写 sort，写的比 Pike 多很多。 考核时，高级工程师因为带领着高效团队，每季度 OKRs 上都有诸多亮点；而刚入行的工程师，只能报告一些比较琐碎的成就。 这个观察近乎于常识，然而对于当时的我来说是一个顿悟：做出 MapReduce 框架的和写琐碎 MapReduce 程序的工程师之间的差距并不是他们的工具和编程效率，也往往不是教育背景或者经验，而是他们各自的杠杆：所带领的团队。
 
     问题是，没有人会给你这个杠杆。
 
@@ -556,8 +549,7 @@ description: 草稿整理区
     摘要：CSS与其编程语言不同，她没有循环、逻辑和其他概念，它只是声明式的语言，因此，CSS很容易上手。也许正是因为如此，它才获得了简单的美誉。在 "不复杂 "的意义上，它是简单的，但这并不意味着它很容易。把 "简单 "误认为是 “容易”，只会让人心痛”。
 
 16. 分享个很全面的 Vim Cheatsheet：[https://devhints.io/vim](https://devhints.io/vim)
-17. 每日一句分享：  如果把人看作一个machine，这个machine有输入有输出，最初这个machine只拥有时间维度，逐渐它拥有了技能维度，积累了金钱维度，把时间、技能与金钱看作它的输入端，那它输出端就是金钱、技能与影响力维度，其中金钱和技能在输入与输出间自循环，一般是正向的。 [https://twitter.com/madawei2699/status/1361562843372417026?s=20](https://twitter.com/madawei2699/status/1361562843372417026?s=20)
-18. 安利下 三款命令行应用：
+17. 安利下 三款命令行应用：
 
     1. exa - ls 的替代品，更强大 配置项众多 [https://github.com/ogham/exa](https://github.com/ogham/exa)
     2. cheat - man 的替代品，所有文档由社区维护，也可自定义 [https://github.com/cheat/cheat](https://github.com/cheat/cheat)
@@ -565,14 +557,14 @@ description: 草稿整理区
 
     一些其他的 autojump fzf ni bat git-extra gacp silver-searcher ...
 
-19. 分享个项目：
+18. 分享个项目：
 
     50projects50days   
     [https://github.com/bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)
 
     使用 CSS HTML JS 构建的 50 个小项目，代码质量可以、项目也都很不错，可以作为练手项目。 比如使用 React Hooks + TS 重写一些例子。 下面是我重写 ToDo App 的一个例子： [https://github.com/Tomotoes/50projects50days-react/blob/master/src/todo-list/index.tsx](https://github.com/Tomotoes/50projects50days-react/blob/master/src/todo-list/index.tsx)
 
-20. 好文分享：
+19. 好文分享：
 
     Exploring Node.js Internals   
     [https://www.smashingmagazine.com/2020/04/nodejs-internals/](https://www.smashingmagazine.com/2020/04/nodejs-internals/)
@@ -596,39 +588,26 @@ description: 草稿整理区
     虚拟机最大的好处 就是可以使用虚拟机上面已有的生态，开发语言时也无需考虑后端（指编程语言）的设计。   
     当然 跨平台 拿到现在就没什么亮点了。
 
-21. 好文分享：
-
-    随机数的故事 - 李银城的文章 - 知乎   
-    [https://zhuanlan.zhihu.com/p/205359984](https://zhuanlan.zhihu.com/p/205359984)
-
-    文中涉及了一些知识，概况一下：
-
-    1. v8 Math.random 是借助系统上的随机数能力实现的
-    2. 系统上随机数 是不安全的，在大的数据量下会有特征
-    3. 可以借助window.crypto.getRandomValue实现更安全的随机
-    4. 真随机的实现有多重多样，文中说的 根据系统运行时的噪音生成、大气噪音、量子随机等等
-
-22. ![image-20210219232415472](../.gitbook/assets/image-20210219232415472.png)
+20. ![image-20210219232415472](../.gitbook/assets/image-20210219232415472.png)
 
     这买了血赚，才 20k
 
-23. ![image-20210219232422769](../.gitbook/assets/image-20210219232422769.png)
+21. ![image-20210219232422769](../.gitbook/assets/image-20210219232422769.png)
 
     React 的正确打开方式
 
-24. 每日一句分享：  线程的实现模型主要有3种：内核级线程模型、用户级线程模型和两级线程模型（也称混合型线程模型），它们之间最大的差异就在于用户级线程与内核级线程的对应关系。
-25. 分享篇文章\(官方faq\)：
+22. 分享篇文章\(官方faq\)：
 
     Why is esbuild fast?   
     [https://esbuild.github.io/faq/](https://esbuild.github.io/faq/)   
     这篇文章 建议前端同学阅读，里面有涉及 JS 运行时的缺陷。
 
-26. 词汇分享：
+23. 词汇分享：
 
     typist\[ˈtaɪpɪst\]   
     n.打字员
 
-27. 分享道题目：
+24. 分享道题目：
 
     重塑矩阵   
     [https://leetcode-cn.com/problems/reshape-the-matrix/](https://leetcode-cn.com/problems/reshape-the-matrix/)
@@ -637,7 +616,7 @@ description: 草稿整理区
      ![image-20210219232507973](../.gitbook/assets/image-20210219232507973.png)   
     分享下我的做法
 
-28. 分享个项目：
+25. 分享个项目：
 
     apankrat/nullboard   
     [https://github.com/apankrat/nullboard](https://github.com/apankrat/nullboard)   
@@ -648,7 +627,7 @@ description: 草稿整理区
     这种 jQuery 一把梭 的方式看起来挺酷的.. 所以说 React 的组件化 与 状态驱动 思想 很利于工程化，在大中型项目中会感受到明显收益，而小型项目中引入（主要还是看场景）多少有点过渡设计的味道。   
     好吧，这句话没什么价值。 因为项目大小 与 工程化 没有一个很好的鉴定。
 
-29. Podcast 分享：  OCaml编程语言 - 张宏‪波‬  [https://podcasts.apple.com/cn/podcast/ocaml%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-%E5%BC%A0%E5%AE%8F%E6%B3%A2/id1098682510?i=1000396401474](https://podcasts.apple.com/cn/podcast/ocaml%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-%E5%BC%A0%E5%AE%8F%E6%B3%A2/id1098682510?i=1000396401474)
+26. Podcast 分享：  OCaml编程语言 - 张宏‪波‬  [https://podcasts.apple.com/cn/podcast/ocaml%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-%E5%BC%A0%E5%AE%8F%E6%B3%A2/id1098682510?i=1000396401474](https://podcasts.apple.com/cn/podcast/ocaml%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-%E5%BC%A0%E5%AE%8F%E6%B3%A2/id1098682510?i=1000396401474)
 
 
 
