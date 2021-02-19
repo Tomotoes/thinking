@@ -72,3 +72,15 @@ description: 计算机网络
 
    [https://mp.weixin.qq.com/s/BGWkvLl0AAx9slI1lSZMgw](https://mp.weixin.qq.com/s/BGWkvLl0AAx9slI1lSZMgw)
 
+8. 优化 HTTPS 的一些策略：
+   1. session 复用，将非对称加密的结果保存到 session 中，下一次连接直接复用
+   2. TLS 1.3 ，一次 RTT 即可握手成功
+   3. TCP fast open, 将 三次握手 优化成 二次 + 凭证 认证
+   4. HSTS：强制使用 HTTPS 访问，减少一次 302
+9. 分享篇文章：
+
+   DNS的历史和原理   
+   [https://yangwang.hk/?p=852](https://yangwang.hk/?p=852)
+
+   摘要：在1973年，IETF（国际互联网工程任务组）发布了RFC 606，RFC 608等几个文档，决定由斯坦福研究院网络信息中心（NIC）作为hosts文件的官方来源，互联网上的所有主机均从该中心下载hosts文件使用。这套方案从1973到1983运作了差不多十年时间。相比于70年代，十年后的主机数量已经庞大得让这套系统得缺陷也被暴露出来：由于主机的增加，hosts文件像滚雪球一般变得越来越大。更糟糕的是主机名到IP地址的映射关系不是固定的，换人话说，那就是一台主机的IP地址可能随时间发生变化。主机数量越多，文件的变化率也就越大。以至于到后期每天都要从NIC重新下载最新的hosts文件。
+

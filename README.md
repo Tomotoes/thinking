@@ -25,7 +25,6 @@ description: Input & Think & Output
 * [具体的分享领域](https://thinking.tomotoes.com/tags)
 * [讨论过的事物](https://thinking.tomotoes.com/tags/talk)
 * [某一周分享的汇总](https://thinking.tomotoes.com/archives/2020/12/25-31)
-* [分享汇总](https://thinking.tomotoes.com/archives)
 
 如果你对输出的内容很感兴趣，随时欢迎加群一起交流。
 

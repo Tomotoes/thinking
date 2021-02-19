@@ -113,3 +113,14 @@
 
     chokcoco 每篇文章都很有艺术气息aaa..
 
+22. 快餐文分享：
+
+    如何把css'content的操作跟价值发挥到最大  
+    [https://juejin.cn/post/6844903917348732936](https://juejin.cn/post/6844903917348732936)
+
+    counter 函数 与 content 中的字符拼接 可以关注一下
+
+23. 惊讶系列分享，文中 画板的例子太秀了。  你可能不知道的 transition 技巧与细节  [https://juejin.cn/post/6924114612799406093](https://juejin.cn/post/6924114612799406093)
+24. CSS奇思妙想 -- 使用 CSS 创造艺术  [https://juejin.cn/post/6922257014840098830](https://juejin.cn/post/6922257014840098830)  我愿称为大艺术家chokcoco~
+25. Tailwind CSS （可能）是名过其实的  [https://juejin.cn/post/6930196913119576077](https://juejin.cn/post/6930196913119576077)  分享篇文章，文中的观点很赞同：对于原子类的使用，一直有这样的痛点：当封装的粒度太小时，会显得异常繁琐，反之想自定制化时又经常不合适。
+

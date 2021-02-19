@@ -14,6 +14,7 @@
     * [Redux](tags/web/redux.md)
   * [PL](tags/pl/README.md)
     * [Ruby](tags/pl/ruby.md)
+    * [Lisp](tags/pl/lisp.md)
     * [Scala](tags/pl/scala.md)
     * [Python](tags/pl/python.md)
     * [Elm](tags/pl/elm.md)
