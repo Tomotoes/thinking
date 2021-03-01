@@ -48,7 +48,9 @@ description: 数据库
    11. ...
 
 4. sql 在我看来最大的优点 就是 语法层面上 设计 偏自然语言，就比如 select name from student。
-5. 应用分享： sql-trainer [https://app.bytescout.com/sql-trainer/index.html](https://app.bytescout.com/sql-trainer/index.html)
+5. 应用分享：   
+   sql-trainer   
+   [https://app.bytescout.com/sql-trainer/index.html](https://app.bytescout.com/sql-trainer/index.html)
 
    通过在线关卡的方式 一步一步引导你 如何写出基本的 SQL 语句。 可以花几分钟刷一下，很好玩~
 
@@ -62,4 +64,11 @@ description: 数据库
 8. NoSQL ：一个帝国的崛起
 
    [https://mp.weixin.qq.com/s/JedHtkVNklyfs0-viCLLPA](https://mp.weixin.qq.com/s/JedHtkVNklyfs0-viCLLPA)
+
+9. hah 分享篇文章:
+
+   10 Things I Hate About SQL   
+   [https://dev.to/shaqq/10-things-i-hate-about-sql-a9e](https://dev.to/shaqq/10-things-i-hate-about-sql-a9e)
+
+   暴躁老哥 在线吐槽. With PostgreSQL, MySQL, Spark SQL, Presto SQL, SQL Server, Oracle SQL, and probably many others… we just can’t get a break! Each of these SQL implementations have slight idiosyncrasies that make it very painful to transfer queries from one system to another.
 

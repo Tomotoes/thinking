@@ -15,4 +15,24 @@ description: 算法
    有兴趣的同学, 可以做一下这道题 很爽的 \(不骗你
 
 2. 如何通俗易懂地解释遗传算法？有什么例子？ - 尼布甲尼撒的回答 - 知乎 [https://www.zhihu.com/question/23293449/answer/120185075](https://www.zhihu.com/question/23293449/answer/120185075)
+3. 分享道 leetcode 上的必刷题：
+
+   基本计算器   
+   [https://leetcode-cn.com/problems/basic-calculator/](https://leetcode-cn.com/problems/basic-calculator/)
+
+   没有尝试过的同学可以试下，推荐。
+
+   可惜 scriptoj 平台不继续运营了。 [http://scriptoj.mangojuice.top/](http://scriptoj.mangojuice.top/)
+
+   这平台里面 一百多道的题 我曾经全刷过，有关于 Virtual DOM 的实现，有关于 写一个 brainfuck 的解释器， linq 的 js 版本等等，里面的题目质量不底， 有工程实践味道。   
+   另一个推荐的平台就是 codewars 了，支持很多编程语言，题目也由浅入深，推荐。[https://www.codewars.com/](https://www.codewars.com/) 断断续续的 刷到了 3段。
+
+4. 分享道题目：
+
+   重塑矩阵   
+   [https://leetcode-cn.com/problems/reshape-the-matrix/](https://leetcode-cn.com/problems/reshape-the-matrix/)
+
+   感兴趣的同学可以刷一下。  
+    ![image-20210219232507973](../.gitbook/assets/image-20210219232507973.png)   
+   分享下我的做法
 
