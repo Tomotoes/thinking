@@ -23,7 +23,7 @@
 
 #### useEventListener
 
-```text
+```jsx
 import { useState, useRef, useEffect, useCallback } from 'react';
 ​
 // Usage
@@ -89,7 +89,7 @@ function useEventListener(eventName, handler, element = window){
 
 #### useWhyDidYouUpdate
 
-```text
+```jsx
 import { useState, useEffect, useRef } from 'react';
 ​
 // Let's pretend this <Counter> component is expensive to re-render so ...
@@ -167,7 +167,7 @@ function useWhyDidYouUpdate(name, props) {
 
 #### useKeyPress
 
-```text
+```jsx
 import { useState, useEffect } from 'react';
 ​
 // Usage
@@ -227,7 +227,7 @@ function useKeyPress(targetKey) {
 
 #### useOnScreen
 
-```text
+```jsx
 import { useState, useEffect, useRef } from 'react';
 ​
 // Usage
@@ -293,7 +293,7 @@ function useOnScreen(ref, rootMargin = '0px') {
 
 #### usePrevious
 
-```text
+```jsx
 import { useState, useEffect, useRef } from 'react';
 ​
 // Usage
@@ -331,7 +331,7 @@ function usePrevious(value) {
 
 #### useWindowSize
 
-```text
+```jsx
 import { useState, useEffect } from 'react';
 ​
 // Usage
@@ -380,7 +380,7 @@ function useWindowSize() {
 
 #### useHover
 
-```text
+```jsx
 import { useRef, useState, useEffect } from 'react';
 ​
 // Usage
@@ -425,7 +425,7 @@ function useHover() {
 
 #### useAsync
 
-```text
+```jsx
 const useAsync = fn => {
   const initialState = { loading: false, error: null, value: null };
   const stateReducer = (_, action) => {
@@ -487,7 +487,7 @@ ReactDOM.render(<RandomImage />, document.getElementById('root'));
 
 #### useComponentDidMount
 
-```text
+```jsx
 const useComponentDidMount = onMountHandler => {
   React.useEffect(() => {
     onMountHandler();
@@ -505,7 +505,7 @@ ReactDOM.render(<Mounter />, document.getElementById('root'));
 
 #### useComponentWillUnmount
 
-```text
+```jsx
 const useComponentWillUnmount = onUnmountHandler => {
   React.useEffect(
     () => () => {
@@ -526,7 +526,7 @@ ReactDOM.render(<Unmounter />, document.getElementById('root'));
 
 #### useInterval
 
-```text
+```jsx
 const useInterval = (callback, delay) => {
   const savedCallback = React.useRef();
 
@@ -559,7 +559,7 @@ ReactDOM.render(<Timer />, document.getElementById('root'));
 
 #### useTimeout
 
-```text
+```jsx
 const useTimeout = (callback, delay) => {
   const savedCallback = React.useRef();
 
@@ -592,7 +592,7 @@ ReactDOM.render(<OneSecondTimer />, document.getElementById('root'));
 
 #### useToggler
 
-```text
+```ruby
 const useToggler = initialState => {
   const [value, setValue] = React.useState(initialState);
 
@@ -610,7 +610,7 @@ ReactDOM.render(<Switch />, document.getElementById('root'));
 
 #### useFetch
 
-```text
+```jsx
 const useFetch = (url, options) => {
   const [response, setResponse] = React.useState(null);
   const [error, setError] = React.useState(null);
@@ -649,7 +649,7 @@ ReactDOM.render(<ImageFetch />, document.getElementById('root'));
 
 #### useNavigatorOnLine
 
-```text
+```jsx
 const getOnLineStatus = () =>
   typeof navigator !== 'undefined' && typeof navigator.onLine === 'boolean'
     ? navigator.onLine
@@ -685,7 +685,7 @@ ReactDOM.render(<StatusIndicator />, document.getElementById('root'));
 
 #### useMediaQuery
 
-```text
+```jsx
 const useMediaQuery = (query, whenTrue, whenFalse) => {
   if (typeof window === 'undefined' || typeof window.matchMedia === 'undefined')
     return whenFalse;
@@ -717,7 +717,7 @@ ReactDOM.render(<ResponsiveText />, document.getElementById('root'));
 
 #### useTouch
 
-```text
+```jsx
 import React from 'react';
 
 function useTouch(): [
@@ -745,7 +745,7 @@ export default useTouch;
 
 #### useCookie
 
-```text
+```jsx
 import { useState } from 'react';
 
 const setCookie = (name, value, days, path) => {
@@ -793,7 +793,7 @@ export default useCookie;
 
 #### useLogger
 
-```text
+```jsx
 import { useEffect } from 'react';
 
 export function useLogger(name: string, props: any): void {
@@ -811,7 +811,7 @@ export default useLogger;
 
 #### useTitle
 
-```text
+```jsx
 import { useEffect } from "react";
 
 const useTitle = title => {
@@ -825,7 +825,7 @@ export default useTitle;
 
 #### useLifecycles
 
-```text
+```jsx
 import { useEffect } from 'react';
 
 const useLifecycles = (mount, unmount?) => {
@@ -846,7 +846,7 @@ export default useLifecycles;
 
 #### useRendersCount
 
-```text
+```jsx
 import { useRef } from 'react';
 
 export function useRendersCount(): number {
@@ -856,7 +856,7 @@ export function useRendersCount(): number {
 
 #### useUpdate
 
-```text
+```jsx
 // 强制组件重新渲染的 hook。
 import { useCallback, useState } from 'react';
 
