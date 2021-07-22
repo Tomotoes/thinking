@@ -1,5 +1,5 @@
 ---
-description: 开发模式
+description: 开发模式（暂时没时间继续维护）
 ---
 
 # Coding

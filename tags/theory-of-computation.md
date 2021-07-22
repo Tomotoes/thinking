@@ -1,5 +1,5 @@
 ---
-description: 计算理论
+description: 计算理论（暂时没时间继续维护）
 ---
 
 # Theory Of Computation

@@ -1,5 +1,5 @@
 ---
-description: 书籍
+description: 书籍（暂时没时间继续维护）
 ---
 
 # Book

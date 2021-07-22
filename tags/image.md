@@ -1,5 +1,5 @@
 ---
-description: 图像
+description: 图像（暂时没时间继续维护）
 ---
 
 # Image

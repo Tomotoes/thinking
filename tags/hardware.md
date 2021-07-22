@@ -1,5 +1,5 @@
 ---
-description: 硬件
+description: 硬件（暂时没时间继续维护）
 ---
 
 # Hardware

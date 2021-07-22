@@ -1,5 +1,5 @@
 ---
-description: 开源
+description: 开源（暂时没时间继续维护）
 ---
 
 # OpenSource

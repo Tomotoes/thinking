@@ -1,5 +1,5 @@
 ---
-description: 数据库
+description: 数据库（暂时没时间继续维护）
 ---
 
 # Database

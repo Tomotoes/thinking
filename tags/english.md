@@ -1,5 +1,5 @@
 ---
-description: 英语
+description: 英语（暂时没时间继续维护）
 ---
 
 # English

@@ -1,5 +1,5 @@
 ---
-description: 游戏
+description: 游戏（暂时没时间继续维护）
 ---
 
 # Game

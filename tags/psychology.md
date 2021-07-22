@@ -1,5 +1,5 @@
 ---
-description: 心理
+description: 心理（暂时没时间继续维护）
 ---
 
 # Psychology

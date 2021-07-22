@@ -1,5 +1,5 @@
 ---
-description: 金融
+description: 金融（暂时没时间继续维护）
 ---
 
 # Finance

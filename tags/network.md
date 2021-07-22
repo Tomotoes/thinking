@@ -1,5 +1,5 @@
 ---
-description: 计算机网络
+description: 计算机网络（暂时没时间继续维护）
 ---
 
 # Network

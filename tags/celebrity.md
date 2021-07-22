@@ -1,5 +1,5 @@
 ---
-description: 人物
+description: 人物（暂时没时间继续维护）
 ---
 
 # Celebrity

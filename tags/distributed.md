@@ -1,5 +1,5 @@
 ---
-description: 分布式理论
+description: 分布式理论（暂时没时间继续维护）
 ---
 
 # Distributed

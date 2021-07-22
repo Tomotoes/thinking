@@ -1,5 +1,5 @@
 ---
-description: 知识管理
+description: 知识管理（暂时没时间继续维护）
 ---
 
 # Knowledge Management

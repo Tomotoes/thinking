@@ -1,5 +1,5 @@
 ---
-description: 教育
+description: 教育（暂时没时间继续维护）
 ---
 
 # Education

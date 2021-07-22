@@ -1,5 +1,5 @@
 ---
-description: 想法
+description: 想法（暂时没时间继续维护）
 ---
 
 # Idea

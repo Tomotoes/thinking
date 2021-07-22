@@ -1,5 +1,5 @@
 ---
-description: 生活
+description: 生活（暂时没时间继续维护）
 ---
 
 # Life

@@ -1,5 +1,5 @@
 ---
-description: 每日一句
+description: 每日一句（暂时没时间继续维护）
 ---
 
 # Punchline

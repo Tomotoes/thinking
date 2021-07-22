@@ -1,5 +1,5 @@
 ---
-description: 操作系统
+description: 操作系统（暂时没时间继续维护）
 ---
 
 # OS

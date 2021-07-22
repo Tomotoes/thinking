@@ -1,5 +1,5 @@
 ---
-description: 面试
+description: 面试（暂时没时间继续维护）
 ---
 
 # Interview

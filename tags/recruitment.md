@@ -1,5 +1,5 @@
 ---
-description: 招聘信息
+description: 招聘信息（暂时没时间继续维护）
 ---
 
 # Recruitment

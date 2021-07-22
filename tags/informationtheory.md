@@ -1,5 +1,5 @@
 ---
-description: 信息论
+description: 信息论（暂时没时间继续维护）
 ---
 
 # Information Theory

@@ -1,5 +1,5 @@
 ---
-description: 移动端
+description: 移动端（暂时没时间继续维护）
 ---
 
 # Mobile

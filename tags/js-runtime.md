@@ -1,5 +1,5 @@
 ---
-description: Node & Deno
+description: Node & Deno（暂时没时间继续维护）
 ---
 
 # Node Deno

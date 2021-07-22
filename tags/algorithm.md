@@ -1,5 +1,5 @@
 ---
-description: 算法
+description: 算法（暂时没时间继续维护）
 ---
 
 # Algorithm

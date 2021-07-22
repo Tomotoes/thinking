@@ -1,5 +1,5 @@
 ---
-description: 架构
+description: 架构（暂时没时间继续维护）
 ---
 
 # Architecture
