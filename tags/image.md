@@ -9,11 +9,11 @@ description: 图像（暂时没时间继续维护）
 
     [https://www.behance.net/gallery/106497393/Walking-the-Dog](https://www.behance.net/gallery/106497393/Walking-the-Dog)
 
-    ![244b68106497393.5f912a2757629](<../.gitbook/assets/244b68106497393.5f912a2757629 (1).jpg>)
-3.  ![img](<../.gitbook/assets/456ad1107115063.5f9feec7272ce (1).jpg>)
+    ![244b68106497393.5f912a2757629](../.gitbook/assets/244b68106497393.5f912a2757629.jpg)
+3.  ![img](../.gitbook/assets/456ad1107115063.5f9feec7272ce.jpg)
 
     图片分享: Ruins-14-abandoned-Abandoned-house [https://www.behance.net/gallery/107115063/Ruins-14-abandoned-Abandoned-house](https://www.behance.net/gallery/107115063/Ruins-14-abandoned-Abandoned-house) 阳光依旧，但已人去楼空。
-4.  ![image-20201204153710651](<../.gitbook/assets/image-20201204153710651-1607137484407 (1) (1).png>)
+4.  ![image-20201204153710651](../.gitbook/assets/image-20201204153710651-1607137484407.png)
 
     图像分享: 新冠 ICU 里 病人与家属做临终告别时用的 iPad。
 

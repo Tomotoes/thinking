@@ -23,7 +23,7 @@
     所以 JS 运行的过程 正是一个从解释执行到编译执行的过程.
 
     ![image-20201122150314021](../../.gitbook/assets/image-20201122150314021.png)
-3.  ![image-20201122151039006](<../../.gitbook/assets/image-20201122151039006 (1) (1).png>)
+3.  ![image-20201122151039006](../../.gitbook/assets/image-20201122151039006.png)
 
     上图的 JS 代码, 包含tc39 目前所有提案 中的特性.
 4.  代码片段分享: JS 利用 Symbol.iterator 实现遍历器
@@ -62,13 +62,13 @@
     我喜欢 proposal-extensions 这个提案，现在的语言早就应该支持 Pointfree 特性了，就像管道似的\~
 6.  [https://www.instagram.com/p/CFeevK7g6ES/?igshid=1vfezo09h0sir](https://www.instagram.com/p/CFeevK7g6ES/?igshid=1vfezo09h0sir)
 
-    ![image-20201207230225367](<../../.gitbook/assets/image-20201207230225367 (1).png>)
+    ![image-20201207230225367](../../.gitbook/assets/image-20201207230225367.png)
 
     A: copywithin？
 
     B: [https://es6.ruanyifeng.com/#docs/array#%E6%95%B0%E7%BB%84%E5%AE%9E%E4%BE%8B%E7%9A%84-copyWithin](https://es6.ruanyifeng.com/#docs/array#%E6%95%B0%E7%BB%84%E5%AE%9E%E4%BE%8B%E7%9A%84-copyWithin)
 
-    ![image-20201207230254351](<../../.gitbook/assets/image-20201207230254351 (1).png>)
+    ![image-20201207230254351](../../.gitbook/assets/image-20201207230254351.png)
 
     这个API 表示从未用过..
 
@@ -85,7 +85,7 @@
     C: 那用immutable.js继续嗨
 
     B: 哈哈，可以，全都是纯操作\[让我看看]
-7.  ![image-20201207230451095](<../../.gitbook/assets/image-20201207230451095 (1) (1).png>)
+7.  ![image-20201207230451095](../../.gitbook/assets/image-20201207230451095.png)
 
     A: \[让我看看]答案是 2
 
@@ -107,9 +107,9 @@
 
     A: 就好比 const arr = \[1] const a = arr\[0] arr\[0] = 2 a === 1 => true
 
-    B: ![image-20201207230614060](<../../.gitbook/assets/image-20201207230614060 (1).png>)
+    B: ![image-20201207230614060](../../.gitbook/assets/image-20201207230614060.png)
 
-    ![image-20201207230624797](<../../.gitbook/assets/image-20201207230624797 (1).png>)
+    ![image-20201207230624797](../../.gitbook/assets/image-20201207230624797.png)
 
     C: 哇 果然 但是并没有解释到底是如何互相影响的
 
@@ -121,7 +121,7 @@
 
     D: 非严格模式下arguments虽然和参数是两个独立的，但是会形成映射，一个还另一个会跟着改, 对不对，A？
 
-    A: ![image-20201207230741720](<../../.gitbook/assets/image-20201207230741720 (1).png>)
+    A: ![image-20201207230741720](../../.gitbook/assets/image-20201207230741720.png)
 
     对，不过有点瑕疵。
 
@@ -186,7 +186,7 @@
     A: 呃，我是菜鸡，这只是我的方法，意义不大。
 
     C: 感觉还是看硬实力
-8. ![image-20201122151623196](<../../.gitbook/assets/image-20201122151623196 (1) (1).png>)
+8. ![image-20201122151623196](../../.gitbook/assets/image-20201122151623196.png)
 9.  解构的妙用
 
     ![image-20210107192120580](../../.gitbook/assets/image-20210107192120580.png)

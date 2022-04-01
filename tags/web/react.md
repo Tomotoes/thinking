@@ -20,9 +20,9 @@
 
     前端同学可以有空刷一下, 此项目 star 近 9k 是我没想到的..
 6. 为什么 react 还比 vue 火？ - 阿白的回答 - 知乎 [https://www.zhihu.com/question/51690331/answer/1112468309](https://www.zhihu.com/question/51690331/answer/1112468309)
-7. ![image-20201212212006821](<../../.gitbook/assets/image-20201212212006821 (2) (2).png>)
+7. ![image-20201212212006821](../../.gitbook/assets/image-20201212212006821.png)
 8. 快餐文分享: [使用 hooks 的开发模式](https://github.com/dt-fe/weekly/blob/v2/080.%E7%B2%BE%E8%AF%BB%E3%80%8A%E6%80%8E%E4%B9%88%E7%94%A8%20React%20Hooks%20%E9%80%A0%E8%BD%AE%E5%AD%90%E3%80%8B.md)
-9.  ![image-20201224233406549](<../../.gitbook/assets/image-20201224233402596 (2) (1).png>)
+9.  ![image-20201224233406549](../../.gitbook/assets/image-20201224233402596.png)
 
     ​ A: 这条推笑死了, 未来的 React 编程方式.
 
@@ -110,9 +110,9 @@
     B: 好家伙，我垃圾代码看多了，这种没放在 usecallback 的函数我已经习以为常了。。。\
     C: 嗯 每次 render 时, onClick 都是一个新的函数, 而函数是引用类型, 所以 每次render 时 都会重新 render Button 组件...
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (12).png>)
 
-![ 分享下今天 coding 时对 React 的重新思考..](<../../.gitbook/assets/image (11).png>)
+![ 分享下今天 coding 时对 React 的重新思考..](<../../.gitbook/assets/image (17).png>)
 
 ![设计优秀的代码, 看起来就像诗一样的优美..](../../.gitbook/assets/image-20210104232439943.png)
 

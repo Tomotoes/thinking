@@ -19,7 +19,7 @@ description: 想法（暂时没时间继续维护）
     一个随机生成密码的网站, 生成的方式是 通过家里小孩胡乱摁键盘...
 
     这个创意太可爱了\~
-2.  ![image-20201224233022166](<../.gitbook/assets/image-20201224233022166 (1).png>)
+2.  ![image-20201224233022166](../.gitbook/assets/image-20201224233022166.png)
 
     I tried to do a fizzbuzz using modern web platform apis and im terrified that it actually works [https://t.co/SUaYVZAu8j](https://t.co/SUaYVZAu8j)
 

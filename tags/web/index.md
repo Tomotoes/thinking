@@ -114,7 +114,7 @@
     [https://www.bilibili.com/video/BV1x54y1B7RE](https://www.bilibili.com/video/BV1x54y1B7RE)
 
     讲的很不错, 有空可以看看
-24. ![image-20201122150208414](<../../.gitbook/assets/image-20201122150208414 (2) (2).png>)
+24. ![image-20201122150208414](<../../.gitbook/assets/image-20201122150208414 (2) (1).png>)
 25. 好文分享:
 
     Inside look at modern web browser

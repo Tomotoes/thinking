@@ -19,7 +19,7 @@
     教你如何写干净的代码, 文章中的思想,技巧 总结得还是很全面的. 另: 学习不要被编程语言限制, 要有个做科学家的心.
 4.  TypeScript 设计中的最大槽点就是支持鸭子类型。
 
-    ![image-20201124113306313](<../../.gitbook/assets/image-20201124113306313 (1) (1).png>)
+    ![image-20201124113306313](../../.gitbook/assets/image-20201124113306313.png)
 
     每次看到具有该特性的代码, 都令我无法忍受.
 
@@ -231,7 +231,7 @@
 
     1. `[keyof T] keyof T => key1 | key2 | key3 ...`
 
-    `[key1 | key2 | key3 ...]` 可以看成` [Literal type]` 而 `[literal type]` 会执行 "遍历 每一个可成立的字面量"的...
+    `[key1 | key2 | key3 ...]` 可以看成 `[Literal type]` 而 `[literal type]` 会执行 "遍历 每一个可成立的字面量"的...
 
     &#x20;  2\. `{k1:nerver, k2: value}['k1'|'k2]` 此类型返回值是 value 也就是说 会自动过滤掉 `never`
 
@@ -251,7 +251,7 @@
 
     使用 TS 开发 React 项目时需要注意的一些点, 这篇文章是 2018 年写的, 在 medium 上有 8.9k 点赞.. 文章有很多 现在看来的 明显的错误...
 
-    就比如` Don’t use FunctionComponent<P>/FC<P> to define a function component`
+    就比如 `Don’t use FunctionComponent<P>/FC<P> to define a function component`
 
     果然发展的快, 沉淀就成了个问题..
 22. 利用接口 实现 构造函数约束..

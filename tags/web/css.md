@@ -19,7 +19,7 @@
     [https://flexboxfroggy.com/](https://flexboxfroggy.com)
 
     一共24关, 通过写 Flex, 让小青蛙移动到合适的位置 即可过关.
-4. ![image-20201212212132061](<../../.gitbook/assets/image-20201212212132061 (1).png>)
+4. ![image-20201212212132061](../../.gitbook/assets/image-20201212212132061.png)
 5.  2020 CSS 现状报告
 
     [https://2020.stateofcss.com/](https://2020.stateofcss.com)
