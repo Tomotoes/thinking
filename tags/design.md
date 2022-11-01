@@ -9,7 +9,7 @@ description: 设计（暂时没时间继续维护）
     不过现在 Apple 又推出了新的版本： Big Sur。
 
     相比之下 Windows 更像是一个缝合怪，平面设计与 Fluent Design 共存。
-2.  [https://bruno-simon.com/](https://bruno-simon.com)
+2.  [https://bruno-simon.com/](https://bruno-simon.com/)
 
     这是我见过的最酷炫的个人主页，设计游戏让访客产生互动，自行探索信息，创意极佳。
 3.  [https://github.com/home](https://github.com/home)&#x20;

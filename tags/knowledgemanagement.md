@@ -53,7 +53,7 @@ description: 知识管理（暂时没时间继续维护）
     如何使用 RSS：
 
     1. 找到网站（我主要以大佬们的博客为主）的 RSS 链接
-    2. 去 [Feedly](https://feedly.com) 服务，创建账号，搜索 RSS 订阅（想用 mac 的客户端 reeder 发现要 A 区账号而且还要钱。。）
+    2. 去 [Feedly](https://feedly.com/) 服务，创建账号，搜索 RSS 订阅（想用 mac 的客户端 reeder 发现要 A 区账号而且还要钱。。）
     3. 手机也可以下载 Feedly（需要 A 区账号）
 9.  好文分享：
 

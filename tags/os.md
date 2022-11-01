@@ -82,7 +82,7 @@ description: 操作系统（暂时没时间继续维护）
     不过现在 IO 机制的思想，已经很难改变了。
 
     不管是 windows 的 select ，还是 linux 的 epoll ，还是 mac 的 kqueue 实质上都是一种思想 的不同实现。
-16. [你不好奇 Linux 是如何收发网络包的？](https://zhuanlan.zhihu.com/p/339698383)
+16. [你不好奇 Linux 是如何收发网络包的？](https://zhuanlan.zhihu.com/p/339698383?utm\_source=wechat\_session\&utm\_medium=social\&utm\_oi=1088870436204318720\&utm\_campaign=shareopn)
 17. 多个CPU的原子操作通常通过总线锁或者是缓存锁实现，意思就是当某一个核读取一块内存或者是缓存的时候。CPU会拉低系统总线或者是缓存的电平，这样其他核就无法读取被锁定的区域，这样就实现了资源隔离，从而解决并发冲突问题。\
     硬件层面上的原子操作机制。
 18. 看完这篇还不懂高并发中的线程与线程池你来打我(内含20张图)

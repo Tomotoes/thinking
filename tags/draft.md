@@ -112,7 +112,7 @@ description: 草稿整理区（暂时没时间继续维护）
 12. ![image-20210219225937100](../.gitbook/assets/image-20210219225937100.png)
 
     对齐工程师可还行
-13. [https://www.remotion.dev/](https://www.remotion.dev) \
+13. [https://www.remotion.dev/](https://www.remotion.dev/) \
     使用 React 创造 视频...
 
     GUI 表达语法 的扩展程度超出我的想象。

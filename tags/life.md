@@ -80,7 +80,7 @@ description: 生活（暂时没时间继续维护）
 
     [https://mp.weixin.qq.com/s/lsUHCcTljz854ZrJVJpjFw](https://mp.weixin.qq.com/s/lsUHCcTljz854ZrJVJpjFw)
 
-    [https://fant-gp.herokuapp.com/](https://fant-gp.herokuapp.com)
+    [https://fant-gp.herokuapp.com/](https://fant-gp.herokuapp.com/)
 
     [https://github.com/tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github)
 5.  如何摆脱大学差、学历低的焦虑和困窘？ - 胡津铭的回答 - 知乎 [https://www.zhihu.com/question/348607535/answer/1663701384](https://www.zhihu.com/question/348607535/answer/1663701384)

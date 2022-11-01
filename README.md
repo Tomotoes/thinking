@@ -16,7 +16,7 @@ description: Input & Think & Output
 
 由于使用微信群的方式，很多时候 有价值的信息都会被时间掩埋，并且当卸载微信或者换手机时，聊天记录也会丢失。
 
-基于这些痛点，我创建了个站点：[https://thinking.tomotoes.com/](https://thinking.tomotoes.com)
+基于这些痛点，我创建了个站点：[https://thinking.tomotoes.com/](https://thinking.tomotoes.com/)
 
 站点里的内容 皆来自于 思考的价值 微信群，它记录了 自从建群以来 每天有价值的信息。
 

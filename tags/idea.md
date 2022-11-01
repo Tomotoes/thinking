@@ -8,7 +8,7 @@ description: 想法（暂时没时间继续维护）
 
     Toddler Password
 
-    [https://www.toddlerpassword.com/](https://www.toddlerpassword.com)
+    [https://www.toddlerpassword.com/](https://www.toddlerpassword.com/)
 
     摘要: Max is 1.5 years old and really enjoys hitting the keyboard randomly on his parents' laptop! He also loves placing his finger tips on the screen and pointing fiercely on things!
 
@@ -29,7 +29,7 @@ description: 想法（暂时没时间继续维护）
     B: 这个想法可以的 404 拦截所有请求, 然后在提取请求中的参数, 通过参数 访问 github api 找到对应的长链接, 再重定向..
 4.  分享一个有趣的网站: \
     We've all faced rejection. \
-    [https://rejected.us/](https://rejected.us)
+    [https://rejected.us/](https://rejected.us/)
 
     里面是各种大佬求职时 被拒绝的故事... 看的我有点羡慕...
 
@@ -71,7 +71,7 @@ description: 想法（暂时没时间继续维护）
     编程语言创始人 还是 连环杀手，你能选对几个？
 
     我刚刚玩了一把，不明所以.. 为什么要把 这两种不同的人物画像放在一起…
-11. [https://nohello.net/](https://nohello.net) \
+11. [https://nohello.net/](https://nohello.net/) \
     发现了个有趣的网站，传播的主题 和我们平时反感“在吗(却不说事）” 是一样的。
 12. 分享个网站: \
     Akiyoshi's illusion pages \

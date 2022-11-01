@@ -121,6 +121,6 @@ description: 每日一句（暂时没时间继续维护）
 39. 每日一句分享： \
     “Our mission is to organize the world’s information and make it universally accessible and useful.”
 
-    来自 Google 's mission - [https://about.google/](https://about.google)
+    来自 Google 's mission - [https://about.google/](https://about.google/)
 40. 读到一句话，感觉写的很有道理。 \
     人是社会动物，有欲望，有理智；人也是经济动物，凡事会计算利益得失。人永远在利益与代价之间，在理性与感性之间，决定自己的行动。

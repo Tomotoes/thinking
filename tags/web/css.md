@@ -1,6 +1,6 @@
 # CSS
 
-1.  框架分享: Tailwind CSS - [https://tailwindcss.com/](https://tailwindcss.com)
+1.  框架分享: Tailwind CSS - [https://tailwindcss.com/](https://tailwindcss.com/)
 
     Tailwind CSS 是一个高度可定制的基础层 CSS 框架，与其它 CSS 框架不同的是，Tailwind 并不提供预先设计好的内建组件。相反，Tailwind 提供了更基础的工具类（utility classes），可以让你直接在 HTML 源码上构建一个完全定制化的设计。
 
@@ -16,13 +16,13 @@
     作者用多个案例 介绍了 CSS 伪类的使用场景。
 3.  分享一个练习 CSS-Flex 语法的游戏
 
-    [https://flexboxfroggy.com/](https://flexboxfroggy.com)
+    [https://flexboxfroggy.com/](https://flexboxfroggy.com/)
 
     一共24关, 通过写 Flex, 让小青蛙移动到合适的位置 即可过关.
 4. ![image-20201212212132061](../../.gitbook/assets/image-20201212212132061.png)
 5.  2020 CSS 现状报告
 
-    [https://2020.stateofcss.com/](https://2020.stateofcss.com)
+    [https://2020.stateofcss.com/](https://2020.stateofcss.com/)
 
     CSS 在 2020 年使用现状统计，涉及到了 CSS 的一些特性、框架、规范。
 6. [如何只使用CSS提升页面渲染速度](https://mp.weixin.qq.com/s/aPguK-dZr7JMA-s2OOFyjg)
@@ -54,7 +54,7 @@
 11. ![image-20210116154309783](../../.gitbook/assets/image-20210116154309783.png)
 12. 动漫版 flexbox cheat sheets，图示敲可爱\~
 
-    [https://dev.to/joyshaheb/flexbox-cheat-sheets-in-2021-css-2021-3edl?utm\_source=digest\_mailer\&utm\_medium=email\&utm\_campaign=digest\_email](https://dev.to/joyshaheb/flexbox-cheat-sheets-in-2021-css-2021-3edl)
+    [https://dev.to/joyshaheb/flexbox-cheat-sheets-in-2021-css-2021-3edl?utm\_source=digest\_mailer\&utm\_medium=email\&utm\_campaign=digest\_email](https://dev.to/joyshaheb/flexbox-cheat-sheets-in-2021-css-2021-3edl?utm\_source=digest\_mailer\&utm\_medium=email\&utm\_campaign=digest\_email)
 13. CSS 目前的三种趋势: \
     CSS-in-CSS (e.g. CSS, Preloader, CSS Modules) \
     CSS-in-JS (e.g. Styled Components, Emotion) \
@@ -64,7 +64,7 @@
     .some-button:active { background-image: url('some\_image.jpg') }
 
     点击按钮时, 触发 按钮 active 状态, 然后应用到 CSS 规则的 background-image: url(图片地址) 这就相当于对 图片地址 发起了一次网络请求..
-15. 分享个网站: cssdb [https://cssdb.org/](https://cssdb.org)
+15. 分享个网站: cssdb [https://cssdb.org/](https://cssdb.org/)
 
     cssdb is a comprehensive list of CSS features and their positions in the process of becoming implemented web standards.
 

@@ -127,7 +127,7 @@ description: 我们讨论过的事物（暂时没时间继续维护）
 
     A: 哈哈 关注了！
 
-    A: 我之前也在学，然后去实习就停了。。看的这个教程 [http://learnyouahaskell.com/](http://learnyouahaskell.com)
+    A: 我之前也在学，然后去实习就停了。。看的这个教程 [http://learnyouahaskell.com/](http://learnyouahaskell.com/)
 
     C: 巧了，一样 我看的是纸质的趣学指南\~
 9.  A: ts枚举可以约束值的选项吗？
@@ -1021,7 +1021,7 @@ description: 我们讨论过的事物（暂时没时间继续维护）
     A: 会被炒一阵的 现象级应用资本不会放过
 
     A: 出现了 clubhouse 复刻品 [https://github.com/bestony/neshouse](https://github.com/bestony/neshouse) NESHouse.com —— An open source implementation of ClubHouse
-49. 我最近fo了一位大佬: [https://mikukonai.com/](https://mikukonai.com)
+49. 我最近fo了一位大佬: [https://mikukonai.com/](https://mikukonai.com/)
 
     看他的灵感片段 受益良多...
 
@@ -1114,7 +1114,7 @@ description: 我们讨论过的事物（暂时没时间继续维护）
 
     A: 你是喜欢整理，还是真的需要这些
 
-    B: 由于使用微信群的方式，很多时候 有价值的信息都会被时间掩埋，并且当卸载微信或者换手机时，聊天记录也会丢失。 基于这些痛点，我创建了个站点：[https://thinking.tomotoes.com/](https://thinking.tomotoes.com) 站点里的内容 皆来自于 思考的价值 微信群，它记录了 自从建群以来 每天有价值的信息。
+    B: 由于使用微信群的方式，很多时候 有价值的信息都会被时间掩埋，并且当卸载微信或者换手机时，聊天记录也会丢失。 基于这些痛点，我创建了个站点：[https://thinking.tomotoes.com/](https://thinking.tomotoes.com/) 站点里的内容 皆来自于 思考的价值 微信群，它记录了 自从建群以来 每天有价值的信息。
 
     算是一种记录吧。
 

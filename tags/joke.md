@@ -55,7 +55,7 @@ description: 破梗（暂时没时间继续维护）
 19. ![image-20201212212136954](../.gitbook/assets/image-20201212212136954.png)
 20. 对 vanilla js 一致很迷惑。。直到 [https://stackoverflow.com/questions/20435653/what-is-vanillajs](https://stackoverflow.com/questions/20435653/what-is-vanillajs)
 
-    [http://vanilla-js.com/](http://vanilla-js.com) 居然还有个官网，还能下载 可以试试 忽悠 boss 专用
+    [http://vanilla-js.com/](http://vanilla-js.com/) 居然还有个官网，还能下载 可以试试 忽悠 boss 专用
 21. 分享一本朋友最近在看的书： 《如何征服英俊少男》 [https://lady.163.com/photoview/513O0026/47050.html#p=93H0ISUD513O0026](https://lady.163.com/photoview/513O0026/47050.html#p=93H0ISUD513O0026)
 
     摘要：《如何征服英俊少男》是河北人民出版社曾经出版过的一本奇书。这些先辈们智慧的结晶，今天还在指引着求知若渴的青少年朋友。如果能早看到这本书，人生得少走多少弯路啊！
@@ -165,7 +165,7 @@ description: 破梗（暂时没时间继续维护）
 
 ![这帖子绝对是来搞事情的](<../.gitbook/assets/image (14).png>)
 
-​[https://www.reddit.com/r/linux/comments/kkv8kq/my\_boyfriend\_is\_very\_into\_linux\_i\_know\_nothing/?utm\_medium=android\_app\&utm\_source=share](https://www.reddit.com/r/linux/comments/kkv8kq/my\_boyfriend\_is\_very\_into\_linux\_i\_know\_nothing/)
+​[https://www.reddit.com/r/linux/comments/kkv8kq/my\_boyfriend\_is\_very\_into\_linux\_i\_know\_nothing/?utm\_medium=android\_app\&utm\_source=share](https://www.reddit.com/r/linux/comments/kkv8kq/my\_boyfriend\_is\_very\_into\_linux\_i\_know\_nothing/?utm\_medium=android\_app\&utm\_source=share)
 
 
 

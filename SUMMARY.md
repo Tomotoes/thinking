@@ -3,6 +3,7 @@
 * [README](README.md)
 * [Archives](archives/README.md)
   * [2022](archives/2022/README.md)
+    * [4](archives/2022/4.md)
     * [3](archives/2022/3.md)
     * [1](archives/2022/1.md)
     * [2](archives/2022/2.md)
