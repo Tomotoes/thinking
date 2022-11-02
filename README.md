@@ -1,5 +1,5 @@
 ---
-description: Input & Think & Output
+description: Information filtering service
 ---
 
 # README
