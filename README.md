@@ -14,7 +14,7 @@ description: Information filtering service
 
 站点的内容 皆来自于 思考的价值 微信群，它记录了 自从建群以来 每天有价值的信息。
 
-从 22.11 月之后，站点输出的形式固定为周刊。
+从 22.11 月之后，站点输出的形式固定为周刊，周刊 newsletter 服务：[https://simon.zhubai.love/](https://simon.zhubai.love/)。
 
 站点导航:
 
