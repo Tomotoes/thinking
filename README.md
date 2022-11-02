@@ -14,6 +14,8 @@ description: Input & Think & Output
 
 站点里的内容 皆来自于 思考的价值 微信群，它记录了 自从建群以来 每天有价值的信息。
 
+从 22.11 月之后，站点输出的形式固定为周刊。
+
 站点导航:
 
 * [具体的分享领域](https://thinking.tomotoes.com/tags)
@@ -21,7 +23,7 @@ description: Input & Think & Output
 * [某一周分享的汇总](https://thinking.tomotoes.com/archives/2020/12/25-31)
 * [分享汇总](https://thinking.tomotoes.com/archives)
 
-如果你对输出的内容很感兴趣，随时欢迎加群一起交流。
+如果你对内容很感兴趣，随时欢迎加群一起交流。
 
 ### 须知
 
@@ -33,8 +35,6 @@ description: Input & Think & Output
 
 ### 入口
 
-如果你也想加群学习交流，欢迎添加我的微信：`simonaking` 或者扫描下方的二维码。
+马进 邀请你加入飞书群，快点击 [https://applink.feishu.cn/client/chat/chatter/add\_by\_link?link\_token=30bib136-efc6-405f-9652-5ffa17acf0f0 ](https://applink.feishu.cn/client/chat/chatter/add\_by\_link?link\_token=30bib136-efc6-405f-9652-5ffa17acf0f0)加入吧！
 
-并且如果认识 有相同意向的同学, 可以随时拉她/他进群 :)
-
-![](.gitbook/assets/微信图片\_20201227223623.jpg)
+<figure><img src=".gitbook/assets/think.png" alt=""><figcaption></figcaption></figure>
