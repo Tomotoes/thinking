@@ -3,6 +3,7 @@
 * [README](README.md)
 * [Archives](archives/README.md)
   * [2022](archives/2022/README.md)
+    * [思考的价值周刊 第 1 期](archives/2022/si-kao-de-jia-zhi-zhou-kan-di-1-qi.md)
     * [5-10](archives/2022/5-10.md)
     * [4](archives/2022/4.md)
     * [3](archives/2022/3.md)
