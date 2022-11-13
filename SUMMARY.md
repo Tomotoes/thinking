@@ -156,4 +156,4 @@
   * [English](tags/english.md)
   * [Draft](tags/draft.md)
 * [Weekly](weekly/README.md)
-  * [🐱 思考的价值周刊 第 1 期](weekly/1.md)
+  * [🐱 第 1 期周刊](weekly/1.md)
