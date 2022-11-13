@@ -1,7 +1,7 @@
 ---
 cover: ../../.gitbook/assets/🪶 (1).jpeg
 coverY: -846.439648281375
-layout: landing
+layout: editorial
 ---
 
 # 😇 思考的价值周刊 第 1 期
