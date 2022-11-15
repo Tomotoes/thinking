@@ -156,4 +156,5 @@
   * [English](tags/english.md)
   * [Draft](tags/draft.md)
 * [Weekly](weekly/README.md)
+  * [🍐 第 2 期](weekly/2.md)
   * [🐱 第 1 期](weekly/1.md)
