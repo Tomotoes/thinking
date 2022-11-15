@@ -156,4 +156,4 @@
   * [English](tags/english.md)
   * [Draft](tags/draft.md)
 * [Weekly](weekly/README.md)
-  * [🐱 思考的价值周刊 第 1 期](weekly/si-kao-de-jia-zhi-zhou-kan-di-1-qi.md)
+  * [🐱 第 1 期](weekly/1.md)
