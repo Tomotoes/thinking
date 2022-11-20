@@ -156,5 +156,5 @@
   * [English](tags/english.md)
   * [Draft](tags/draft.md)
 * [Weekly](weekly/README.md)
-  * [🍐 第 2 期](weekly/2.md)
-  * [🐱 第 1 期](weekly/1.md)
+  * [🍐 第 2 期 - 鸭子理论与第一性原理](weekly/2.md)
+  * [🐱 第 1 期 - 大厂垄断的 laas](weekly/1.md)
