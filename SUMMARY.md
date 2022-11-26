@@ -156,5 +156,6 @@
   * [English](tags/english.md)
   * [Draft](tags/draft.md)
 * [Weekly](weekly/README.md)
+  * [🍍 第 3 期 - 信息技术 与 人类的相似性](weekly/di-3-qi-xin-xi-ji-shu-yu-ren-lei-de-xiang-si-xing.md)
   * [🍐 第 2 期 - 鸭子理论与第一性原理](weekly/2.md)
   * [🐱 第 1 期 - 大厂垄断的 laas](weekly/1.md)
