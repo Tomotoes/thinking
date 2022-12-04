@@ -40,7 +40,7 @@ description: 我们讨论过的事物（暂时没时间继续维护）
 
     rand2 代表的是一种对立布尔状态, rand5 则是 1-5 随机数 如果 rand2 === 1 那么就 返回 rand5, 否则就 5 + rand5
 
-    ![image-20201122200528263](<../.gitbook/assets/image (1) (1).png>)
+    ![image-20201122200528263](<../.gitbook/assets/image (1) (1) (1).png>)
 4.  A:Kotlin 她真的太美了。
 
     B:\[翻白眼]kotlin 也能在jvm上跑是不是
